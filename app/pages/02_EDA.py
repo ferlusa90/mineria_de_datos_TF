@@ -10,13 +10,7 @@ df = pd.read_csv(ROOT / "data" / "processed" / "streaming_users_processed.csv")
 
 st.title("EDA")
 
-st.write(
-    """
-El analisis exploratorio busca entender el comportamiento de los usuarios antes de sacar
-conclusiones. La regla de lectura es simple: un grafico no vale por verse lindo, vale por
-la pregunta que ayuda a responder.
-"""
-)
+
 
 fig1 = px.histogram(
     df,

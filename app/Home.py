@@ -11,17 +11,14 @@ st.subheader("Proyecto Integrador - Mineria de Datos 1")
 st.markdown(
     """
 **Integrante:** Sanchez Luna Fernando Emmanuel.  
-**Comision:** completar.  
-**Fecha:** junio de 2026.
 
-Este proyecto toma una base de usuarios de streaming y la convierte en un analisis claro,
-ordenado y defendible. La base venia con problemas muy comunes en datos reales:
+Este proyecto toma una base de usuarios de streaming y la convierte en un analisis claro y
+ordenado. La base contaba con problemas muy comunes en datos reales:
 duplicados, categorias escritas de distintas formas, fechas invalidas, valores extremos
 y datos faltantes.
 
-El objetivo fue trabajar como se haria en un caso profesional: primero entender la base,
-despues limpiar con criterio, luego analizar patrones y finalmente comunicar resultados
-sin exagerar lo que los datos permiten concluir.
+El objetivo fue trabajar la base de datos como un caso profesional: primero entender la base,
+despues limpiar con criterio, luego analizar patrones y finalmente comunicar resultados.
 
 Repositorio GitHub: https://github.com/ferlusa90/mineria_de_datos_TF
 

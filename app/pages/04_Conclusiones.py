@@ -27,20 +27,6 @@ acompanamiento o que generos concentran mayor permanencia.
 """
 )
 
-st.subheader("Limitaciones")
-st.write(
-    """
-El analisis es descriptivo. No se cuenta con churn, antiguedad, precio pagado, satisfaccion,
-dispositivos usados ni historial de sesiones. Por eso no corresponde afirmar causalidad ni
-predecir abandono. El alcance es entender patrones con la informacion disponible.
-"""
-)
 
-st.subheader("Proximos pasos")
-st.write(
-    """
-Una mejora natural seria incorporar variables temporales y comerciales: fecha de alta,
-cancelaciones, precio, promociones, cantidad de sesiones y satisfaccion. Con eso se podria
-pasar de describir perfiles a analizar retencion, riesgo de baja o valor del usuario.
-"""
-)
+
+

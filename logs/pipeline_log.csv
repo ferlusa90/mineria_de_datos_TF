@@ -1,0 +1,9 @@
+Paso,Descripción,Filas,Nulos,Retención (%)
+00,Carga del dataset original en una copia de trabajo.,8160,753,100.0
+01,Eliminación de duplicados exactos sin modificar columnas.,8034,753,98.46
+02,"Resolución de user_id repetidos priorizando fecha real, consumo mensual plausible, cercanía al consumo típico y completitud.",8000,743,98.04
+03,"Estandarización de categorías en plan, país y género favorito.",8000,743,98.04
+04,"Conversión de valores imposibles a nulos: edades fuera de 13-100, tiempos negativos, tickets negativos y fechas inválidas/futuras.",8000,1019,98.04
+05,Imputación justificada con medianas/modas segmentadas y fecha mediana global.,8000,0,98.04
+06,Winsorización superior: monthly_watch_time_mins cap=3080.0; customer_support_tickets cap=4.,8000,0,98.04
+07,Normalización final de tipos y exportación del dataset procesado con las mismas columnas originales.,8000,0,98.04

@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.streamlit/secrets.toml
+.env
+venv/
+.venv/
+env/
+
+# Archivos de apoyo usados para preparar el trabajo, no necesarios para la entrega.
+/streaming_users_dirty.json
+/Guia de trabajo final.txt
+/mineria de datos.txt
+/MD_1_Clase_7_desarrollo_TT.ipynb
+/*.pdf

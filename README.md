@@ -1,70 +1,80 @@
-# Proyecto Integrador - Minería de Datos 1
+# Proyecto Integrador - Mineria de Datos 1
 
-## Información general
-Análisis reproducible de usuarios de una plataforma de streaming. El trabajo sigue la guía del proyecto final: inspección, calidad, EDA, PCA, aplicación Streamlit e informe.
+## Informacion general
+Este proyecto analiza usuarios de una plataforma de streaming a partir de un dataset con problemas reales de calidad. El trabajo sigue un proceso completo: inspeccion inicial, limpieza documentada, analisis exploratorio, PCA, comunicacion en Streamlit e informe final. La idea central no es solo "hacer graficos", sino justificar cada decision con evidencia.
+
+Repositorio GitHub: https://github.com/ferlusa90/mineria_de_datos_TF
 
 ## Objetivo del proyecto
-Comprender la calidad y estructura del dataset de usuarios de streaming.
-Preparar una base limpia sin modificar el archivo original.
-Analizar patrones de consumo, soporte y segmentación por plan, país y género favorito.
-Aplicar escalamiento y PCA sobre variables numéricas.
-Comunicar resultados de forma clara y reproducible.
+Comprender la estructura y calidad inicial del dataset.
+Preparar una base confiable sin modificar el archivo original.
+Analizar patrones de consumo, soporte y preferencias de contenido.
+Comparar perfiles por plan, pais, edad y genero favorito.
+Aplicar escalamiento y PCA sobre variables numericas.
+Comunicar resultados de forma clara, reproducible y defendible.
 
 ## Dataset
-El dataset original es `streaming_users_dirty.json`.
-Cada fila representa un usuario de streaming.
-Incluye edad, plan, país, género favorito, tiempo mensual visto, fecha de último login y tickets de soporte.
+El archivo original es `streaming_users_dirty.json`.
+Cada fila representa un usuario de una plataforma de streaming.
+Las variables incluyen edad, plan, pais, genero favorito, consumo mensual, ultimo login y tickets de soporte.
 La base original queda preservada en `data/raw/`.
 La base procesada queda en `data/processed/`.
-El dataset procesado conserva las mismas columnas originales.
-No se agregan columnas al archivo final.
+El dataset final conserva las mismas columnas originales.
+No se agregaron columnas nuevas al archivo procesado.
+Las columnas estandarizadas son las categoricas: plan, pais y genero favorito.
 
 ## Estructura del repositorio
-`data/raw/`: dataset original.
-`data/processed/`: dataset preparado.
-`notebooks/`: desarrollo técnico por etapa.
-`app/`: aplicación Streamlit.
-`reports/`: informe final.
-`logs/`: log ETL.
+`data/raw/`: dataset original sin modificaciones.
+`data/processed/`: dataset final usado en el analisis.
+`notebooks/`: desarrollo tecnico por etapa.
+`app/`: aplicacion Streamlit.
+`reports/`: informe final en PDF.
+`logs/`: registro ETL con trazabilidad del proceso.
+`requirements.txt`: librerias necesarias para ejecutar el proyecto.
 
-## Preparación y calidad de datos
-Se trabajó siempre sobre una copia del dataset.
+## Preparacion y calidad de datos
+Se trabajo sobre una copia para preservar el JSON original.
 Se eliminaron duplicados exactos.
-Se resolvieron `user_id` repetidos priorizando fecha real, consumo plausible, cercanía al consumo típico y completitud.
-Se estandarizaron categorías de plan, país y género.
-Se trataron edades imposibles, tiempos negativos, tickets negativos y fechas inválidas/futuras.
-Se imputaron numéricas con medianas segmentadas y categóricas con modas.
-Se aplicó winsorización superior a consumo mensual y tickets de soporte.
-El proceso completo está registrado en `logs/pipeline_log.csv`.
+Los `user_id` repetidos se resolvieron priorizando fecha real, consumo mensual plausible, cercania al consumo tipico y completitud.
+Se normalizaron variantes de escritura en plan, pais y genero favorito.
+Las edades fuera de 13-100, tiempos negativos, tickets negativos y fechas invalidas/futuras se trataron como nulos.
+La imputacion uso medianas segmentadas para numericas y modas para categoricas.
+Se aplico winsorizacion superior en consumo mensual y tickets de soporte.
+El impacto de cada paso esta documentado en `logs/pipeline_log.csv`.
 
-## Resumen del análisis exploratorio
-El consumo mensual muestra concentración central y cola derecha.
-El análisis de 2 variables revisa edad y consumo mensual.
-El análisis de 3 variables incorpora edad, consumo, tickets de soporte y plan.
-Las correlaciones entre edad, consumo y soporte ayudan a evaluar relaciones lineales.
-Cada resultado se interpreta en `notebooks/03_eda.ipynb` y en la app.
+## Resumen del analisis exploratorio
+El consumo mensual muestra una concentracion central y una cola de usuarios intensivos.
+La edad por si sola no alcanza para explicar completamente el consumo.
+El analisis por plan y soporte permite observar perfiles de uso con distinta friccion operativa.
+El cruce entre edad, consumo y genero favorito ayuda a interpretar preferencias de contenido.
+Las visualizaciones tienen interpretaciones asociadas en `notebooks/03_eda.ipynb` y en Streamlit.
 
-## Reducción de dimensionalidad
-PCA se aplicó sobre `age`, `monthly_watch_time_mins` y `customer_support_tickets`.
-Antes de PCA se utilizó estandarización Z-score.
-El escalamiento se usó solo como matriz temporal de análisis.
-No se guardaron columnas estandarizadas en el dataset final.
-Los resultados están en `notebooks/04_pca.ipynb`.
+## Reduccion de dimensionalidad
+PCA se aplico sobre `age`, `monthly_watch_time_mins` y `customer_support_tickets`.
+Antes de PCA se uso estandarizacion Z-score con `StandardScaler`.
+El escalamiento fue necesario porque las variables tienen unidades distintas.
+La matriz escalada se uso solo para el analisis, no se guardo como columnas nuevas.
+Los resultados e interpretaciones estan en `notebooks/04_pca.ipynb`.
 
-## Visualización interactiva
-La aplicación está en `app/`.
+## Visualizacion interactiva
+La aplicacion esta en `app/`.
+Archivo principal: `app/Home.py`.
+Repositorio GitHub: https://github.com/ferlusa90/mineria_de_datos_TF
 Enlace Streamlit Cloud: pendiente de despliegue.
-Enlace GitHub: https://github.com/ferlusa90/mineria_de_datos_TF
 
-## Cómo ejecutar localmente
-Crear un entorno Python e instalar dependencias:
+## Como ejecutar localmente
+Instalar dependencias:
 `pip install -r requirements.txt`
-Ejecutar la aplicación:
+
+Ejecutar la aplicacion:
 `streamlit run app/Home.py`
 
+Revisar notebooks:
+abrir la carpeta `notebooks/` y ejecutar los archivos en orden del 01 al 05.
+
 ## Conclusiones
-La limpieza fue necesaria para evitar sesgos por duplicados, categorías inconsistentes y extremos.
-La base procesada mantiene trazabilidad y conserva la estructura original.
-El análisis identifica patrones de consumo y soporte útiles para preguntas comerciales.
-PCA aporta una síntesis de perfiles numéricos, pero no reemplaza la interpretación exploratoria.
-Las conclusiones quedan limitadas por las variables disponibles.
+La limpieza fue necesaria para evitar decisiones basadas en ruido.
+La base final queda trazable, sin nulos, sin duplicados y con estructura original preservada.
+El consumo mensual, el soporte y las preferencias de genero permiten describir perfiles de usuario.
+PCA ayuda a resumir variables numericas, pero no reemplaza la interpretacion del EDA.
+Las conclusiones son descriptivas y quedan limitadas por las variables disponibles.

@@ -1,9 +1,19 @@
+# Manejo y transformacion de datos.
 pandas
 numpy
+
+# Visualizacion estatica usada en notebooks.
 matplotlib
 seaborn
+
+# Escalamiento y PCA.
 scikit-learn
+
+# Visualizaciones interactivas en Streamlit.
 plotly
 streamlit
+
+# Generacion del informe PDF y notebooks reproducibles.
 reportlab
 nbformat
+nbclient

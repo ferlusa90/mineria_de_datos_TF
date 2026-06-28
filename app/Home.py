@@ -10,7 +10,7 @@ st.subheader("Proyecto Integrador - Mineria de Datos 1")
 
 st.markdown(
     """
-**Integrantes:** completar con los nombres del grupo.  
+**Integrante:** Sanchez Luna Fernando Emmanuel.  
 **Comision:** completar.  
 **Fecha:** junio de 2026.
 
@@ -24,6 +24,8 @@ despues limpiar con criterio, luego analizar patrones y finalmente comunicar res
 sin exagerar lo que los datos permiten concluir.
 
 Repositorio GitHub: https://github.com/ferlusa90/mineria_de_datos_TF
+
+Aplicacion Streamlit: https://mineriadedatostf-a4hvlnmrwzjjvazcprcx7q.streamlit.app/
 """
 )
 

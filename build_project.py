@@ -485,7 +485,7 @@ Los resultados están en `notebooks/04_pca.ipynb`.
 
 ## Visualización interactiva
 La aplicación está en `app/`.
-Enlace Streamlit Cloud: pendiente de despliegue.
+Enlace Streamlit Cloud: https://mineriadedatostf-a4hvlnmrwzjjvazcprcx7q.streamlit.app/
 Enlace GitHub: https://github.com/ferlusa90/mineria_de_datos_TF
 
 ## Cómo ejecutar localmente
@@ -524,7 +524,7 @@ st.title("Usuarios de Streaming")
 st.subheader("Proyecto Integrador - Minería de Datos 1")
 
 st.markdown("""
-**Integrantes:** completar con los nombres del grupo.
+**Integrante:** Sanchez Luna Fernando Emmanuel.
 
 **Comisión:** completar.
 
@@ -534,6 +534,8 @@ Este proyecto analiza una base de usuarios de streaming con foco en calidad de d
 patrones de consumo, soporte y reducción de dimensionalidad mediante PCA.
 
 Repositorio GitHub: https://github.com/ferlusa90/mineria_de_datos_TF
+
+Aplicacion Streamlit: https://mineriadedatostf-a4hvlnmrwzjjvazcprcx7q.streamlit.app/
 """)
 '''
     (APP_DIR / "Home.py").write_text(home, encoding="utf-8")
@@ -682,7 +684,7 @@ def write_report(raw, processed, log_df):
         ("Limpieza y preparación", f"Se preservó el JSON original en data/raw. El dataset procesado tiene {len(processed)} filas, conserva las mismas columnas y queda documentado en logs/pipeline_log.csv. Se estandarizaron categorías, se imputaron nulos y se aplicó winsorización superior cuando los extremos distorsionaban el análisis."),
         ("Hallazgos EDA", "El consumo mensual presenta concentración central y cola derecha. El análisis de 2 variables revisa edad y consumo; el análisis de 3 variables incorpora soporte y plan para observar perfiles de uso y fricción operativa."),
         ("PCA", "Se aplicó PCA sobre age, monthly_watch_time_mins y customer_support_tickets luego de estandarizar con Z-score. PCA se usó como síntesis exploratoria y no como modelo predictivo."),
-        ("Conclusiones y limitaciones", "La preparación era necesaria para lograr resultados interpretables. Las conclusiones están limitadas por la falta de variables como churn, antigüedad, precio y satisfacción. GitHub: https://github.com/ferlusa90/mineria_de_datos_TF. Streamlit queda pendiente de despliegue público."),
+        ("Conclusiones y limitaciones", "La preparación era necesaria para lograr resultados interpretables. Las conclusiones están limitadas por la falta de variables como churn, antigüedad, precio y satisfacción. GitHub: https://github.com/ferlusa90/mineria_de_datos_TF. Streamlit: https://mineriadedatostf-a4hvlnmrwzjjvazcprcx7q.streamlit.app/."),
     ]
     for title, text in sections:
         story.append(Paragraph(title, styles["Heading2"]))

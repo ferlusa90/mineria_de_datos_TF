@@ -4,6 +4,8 @@
 Este proyecto analiza usuarios de una plataforma de streaming a partir de un dataset con problemas reales de calidad. El trabajo sigue un proceso completo: inspeccion inicial, limpieza documentada, analisis exploratorio, PCA, comunicacion en Streamlit e informe final. La idea central no es solo "hacer graficos", sino justificar cada decision con evidencia.
 
 Repositorio GitHub: https://github.com/ferlusa90/mineria_de_datos_TF
+Aplicacion Streamlit: https://mineriadedatostf-a4hvlnmrwzjjvazcprcx7q.streamlit.app/
+Integrante: Sanchez Luna Fernando Emmanuel
 
 ## Objetivo del proyecto
 Comprender la estructura y calidad inicial del dataset.
@@ -60,7 +62,7 @@ Los resultados e interpretaciones estan en `notebooks/04_pca.ipynb`.
 La aplicacion esta en `app/`.
 Archivo principal: `app/Home.py`.
 Repositorio GitHub: https://github.com/ferlusa90/mineria_de_datos_TF
-Enlace Streamlit Cloud: pendiente de despliegue.
+Enlace Streamlit Cloud: https://mineriadedatostf-a4hvlnmrwzjjvazcprcx7q.streamlit.app/
 
 ## Como ejecutar localmente
 Instalar dependencias:

@@ -6,6 +6,8 @@ Este proyecto analiza usuarios de una plataforma de streaming a partir de un dat
 Repositorio GitHub: https://github.com/ferlusa90/mineria_de_datos_TF
 Aplicacion Streamlit: https://mineriadedatostf-a4hvlnmrwzjjvazcprcx7q.streamlit.app/
 Integrante: Sanchez Luna Fernando Emmanuel
+Comision: tarde
+Fecha: 28/06/2026
 
 ## Objetivo del proyecto
 Comprender la estructura y calidad inicial del dataset.

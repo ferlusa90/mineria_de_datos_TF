@@ -11,6 +11,8 @@ st.subheader("Proyecto Integrador - Mineria de Datos 1")
 st.markdown(
     """
 **Integrante:** Sanchez Luna Fernando Emmanuel.  
+**Comision:** tarde.  
+**Fecha:** 28/06/2026.  
 
 Este proyecto toma una base de usuarios de streaming y la convierte en un analisis claro y
 ordenado. La base contaba con problemas muy comunes en datos reales:

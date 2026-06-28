@@ -14,13 +14,6 @@ variables = ["age", "monthly_watch_time_mins", "customer_support_tickets"]
 
 st.title("PCA")
 
-st.write(
-    """
-PCA es una tecnica para resumir variables numericas en nuevas dimensiones llamadas
-componentes principales. Dicho simple: intenta condensar informacion sin mirar cada
-variable por separado.
-"""
-)
 
 st.subheader("Variables usadas")
 st.write(", ".join(variables))
@@ -28,7 +21,7 @@ st.write(", ".join(variables))
 st.subheader("Por que se escalo")
 st.write(
     """
-Las variables tienen unidades distintas: edad esta en anios, consumo en minutos y soporte
+Las variables tienen unidades distintas: edad esta en años, consumo en minutos y soporte
 en cantidad de tickets. Si no se escalan, los minutos podrian dominar el analisis solo por
 tener numeros mas grandes. Por eso se aplico Z-score con `StandardScaler`.
 """
@@ -77,6 +70,6 @@ st.write(
     """
 La proyeccion permite observar si los planes tienden a agruparse en el espacio numerico.
 Si los colores se mezclan mucho, significa que edad, consumo y soporte no separan de forma
-contundente los planes. Eso tambien es una conclusion valida.
+contundente los planes. 
 """
 )

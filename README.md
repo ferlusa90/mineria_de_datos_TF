@@ -1,12 +1,12 @@
 # Proyecto Integrador - Mineria de Datos 1
 
 ## Informacion general
-Este proyecto analiza usuarios de una plataforma de streaming a partir de un dataset con problemas reales de calidad. El trabajo sigue un proceso completo: inspeccion inicial, limpieza documentada, analisis exploratorio, PCA, comunicacion en Streamlit e informe final. La idea central no es solo "hacer graficos", sino justificar cada decision con evidencia.
-
+Este proyecto analiza usuarios de una plataforma de streaming a partir de un dataset con problemas reales de calidad. El trabajo sigue un proceso completo: inspeccion inicial, limpieza documentada, analisis exploratorio, PCA, comunicacion en Streamlit e informe final. 
 Repositorio GitHub: https://github.com/ferlusa90/mineria_de_datos_TF
 Aplicacion Streamlit: https://mineriadedatostf-a4hvlnmrwzjjvazcprcx7q.streamlit.app/
+
 Integrante: Sanchez Luna Fernando Emmanuel
-Comision: tarde
+Comision: ITSE NODO TARDE
 Fecha: 28/06/2026
 
 ## Objetivo del proyecto
@@ -15,7 +15,7 @@ Preparar una base confiable sin modificar el archivo original.
 Analizar patrones de consumo, soporte y preferencias de contenido.
 Comparar perfiles por plan, pais, edad y genero favorito.
 Aplicar escalamiento y PCA sobre variables numericas.
-Comunicar resultados de forma clara, reproducible y defendible.
+Comunicar resultados de forma clara y reproducible.
 
 ## Dataset
 El archivo original es `streaming_users_dirty.json`.

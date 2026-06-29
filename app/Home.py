@@ -1,33 +1,72 @@
-from pathlib import Path
-
 import streamlit as st
+
+from ui import badges, card, hero_image, inject_global_styles
 
 
 st.set_page_config(page_title="Streaming Users - Mineria de Datos", layout="wide")
+inject_global_styles()
 
 st.title("Usuarios de Streaming")
 st.subheader("Proyecto Integrador - Mineria de Datos 1")
 
-st.markdown(
-    """
-**Integrante:** Sanchez Luna Fernando Emmanuel.  
-**Comision:** tarde.  
-**Fecha:** 28/06/2026.  
+hero_image()
 
-Este proyecto toma una base de usuarios de streaming y la convierte en un analisis claro y
-ordenado. La base contaba con problemas muy comunes en datos reales:
-duplicados, categorias escritas de distintas formas, fechas invalidas, valores extremos
-y datos faltantes.
+badges(["Limpieza de datos", "EDA", "PCA", "Visualizacion", "Streamlit"])
 
-El objetivo fue trabajar la base de datos como un caso profesional: primero entender la base,
-despues limpiar con criterio, luego analizar patrones y finalmente comunicar resultados.
+st.write("")
 
-Repositorio GitHub: https://github.com/ferlusa90/mineria_de_datos_TF
+col1, col2, col3 = st.columns(3)
+with col1:
+    card(
+        "Caso de estudio",
+        "Analisis de usuarios de una plataforma de streaming con variables de consumo, plan, edad, genero favorito y soporte.",
+        "Contexto",
+        soft=True,
+    )
+with col2:
+    card(
+        "Objetivo",
+        "Convertir una base con problemas reales en un dataset confiable, analizable y listo para comunicar hallazgos.",
+        "Proceso",
+        soft=True,
+    )
+with col3:
+    card(
+        "Resultado",
+        "Una app interactiva que ordena el recorrido: dataset, exploracion visual, PCA y conclusiones del proyecto.",
+        "Entrega",
+        soft=True,
+    )
 
-Aplicacion Streamlit: https://mineriadedatostf-a4hvlnmrwzjjvazcprcx7q.streamlit.app/
-"""
-)
+st.write("")
 
-st.info(
-    "Lectura sugerida: primero Dataset, luego EDA, despues PCA y finalmente Conclusiones."
-)
+left, right = st.columns([1.15, 0.85])
+with left:
+    card(
+        "Resumen del proyecto",
+        "La base tenia duplicados, categorias escritas de distintas formas, fechas invalidas, valores extremos y datos faltantes. El trabajo propone una lectura profesional: entender la base, limpiar con criterio, analizar patrones y comunicar resultados con visualizaciones.",
+        "Vision general",
+    )
+with right:
+    card(
+        "Lectura sugerida",
+        "Primero Dataset, luego EDA, despues PCA y finalmente Conclusiones. Ese orden acompana el flujo natural de un proyecto de mineria de datos.",
+        "Recorrido",
+    )
+
+st.write("")
+
+col_a, col_b, col_c = st.columns(3)
+with col_a:
+    st.link_button("Repositorio GitHub", "https://github.com/ferlusa90/mineria_de_datos_TF")
+with col_b:
+    st.link_button(
+        "Aplicacion Streamlit",
+        "https://mineriadedatostf-a4hvlnmrwzjjvazcprcx7q.streamlit.app/",
+    )
+with col_c:
+    card(
+        "Datos del autor",
+        "Sanchez Luna Fernando Emmanuel | Comision tarde | 28/06/2026",
+        "Presentacion",
+    )

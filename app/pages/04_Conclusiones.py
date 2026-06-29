@@ -1,47 +1,49 @@
 import streamlit as st
 
+from ui import card, inject_global_styles
+
+
+inject_global_styles()
 
 st.title("Conclusiones")
 
-st.subheader("Hallazgos")
-st.write(
-    """
-La base necesitaba limpieza antes de cualquier lectura seria. Habia duplicados, categorias
-inconsistentes, fechas invalidas, valores imposibles y extremos que podian empujar el analisis
-hacia conclusiones equivocadas.
+col1, col2 = st.columns(2)
+with col1:
+    card(
+        "Hallazgos",
+        "La base necesitaba limpieza antes de cualquier lectura seria: habia duplicados, categorias inconsistentes, fechas invalidas, valores imposibles y extremos que podian empujar conclusiones equivocadas.",
+        "Resultado principal",
+        soft=True,
+    )
+with col2:
+    card(
+        "Interpretacion general",
+        "El resultado mas importante no es un numero aislado, sino el proceso. La base final queda sin nulos, sin usuarios duplicados y con columnas consistentes para analizar con mas confianza.",
+        "Lectura",
+        soft=True,
+    )
 
-Despues de preparar los datos, el consumo mensual aparece como una variable central para
-entender perfiles. La edad aporta contexto, pero no explica sola el comportamiento. El plan
-y el genero favorito agregan una lectura mas comercial: ayudan a pensar segmentos de uso y
-preferencias de contenido.
-"""
-)
+st.write("")
 
-st.subheader("Interpretacion general")
-st.write(
-    """
-El resultado mas importante no es un numero aislado, sino el proceso. La base final queda
-sin nulos, sin usuarios duplicados y con las mismas columnas originales. Eso permite analizar
-con mas confianza y defender cada decision tomada durante la preparacion.
-"""
-)
+col3, col4 = st.columns(2)
+with col3:
+    card(
+        "Limitaciones",
+        "El analisis es descriptivo. No incluye churn, fecha de alta, antiguedad, precio, satisfaccion, dispositivo ni historial detallado de sesiones; por eso no corresponde afirmar causalidad.",
+        "Alcance",
+    )
+with col4:
+    card(
+        "Proximos pasos",
+        "Para profundizar se podrian incorporar variables temporales y comerciales: altas, cancelaciones, precio, promociones, cantidad de sesiones y satisfaccion. Con eso seria posible estudiar retencion o riesgo de baja.",
+        "Continuidad",
+    )
 
-st.subheader("Limitaciones")
-st.write(
-    """
-El analisis es descriptivo. No se cuenta con variables como churn, fecha de alta, antiguedad,
-precio pagado, satisfaccion, dispositivo o historial detallado de sesiones. Por eso no se
-puede afirmar causalidad ni predecir abandono. Lo correcto es hablar de patrones observados,
-no de causas definitivas.
-"""
-)
+st.write("")
 
-st.subheader("Proximos pasos")
-st.write(
-    """
-Para profundizar el proyecto se podrian incorporar variables temporales y comerciales:
-fecha de alta, cancelaciones, precio, promociones, cantidad de sesiones y satisfaccion.
-Con esa informacion seria posible pasar de describir perfiles a estudiar retencion, riesgo
-de baja o valor del usuario.
-"""
+card(
+    "Cierre",
+    "Despues de preparar los datos, el consumo mensual aparece como una variable central para entender perfiles. La edad aporta contexto, mientras que el plan y el genero favorito suman una lectura comercial para pensar segmentos de uso.",
+    "Sintesis",
+    soft=True,
 )

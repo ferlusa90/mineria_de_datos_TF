@@ -12,6 +12,7 @@ scikit-learn
 # Visualizaciones interactivas en Streamlit.
 plotly
 streamlit
+starlette>=0.40.0
 
 # Generacion del informe PDF y notebooks reproducibles.
 reportlab

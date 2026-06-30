@@ -14,7 +14,7 @@ inject_global_styles()
 
 st.sidebar.title("Navegacion")
 st.sidebar.markdown(
-    "Explora el proyecto en el orden recomendado para seguir el flujo natural del analisis."
+    "Explora el proyecto en el orden recomendado para seguir el flujo natural del an?lisis."
 )
 st.sidebar.markdown("**Recorrido sugerido**")
 st.sidebar.write("1. Dataset")
@@ -35,7 +35,7 @@ st.markdown(
         <h1 style="margin: 0.1rem 0 0.45rem;">Usuarios de Streaming</h1>
         <p style="margin: 0; max-width: 780px; font-size: 1.05rem; line-height: 1.6; color: #5d6b78;">
             Una aplicacion interactiva para analizar usuarios de una plataforma de streaming con foco en calidad de datos,
-            exploracion visual, reduccion de dimensionalidad y comunicacion del proceso.
+            exploraci?n visual, reducci?n de dimensionalidad y comunicaci?n del proceso.
         </p>
     </div>
     """,
@@ -56,7 +56,7 @@ with info_col:
         "Flujo de trabajo",
     )
     st.write("")
-    st.info("La app mantiene el contenido tecnico original, pero reorganiza la presentacion para una lectura mas clara y profesional.")
+    st.info("La app mantiene el contenido tecnico original, pero reorganiza la presentacion para una lectura m?s clara y profesional.")
 
 st.write("")
 
@@ -74,14 +74,14 @@ with tabs[0]:
     with left:
         card(
             "Caso de estudio",
-            "Analisis de usuarios de una plataforma de streaming con variables de consumo, plan, edad, genero favorito y soporte.",
+            "An?lisis de usuarios de una plataforma de streaming con variables de consumo, plan, edad, g?nero favorito y soporte.",
             "Contexto",
             soft=True,
         )
     with right:
         card(
             "Objetivo",
-            "Convertir una base con problemas reales en un dataset confiable, mostrando evidencia antes de cada limpieza y controlando el impacto despues.",
+            "Convertir una base con problemas reales en un dataset confiable, mostrando evidencia antes de cada limpieza y controlando el impacto despu?s.",
             "Proceso",
             soft=True,
         )
@@ -97,14 +97,14 @@ with tabs[1]:
     with c2:
         card(
             "Vista de trabajo",
-            "Se prioriza una lectura clara de diagnostico, limpieza y visualizacion para que el proceso sea auditable y facil de explicar.",
+            "Se prioriza una lectura clara de diagn?stico, limpieza y visualizaci?n para que el proceso sea auditable y f?cil de explicar.",
             "Visualizacion",
             soft=True,
         )
     with c3:
         card(
             "Mensajes clave",
-            "La informacion importante se destaca con cards, metricas e info boxes para que la interpretacion no quede enterrada en una lista larga.",
+            "La informaci?n importante se destaca con cards, m?tricas e info boxes para que la interpretaci?n no quede enterrada en una lista larga.",
             "Resumen",
         )
 
@@ -113,14 +113,14 @@ with tabs[2]:
     with left:
         card(
             "Modelado / PCA",
-            "PCA se usa para resumir las variables numericas principales y observar como se distribuyen los usuarios en un espacio reducido.",
+            "PCA se usa para resumir las variables num?ricas principales y observar c?mo se distribuyen los usuarios en un espacio reducido.",
             "Reduccion",
             soft=True,
         )
     with right:
         card(
             "Estado del proyecto",
-            "No se presenta un modelo predictivo de machine learning; el foco esta puesto en limpieza, EDA, PCA y comunicacion de hallazgos.",
+            "No se presenta un modelo predictivo de machine learning; el foco est? puesto en limpieza, EDA, PCA y comunicaci?n de hallazgos.",
             "Alcance",
             soft=True,
         )
@@ -131,13 +131,13 @@ col_a, col_b = st.columns([1.05, 0.95], gap="large")
 with col_a:
     card(
         "Resumen del proyecto",
-        "La base tenia duplicados, user_id repetidos, categorias escritas de distintas formas, fechas invalidas, valores extremos y datos faltantes. El trabajo sigue una logica de analista junior: diagnosticar, justificar, limpiar y validar.",
+        "La base ten?a duplicados, user_id repetidos, categor?aas escritas de distintas formas, fechas inv?lidas, valores extremos y datos faltantes. El trabajo sigue una l?gica de analista junior: diagnosticar, justificar, limpiar y validar.",
         "Vision general",
     )
 with col_b:
     card(
         "Lectura sugerida",
-        "Primero Dataset, luego EDA, despues PCA y finalmente Conclusiones. Ese orden acompana el flujo natural de un proyecto de mineria de datos.",
+        "Primero Dataset, luego EDA, despu?s PCA y finalmente Conclusiones. Ese orden acompa?a el flujo natural de un proyecto de miner?a de datos.",
         "Recorrido",
         soft=True,
     )
@@ -151,7 +151,7 @@ st.write("")
 
 card(
     "Datos del autor",
-    "Sanchez Luna Fernando Emmanuel | Comision ITSE NODO TARDE | 28/06/2026",
+    "Sanchez Luna Fernando Emmanuel | Comisi?n ITSE NODO TARDE | 28/06/2026",
     "Presentacion",
     soft=True,
 )

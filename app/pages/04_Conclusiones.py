@@ -29,20 +29,20 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
-st.success("La base final queda sin nulos, sin duplicados y con categorias consistentes, lista para analisis y comunicacion.")
+st.success("La base final queda sin nulos, sin duplicados y con categor?aas consistentes, lista para an?lisis y comunicacion.")
 
 col1, col2 = st.columns(2)
 with col1:
     card(
         "Hallazgos",
-        "La base necesitaba limpieza antes de cualquier lectura seria: habia duplicados exactos, user_id repetidos, categorias inconsistentes, fechas invalidas, valores imposibles y extremos.",
+        "La base necesitaba limpieza antes de cualquier lectura seria: habia duplicados exactos, user_id repetidos, categor?aas inconsistentes, fechas invalidas, valores imposibles y extremos.",
         "Resultado principal",
         soft=True,
     )
 with col2:
     card(
         "Interpretacion general",
-        "El resultado mas importante no es un numero aislado, sino el proceso: cada limpieza se apoya en evidencia previa, codigo reproducible y un control posterior.",
+        "El resultado m?s importante no es un n?mero aislado, sino el proceso: cada limpieza se apoya en evidencia previa, codigo reproducible y un control posterior.",
         "Lectura",
         soft=True,
     )
@@ -53,7 +53,7 @@ col3, col4 = st.columns(2)
 with col3:
     card(
         "Limitaciones",
-        "El analisis es descriptivo. No incluye churn, fecha de alta, antiguedad, precio, satisfaccion, dispositivo ni historial detallado; por eso no corresponde afirmar causalidad.",
+        "El an?lisis es descriptivo. No incluye churn, fecha de alta, antiguedad, precio, satisfaccion, dispositivo ni historial detallado; por eso no corresponde afirmar causalidad.",
         "Alcance",
     )
 with col4:
@@ -69,11 +69,11 @@ left, right = st.columns([1.05, 0.95], gap="large")
 with left:
     card(
         "Cierre",
-        "Despues de preparar los datos, el consumo mensual aparece como una variable central para entender perfiles. La limpieza deja una base sin nulos, sin duplicados y con categorias consistentes, lista para EDA y PCA.",
+        "Despues de preparar los datos, el consumo mensual aparece como una variable central para entender perfiles. La limpieza deja una base sin nulos, sin duplicados y con categor?aas consistentes, lista para EDA y PCA.",
         "Sintesis",
         soft=True,
     )
 with right:
     st.info(
-        "La conclusion metodologica es la mas importante: en mineria de datos no conviene interpretar sin antes revisar calidad, justificar transformaciones y validar el resultado."
+        "La conclusion metodol?gica es la m?s importante: en mineria de datos no conviene interpretar sin antes revisar calidad, justificar transformaciones y validar el resultado."
     )

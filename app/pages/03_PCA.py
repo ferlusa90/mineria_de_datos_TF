@@ -34,7 +34,7 @@ st.markdown(
         </div>
         <h1 style="margin: 0.1rem 0 0.35rem;">PCA</h1>
         <p style="margin: 0; max-width: 840px; font-size: 1.02rem; line-height: 1.6; color: #5d6b78;">
-            Esta seccion resume las variables numericas principales y muestra como se distribuyen los usuarios en un espacio reducido.
+            Esta seccion resume las variables num?ricas principales y muestra como se distribuyen los usuarios en un espacio reducido.
         </p>
     </div>
     """,
@@ -52,7 +52,7 @@ with left:
 with right:
     callout(
         "Por que se escalo",
-        "Las variables tienen unidades distintas: edad en anos, consumo en minutos y soporte en tickets. Con Z-score se evita que los minutos dominen solo por tener numeros mas grandes.",
+        "Las variables tienen unidades distintas: edad en a?os, consumo en minutos y soporte en tickets. Con Z-score se evita que los minutos dominen solo por tener n?meros m?s grandes.",
         "Preparacion",
     )
 
@@ -109,5 +109,5 @@ fig2.update_layout(template="plotly_white")
 with st.container(border=True):
     st.plotly_chart(fig2, use_container_width=True)
     st.caption(
-        "La proyeccion permite observar si los planes tienden a agruparse en el espacio numerico. Si los colores se mezclan, edad, consumo y soporte no separan de forma contundente los planes."
+        "La proyeccion permite observar si los planes tienden a agruparse en el espacio num?rico. Si los colores se mezclan, edad, consumo y soporte no separan de forma contundente los planes."
     )

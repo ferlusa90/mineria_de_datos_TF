@@ -40,8 +40,8 @@ st.markdown(
 top_a, top_b = st.columns([1.05, 0.95], gap="large")
 with top_a:
     callout(
-        "Base preparada para el analisis",
-        "El archivo original se conserva en data/raw/ y el procesado queda en data/processed/. La limpieza se documenta con una logica simple: primero se observa el problema, despues se aplica una regla y finalmente se controla el resultado.",
+        "Base preparada para el an?lisis",
+        "El archivo original se conserva en data/raw/ y el procesado queda en data/processed/. La limpieza se documenta con una l?gica simple: primero se observa el problema, despu?s se aplica una regla y finalmente se controla el resultado.",
         "Trazabilidad",
     )
 with top_b:
@@ -64,13 +64,13 @@ col_a, col_b = st.columns([0.9, 1.1])
 with col_a:
     callout(
         "Que representa cada fila",
-        "Cada registro representa un usuario de una plataforma de streaming. Las variables describen edad, plan, pais, genero favorito, minutos de visualizacion, ultimo login y tickets de soporte.",
-        "Unidad de analisis",
+        "Cada registro representa un usuario de una plataforma de streaming. Las variables describen edad, plan, pais, g?nero favorito, minutos de visualizaci?n, ultimo login y tickets de soporte.",
+        "Unidad de an?lisis",
     )
 with col_b:
     card(
         "Lectura rapida de calidad",
-        "La base final no tiene nulos, duplicados exactos ni usuarios repetidos. Tambien mantiene las columnas originales y estandariza categorias para evitar que variantes como std, standard y estandar se lean como grupos distintos.",
+        "La base final no tiene nulos, duplicados exactos ni usuarios repetidos. Tambien mantiene las columnas originales y estandariza categor?aas para evitar que variantes como std, standard y estandar se lean como grupos distintos.",
         "Calidad",
         soft=True,
     )
@@ -90,7 +90,7 @@ with diag_col1:
     st.dataframe(diagnostico, use_container_width=True, hide_index=True)
 with diag_col2:
     st.info(
-        "El diagnostico resume el estado original de la base antes de cualquier transformacion. Sirve como punto de comparacion para medir el impacto de la limpieza."
+        "El diagnostico resume el estado original de la base antes de cualquier transformaci?n. Sirve como punto de comparacion para medir el impacto de la limpieza."
     )
 
 st.markdown("### Codigo y decisiones")
@@ -108,13 +108,13 @@ user_id_repetidos.sort_values("user_id").head(20)""",
         )
 
 with code_col2:
-    with st.expander("Logica usada para elegir un registro cuando un user_id estaba repetido"):
+    with st.expander("L?gica usada para elegir un registro cuando un user_id estaba repetido"):
         st.code(
             """# Criterio de ranking:
 # 1. fecha de login valida y no futura
 # 2. consumo mensual plausible
-# 3. consumo mas cercano al consumo tipico
-# 4. login mas reciente
+# 3. consumo m?s cercano al consumo tipico
+# 4. login m?s reciente
 # 5. mayor completitud
 
 orden = ordenar_usuarios_repetidos(df)

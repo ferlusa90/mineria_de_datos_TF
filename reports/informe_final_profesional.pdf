@@ -46,29 +46,60 @@ endobj
 endobj
 5 0 obj
 <<
-/Length 4126
+/Length 4328
 >>
 stream
 q
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+0.97 0.0 0.0 0.97 0.0 -51.023622 cm
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
 q
 1 0 0 1 48.51969 772.2047 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 56.84811 0 Td (Proyecto Integrador - Mineria de Datos 1) Tj T* -56.84811 0 Td ET
+BT
+1 0 0 1 0 4 Tm
+/F2 20 Tf
+24 TL
+56.84811 0 Td
+(Proyecto Integrador \055 Mineria de Datos 1) Tj
+T*
+-56.84811 0 Td
+ET
 Q
 Q
 q
 1 0 0 1 48.51969 742.2047 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Analisis de usuarios de una plataforma de streaming) Tj T* ET
+BT
+1 0 0 1 0 4 Tm
+/F2 14 Tf
+18 TL
+(Analisis de usuarios de una plataforma de streaming) Tj
+T*
+ET
 Q
 Q
 q
 1 0 0 1 48.51969 697.2047 cm
 q
-BT 1 0 0 1 0 29 Tm 13 TL /F1 10 Tf 0 0 0 rg (Integrante: Sanchez Luna Fernando Emmanuel) Tj  T* (Comision: ITSE NODO TARDE) Tj  T* (Fecha: 28/06/2026) Tj T* ET
+BT
+1 0 0 1 0 29 Tm
+13 TL
+/F1 10 Tf
+0 0 0 rg
+(Integrante\072 Sanchez Luna Fernando Emmanuel) Tj
+T*
+(Comision\072 ITSE NODO TARDE) Tj
+T*
+(Fecha\072 28\05706\0572026) Tj
+T*
+ET
 Q
 Q
 q
@@ -88,79 +119,223 @@ q
 1 0 0 1 48.51969 388.2441 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL (1. Objetivo del trabajo) Tj T* ET
+BT
+1 0 0 1 0 4 Tm
+/F2 18 Tf
+22 TL
+(1\056 Objetivo del trabajo) Tj
+T*
+ET
 Q
 Q
 q
 1 0 0 1 48.51969 341.2441 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 29 Tm /F1 10 Tf 13 TL (El objetivo fue preparar y analizar una base de usuarios de streaming con problemas reales de calidad. El) Tj T* (enfoque usado fue el de un analista de datos junior: primero diagnosticar, despues justificar la limpieza, aplicar) Tj T* (el codigo y finalmente validar el resultado antes de interpretar.) Tj T* ET
+BT
+1 0 0 1 0 29 Tm
+/F1 10 Tf
+13 TL
+(El objetivo fue preparar y analizar una base de usuarios de streaming con problemas reales de calidad\056 El) Tj
+T*
+(enfoque usado fue el de un analista de datos junior\072 primero diagnosticar\054 despues justificar la limpieza\054 aplicar) Tj
+T*
+(el codigo y finalmente validar el resultado antes de interpretar\056) Tj
+T*
+ET
 Q
 Q
 q
 1 0 0 1 48.51969 307.2441 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL (2. Dataset) Tj T* ET
+BT
+1 0 0 1 0 4 Tm
+/F2 18 Tf
+22 TL
+(2\056 Dataset) Tj
+T*
+ET
 Q
 Q
 q
 1 0 0 1 48.51969 155.2441 cm
 q
-.058824 .462745 .431373 rg
-n 0 144 340.1575 -18 re f*
+0.058824 0.462745 0.431373 rg
+n
+0 144 340.1575 -18 re
+f*
 1 1 1 rg
-n 0 126 340.1575 -18 re f*
-.956863 .968627 .976471 rg
-n 0 108 340.1575 -18 re f*
+n
+0 126 340.1575 -18 re
+f*
+0.956863 0.968627 0.976471 rg
+n
+0 108 340.1575 -18 re
+f*
 1 1 1 rg
-n 0 90 340.1575 -18 re f*
-.956863 .968627 .976471 rg
-n 0 72 340.1575 -18 re f*
+n
+0 90 340.1575 -18 re
+f*
+0.956863 0.968627 0.976471 rg
+n
+0 72 340.1575 -18 re
+f*
 1 1 1 rg
-n 0 54 340.1575 -18 re f*
-.956863 .968627 .976471 rg
-n 0 36 340.1575 -18 re f*
+n
+0 54 340.1575 -18 re
+f*
+0.956863 0.968627 0.976471 rg
+n
+0 36 340.1575 -18 re
+f*
 1 1 1 rg
-n 0 18 340.1575 -18 re f*
+n
+0 18 340.1575 -18 re
+f*
 1 1 1 rg
-BT /F2 10 Tf 12 TL ET
-BT 1 0 0 1 6 131 Tm (Indicador) Tj T* ET
-BT 1 0 0 1 204.4252 131 Tm (Valor) Tj T* ET
+BT
+/F2 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 6 131 Tm
+(Indicador) Tj
+T*
+ET
+BT
+1 0 0 1 204.4252 131 Tm
+(Valor) Tj
+T*
+ET
 0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 6 113 Tm (Filas originales) Tj T* ET
-BT 1 0 0 1 204.4252 113 Tm (8,160) Tj T* ET
-BT 1 0 0 1 6 95 Tm (Filas finales) Tj T* ET
-BT 1 0 0 1 204.4252 95 Tm (8,000) Tj T* ET
-BT 1 0 0 1 6 77 Tm (Columnas finales) Tj T* ET
-BT 1 0 0 1 204.4252 77 Tm (8) Tj T* ET
-BT 1 0 0 1 6 59 Tm (Nulos finales) Tj T* ET
-BT 1 0 0 1 204.4252 59 Tm (0) Tj T* ET
-BT 1 0 0 1 6 41 Tm (Duplicados exactos finales) Tj T* ET
-BT 1 0 0 1 204.4252 41 Tm (0) Tj T* ET
-BT 1 0 0 1 6 23 Tm (user_id repetidos finales) Tj T* ET
-BT 1 0 0 1 204.4252 23 Tm (0) Tj T* ET
-BT 1 0 0 1 6 5 Tm (Retencion final) Tj T* ET
-BT 1 0 0 1 204.4252 5 Tm (98.04%) Tj T* ET
+BT
+/F1 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 6 113 Tm
+(Filas originales) Tj
+T*
+ET
+BT
+1 0 0 1 204.4252 113 Tm
+(8\054160) Tj
+T*
+ET
+BT
+1 0 0 1 6 95 Tm
+(Filas finales) Tj
+T*
+ET
+BT
+1 0 0 1 204.4252 95 Tm
+(8\054000) Tj
+T*
+ET
+BT
+1 0 0 1 6 77 Tm
+(Columnas finales) Tj
+T*
+ET
+BT
+1 0 0 1 204.4252 77 Tm
+(8) Tj
+T*
+ET
+BT
+1 0 0 1 6 59 Tm
+(Nulos finales) Tj
+T*
+ET
+BT
+1 0 0 1 204.4252 59 Tm
+(0) Tj
+T*
+ET
+BT
+1 0 0 1 6 41 Tm
+(Duplicados exactos finales) Tj
+T*
+ET
+BT
+1 0 0 1 204.4252 41 Tm
+(0) Tj
+T*
+ET
+BT
+1 0 0 1 6 23 Tm
+(user\137id repetidos finales) Tj
+T*
+ET
+BT
+1 0 0 1 204.4252 23 Tm
+(0) Tj
+T*
+ET
+BT
+1 0 0 1 6 5 Tm
+(Retencion final) Tj
+T*
+ET
+BT
+1 0 0 1 204.4252 5 Tm
+(98\05604\045) Tj
+T*
+ET
 q
 1 J
 1 j
-.85098 .886275 .909804 RG
-.25 w
-n 0 144 m 340.1575 144 l S
-n 0 0 m 340.1575 0 l S
-n 0 0 m 0 144 l S
-n 340.1575 0 m 340.1575 144 l S
-n 0 126 m 340.1575 126 l S
-n 0 108 m 340.1575 108 l S
-n 0 90 m 340.1575 90 l S
-n 0 72 m 340.1575 72 l S
-n 0 54 m 340.1575 54 l S
-n 0 36 m 340.1575 36 l S
-n 0 18 m 340.1575 18 l S
-n 198.4252 0 m 198.4252 144 l S
+0.85098 0.886275 0.909804 RG
+0.25 w
+n
+0 144 m
+340.1575 144 l
+S
+n
+0 0 m
+340.1575 0 l
+S
+n
+0 0 m
+0 144 l
+S
+n
+340.1575 0 m
+340.1575 144 l
+S
+n
+0 126 m
+340.1575 126 l
+S
+n
+0 108 m
+340.1575 108 l
+S
+n
+0 90 m
+340.1575 90 l
+S
+n
+0 72 m
+340.1575 72 l
+S
+n
+0 54 m
+340.1575 54 l
+S
+n
+0 36 m
+340.1575 36 l
+S
+n
+0 18 m
+340.1575 18 l
+S
+n
+198.4252 0 m
+198.4252 144 l
+S
 Q
 Q
 Q
@@ -168,24 +343,44 @@ q
 1 0 0 1 48.51969 121.2441 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL (3. Metodologia de limpieza) Tj T* ET
+BT
+1 0 0 1 0 4 Tm
+/F2 18 Tf
+22 TL
+(3\056 Metodologia de limpieza) Tj
+T*
+ET
 Q
 Q
 q
 1 0 0 1 48.51969 87.24409 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 16 Tm /F1 10 Tf 13 TL (La limpieza se documento con una secuencia reproducible: diagnostico, decision, codigo aplicado y control) Tj T* (posterior. Esta forma permite defender cada transformacion y evita borrar o imputar datos sin evidencia.) Tj T* ET
+BT
+1 0 0 1 0 16 Tm
+/F1 10 Tf
+13 TL
+(La limpieza se documento con una secuencia reproducible\072 diagnostico\054 decision\054 codigo aplicado y control) Tj
+T*
+(posterior\056 Esta forma permite defender cada transformacion y evita borrar o imputar datos sin evidencia\056) Tj
+T*
+ET
 Q
 Q
 q
 1 0 0 1 48.51969 57.24409 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Ejemplo de diagnostico antes de limpiar duplicados:) Tj T* ET
+BT
+1 0 0 1 0 4 Tm
+/F2 14 Tf
+18 TL
+(Ejemplo de diagnostico antes de limpiar duplicados\072) Tj
+T*
+ET
 Q
 Q
- 
+Q
 
 Q
 q
@@ -197,6 +392,13 @@ BT
 /F1-0 12 Tf
 14.4 TL
 ET
+1 1 1 rg
+n
+0 762.5197 595.2756 85.03937 re
+f*
+n
+0 0 595.2756 45.35433 re
+f*
 0.86 0.9 0.92 RG
 0.8 w
 n
@@ -369,132 +571,435 @@ endobj
 endobj
 15 0 obj
 <<
-/Length 5003
+/Length 5428
 >>
 stream
 q
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+0.97 0.0 0.0 0.97 0.0 -51.023622 cm
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
 q
 1 0 0 1 48.51969 742.2047 cm
-%PreformattedPara
 0 0 0 rg
-BT 1 0 0 1 8 46.8 Tm /F3 7.2 Tf 9 TL (duplicados_exactos = raw[raw.duplicated\(keep=False\)]) Tj T* (user_id_repetidos = raw[raw.duplicated\("user_id", keep=False\)]) Tj T*  T* (print\(raw.duplicated\(\).sum\(\)\)) Tj T* (print\(raw.duplicated\("user_id"\).sum\(\)\)) Tj T* (user_id_repetidos.sort_values\("user_id"\).head\(20\)) Tj T* ET
+BT
+1 0 0 1 8 46.8 Tm
+/F3 7.2 Tf
+9 TL
+(duplicados\137exactos \075 raw\133raw\056duplicated\050keep\075False\051\135) Tj
+T*
+(user\137id\137repetidos \075 raw\133raw\056duplicated\050\042user\137id\042\054 keep\075False\051\135) Tj
+T*
+T*
+(print\050raw\056duplicated\050\051\056sum\050\051\051) Tj
+T*
+(print\050raw\056duplicated\050\042user\137id\042\051\056sum\050\051\051) Tj
+T*
+(user\137id\137repetidos\056sort\137values\050\042user\137id\042\051\056head\05020\051) Tj
+T*
+ET
 Q
 q
 1 0 0 1 48.51969 710.2047 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 16 Tm /F1 10 Tf 13 TL (Para user_id repetidos no se eligio una fila al azar. Se priorizo fecha valida, consumo plausible, consumo) Tj T* (cercano al valor tipico, login mas reciente y mayor completitud.) Tj T* ET
+BT
+1 0 0 1 0 16 Tm
+/F1 10 Tf
+13 TL
+(Para user\137id repetidos no se eligio una fila al azar\056 Se priorizo fecha valida\054 consumo plausible\054 consumo) Tj
+T*
+(cercano al valor tipico\054 login mas reciente y mayor completitud\056) Tj
+T*
+ET
 Q
 Q
 q
 1 0 0 1 48.51969 647.2047 cm
-%PreformattedPara
 0 0 0 rg
-BT 1 0 0 1 8 55.8 Tm /F3 7.2 Tf 9 TL (orden = ordenar_usuarios_repetidos\(df\)) Tj T* (df = \() Tj T* (    df.loc[orden]) Tj T* (    .drop_duplicates\(subset="user_id", keep="first"\)) Tj T* (    .sort_values\("user_id"\)) Tj T* (    .reset_index\(drop=True\)) Tj T* (\)) Tj T* ET
+BT
+1 0 0 1 8 55.8 Tm
+/F3 7.2 Tf
+9 TL
+(orden \075 ordenar\137usuarios\137repetidos\050df\051) Tj
+T*
+(df \075 \050) Tj
+T*
+(    df\056loc\133orden\135) Tj
+T*
+(    \056drop\137duplicates\050subset\075\042user\137id\042\054 keep\075\042first\042\051) Tj
+T*
+(    \056sort\137values\050\042user\137id\042\051) Tj
+T*
+(    \056reset\137index\050drop\075True\051) Tj
+T*
+(\051) Tj
+T*
+ET
 Q
 q
 1 0 0 1 48.51969 613.2047 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL (4. Log de transformaciones) Tj T* ET
+BT
+1 0 0 1 0 4 Tm
+/F2 18 Tf
+22 TL
+(4\056 Log de transformaciones) Tj
+T*
+ET
 Q
 Q
 q
 1 0 0 1 79.37008 479.2047 cm
 q
-.184314 .364706 .486275 rg
-n 0 126 436.5354 -14 re f*
+0.184314 0.364706 0.486275 rg
+n
+0 126 436.5354 -14 re
+f*
 1 1 1 rg
-n 0 112 436.5354 -14 re f*
-.956863 .968627 .976471 rg
-n 0 98 436.5354 -14 re f*
+n
+0 112 436.5354 -14 re
+f*
+0.956863 0.968627 0.976471 rg
+n
+0 98 436.5354 -14 re
+f*
 1 1 1 rg
-n 0 84 436.5354 -14 re f*
-.956863 .968627 .976471 rg
-n 0 70 436.5354 -14 re f*
+n
+0 84 436.5354 -14 re
+f*
+0.956863 0.968627 0.976471 rg
+n
+0 70 436.5354 -14 re
+f*
 1 1 1 rg
-n 0 56 436.5354 -14 re f*
-.956863 .968627 .976471 rg
-n 0 42 436.5354 -14 re f*
+n
+0 56 436.5354 -14 re
+f*
+0.956863 0.968627 0.976471 rg
+n
+0 42 436.5354 -14 re
+f*
 1 1 1 rg
-n 0 28 436.5354 -14 re f*
-.956863 .968627 .976471 rg
-n 0 14 436.5354 -14 re f*
+n
+0 28 436.5354 -14 re
+f*
+0.956863 0.968627 0.976471 rg
+n
+0 14 436.5354 -14 re
+f*
 1 1 1 rg
-BT /F2 7 Tf 8 TL ET
-BT 1 0 0 1 6 116 Tm (Paso) Tj T* ET
-BT 1 0 0 1 40.01575 116 Tm (Decision) Tj T* ET
-BT 1 0 0 1 278.126 116 Tm (Filas) Tj T* ET
-BT 1 0 0 1 334.8189 116 Tm (Nulos) Tj T* ET
-BT 1 0 0 1 380.1732 116 Tm (Retencion) Tj T* ET
+BT
+/F2 7 Tf
+8 TL
+ET
+BT
+1 0 0 1 6 116 Tm
+(Paso) Tj
+T*
+ET
+BT
+1 0 0 1 40.01575 116 Tm
+(Decision) Tj
+T*
+ET
+BT
+1 0 0 1 278.126 116 Tm
+(Filas) Tj
+T*
+ET
+BT
+1 0 0 1 334.8189 116 Tm
+(Nulos) Tj
+T*
+ET
+BT
+1 0 0 1 380.1732 116 Tm
+(Retencion) Tj
+T*
+ET
 0 0 0 rg
-BT /F1 7 Tf 8 TL ET
-BT 1 0 0 1 6 102 Tm (0) Tj T* ET
-BT 1 0 0 1 40.01575 102 Tm (Carga del dataset original en una copia de trabajo.) Tj T* ET
-BT 1 0 0 1 278.126 102 Tm (8160) Tj T* ET
-BT 1 0 0 1 334.8189 102 Tm (753) Tj T* ET
-BT 1 0 0 1 380.1732 102 Tm (100.0%) Tj T* ET
-BT 1 0 0 1 6 88 Tm (1) Tj T* ET
-BT 1 0 0 1 40.01575 88 Tm (Eliminacion de duplicados exactos.) Tj T* ET
-BT 1 0 0 1 278.126 88 Tm (8034) Tj T* ET
-BT 1 0 0 1 334.8189 88 Tm (753) Tj T* ET
-BT 1 0 0 1 380.1732 88 Tm (98.46%) Tj T* ET
-BT 1 0 0 1 6 74 Tm (2) Tj T* ET
-BT 1 0 0 1 40.01575 74 Tm (Resolucion de user_id repetidos con ranking de calidad.) Tj T* ET
-BT 1 0 0 1 278.126 74 Tm (8000) Tj T* ET
-BT 1 0 0 1 334.8189 74 Tm (743) Tj T* ET
-BT 1 0 0 1 380.1732 74 Tm (98.04%) Tj T* ET
-BT 1 0 0 1 6 60 Tm (3) Tj T* ET
-BT 1 0 0 1 40.01575 60 Tm (Estandarizacion de categorias equivalentes.) Tj T* ET
-BT 1 0 0 1 278.126 60 Tm (8000) Tj T* ET
-BT 1 0 0 1 334.8189 60 Tm (743) Tj T* ET
-BT 1 0 0 1 380.1732 60 Tm (98.04%) Tj T* ET
-BT 1 0 0 1 6 46 Tm (4) Tj T* ET
-BT 1 0 0 1 40.01575 46 Tm (Conversion de valores imposibles a nulos.) Tj T* ET
-BT 1 0 0 1 278.126 46 Tm (8000) Tj T* ET
-BT 1 0 0 1 334.8189 46 Tm (1019) Tj T* ET
-BT 1 0 0 1 380.1732 46 Tm (98.04%) Tj T* ET
-BT 1 0 0 1 6 32 Tm (5) Tj T* ET
-BT 1 0 0 1 40.01575 32 Tm (Imputacion de nulos con medianas, modas y fecha mediana.) Tj T* ET
-BT 1 0 0 1 278.126 32 Tm (8000) Tj T* ET
-BT 1 0 0 1 334.8189 32 Tm (0) Tj T* ET
-BT 1 0 0 1 380.1732 32 Tm (98.04%) Tj T* ET
-BT 1 0 0 1 6 18 Tm (6) Tj T* ET
-BT 1 0 0 1 40.01575 18 Tm (Winsorizacion superior de consumo mensual y tickets.) Tj T* ET
-BT 1 0 0 1 278.126 18 Tm (8000) Tj T* ET
-BT 1 0 0 1 334.8189 18 Tm (0) Tj T* ET
-BT 1 0 0 1 380.1732 18 Tm (98.04%) Tj T* ET
-BT 1 0 0 1 6 4 Tm (7) Tj T* ET
-BT 1 0 0 1 40.01575 4 Tm (Normalizacion final de tipos y exportacion.) Tj T* ET
-BT 1 0 0 1 278.126 4 Tm (8000) Tj T* ET
-BT 1 0 0 1 334.8189 4 Tm (0) Tj T* ET
-BT 1 0 0 1 380.1732 4 Tm (98.04%) Tj T* ET
+BT
+/F1 7 Tf
+8 TL
+ET
+BT
+1 0 0 1 6 102 Tm
+(0) Tj
+T*
+ET
+BT
+1 0 0 1 40.01575 102 Tm
+(Carga del dataset original en una copia de trabajo\056) Tj
+T*
+ET
+BT
+1 0 0 1 278.126 102 Tm
+(8160) Tj
+T*
+ET
+BT
+1 0 0 1 334.8189 102 Tm
+(753) Tj
+T*
+ET
+BT
+1 0 0 1 380.1732 102 Tm
+(100\0560\045) Tj
+T*
+ET
+BT
+1 0 0 1 6 88 Tm
+(1) Tj
+T*
+ET
+BT
+1 0 0 1 40.01575 88 Tm
+(Eliminacion de duplicados exactos\056) Tj
+T*
+ET
+BT
+1 0 0 1 278.126 88 Tm
+(8034) Tj
+T*
+ET
+BT
+1 0 0 1 334.8189 88 Tm
+(753) Tj
+T*
+ET
+BT
+1 0 0 1 380.1732 88 Tm
+(98\05646\045) Tj
+T*
+ET
+BT
+1 0 0 1 6 74 Tm
+(2) Tj
+T*
+ET
+BT
+1 0 0 1 40.01575 74 Tm
+(Resolucion de user\137id repetidos con ranking de calidad\056) Tj
+T*
+ET
+BT
+1 0 0 1 278.126 74 Tm
+(8000) Tj
+T*
+ET
+BT
+1 0 0 1 334.8189 74 Tm
+(743) Tj
+T*
+ET
+BT
+1 0 0 1 380.1732 74 Tm
+(98\05604\045) Tj
+T*
+ET
+BT
+1 0 0 1 6 60 Tm
+(3) Tj
+T*
+ET
+BT
+1 0 0 1 40.01575 60 Tm
+(Estandarizacion de categorias equivalentes\056) Tj
+T*
+ET
+BT
+1 0 0 1 278.126 60 Tm
+(8000) Tj
+T*
+ET
+BT
+1 0 0 1 334.8189 60 Tm
+(743) Tj
+T*
+ET
+BT
+1 0 0 1 380.1732 60 Tm
+(98\05604\045) Tj
+T*
+ET
+BT
+1 0 0 1 6 46 Tm
+(4) Tj
+T*
+ET
+BT
+1 0 0 1 40.01575 46 Tm
+(Conversion de valores imposibles a nulos\056) Tj
+T*
+ET
+BT
+1 0 0 1 278.126 46 Tm
+(8000) Tj
+T*
+ET
+BT
+1 0 0 1 334.8189 46 Tm
+(1019) Tj
+T*
+ET
+BT
+1 0 0 1 380.1732 46 Tm
+(98\05604\045) Tj
+T*
+ET
+BT
+1 0 0 1 6 32 Tm
+(5) Tj
+T*
+ET
+BT
+1 0 0 1 40.01575 32 Tm
+(Imputacion de nulos con medianas\054 modas y fecha mediana\056) Tj
+T*
+ET
+BT
+1 0 0 1 278.126 32 Tm
+(8000) Tj
+T*
+ET
+BT
+1 0 0 1 334.8189 32 Tm
+(0) Tj
+T*
+ET
+BT
+1 0 0 1 380.1732 32 Tm
+(98\05604\045) Tj
+T*
+ET
+BT
+1 0 0 1 6 18 Tm
+(6) Tj
+T*
+ET
+BT
+1 0 0 1 40.01575 18 Tm
+(Winsorizacion superior de consumo mensual y tickets\056) Tj
+T*
+ET
+BT
+1 0 0 1 278.126 18 Tm
+(8000) Tj
+T*
+ET
+BT
+1 0 0 1 334.8189 18 Tm
+(0) Tj
+T*
+ET
+BT
+1 0 0 1 380.1732 18 Tm
+(98\05604\045) Tj
+T*
+ET
+BT
+1 0 0 1 6 4 Tm
+(7) Tj
+T*
+ET
+BT
+1 0 0 1 40.01575 4 Tm
+(Normalizacion final de tipos y exportacion\056) Tj
+T*
+ET
+BT
+1 0 0 1 278.126 4 Tm
+(8000) Tj
+T*
+ET
+BT
+1 0 0 1 334.8189 4 Tm
+(0) Tj
+T*
+ET
+BT
+1 0 0 1 380.1732 4 Tm
+(98\05604\045) Tj
+T*
+ET
 q
 1 J
 1 j
-.85098 .886275 .909804 RG
-.25 w
-n 0 126 m 436.5354 126 l S
-n 0 0 m 436.5354 0 l S
-n 0 0 m 0 126 l S
-n 436.5354 0 m 436.5354 126 l S
-n 0 112 m 436.5354 112 l S
-n 0 98 m 436.5354 98 l S
-n 0 84 m 436.5354 84 l S
-n 0 70 m 436.5354 70 l S
-n 0 56 m 436.5354 56 l S
-n 0 42 m 436.5354 42 l S
-n 0 28 m 436.5354 28 l S
-n 0 14 m 436.5354 14 l S
-n 34.01575 0 m 34.01575 126 l S
-n 272.126 0 m 272.126 126 l S
-n 328.8189 0 m 328.8189 126 l S
-n 374.1732 0 m 374.1732 126 l S
+0.85098 0.886275 0.909804 RG
+0.25 w
+n
+0 126 m
+436.5354 126 l
+S
+n
+0 0 m
+436.5354 0 l
+S
+n
+0 0 m
+0 126 l
+S
+n
+436.5354 0 m
+436.5354 126 l
+S
+n
+0 112 m
+436.5354 112 l
+S
+n
+0 98 m
+436.5354 98 l
+S
+n
+0 84 m
+436.5354 84 l
+S
+n
+0 70 m
+436.5354 70 l
+S
+n
+0 56 m
+436.5354 56 l
+S
+n
+0 42 m
+436.5354 42 l
+S
+n
+0 28 m
+436.5354 28 l
+S
+n
+0 14 m
+436.5354 14 l
+S
+n
+34.01575 0 m
+34.01575 126 l
+S
+n
+272.126 0 m
+272.126 126 l
+S
+n
+328.8189 0 m
+328.8189 126 l
+S
+n
+374.1732 0 m
+374.1732 126 l
+S
 Q
 Q
 Q
- 
+Q
 
 Q
 q
@@ -506,6 +1011,13 @@ BT
 /F1-0 12 Tf
 14.4 TL
 ET
+1 1 1 rg
+n
+0 762.5197 595.2756 85.03937 re
+f*
+n
+0 0 595.2756 45.35433 re
+f*
 0.86 0.9 0.92 RG
 0.8 w
 n
@@ -636,68 +1148,140 @@ endobj
 endobj
 21 0 obj
 <<
-/Length 2711
+/Length 2941
 >>
 stream
 q
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+0.97 0.0 0.0 0.97 0.0 -51.023622 cm
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
 q
 1 0 0 1 48.51969 774.2047 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL (5. Analisis exploratorio) Tj T* ET
+BT
+1 0 0 1 0 4 Tm
+/F2 18 Tf
+22 TL
+(5\056 Analisis exploratorio) Tj
+T*
+ET
 Q
 Q
 q
 1 0 0 1 48.51969 727.2047 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 29 Tm /F1 10 Tf 13 TL (El EDA muestra que el consumo mensual es una variable central para describir intensidad de uso. La edad) Tj T* -0.046515 Tw (aporta contexto, pero no explica por si sola el comportamiento. El plan, el genero favorito y los tickets de soporte) Tj T* 0 Tw (permiten pensar perfiles mas completos.) Tj T* ET
+BT
+1 0 0 1 0 29 Tm
+/F1 10 Tf
+13 TL
+(El EDA muestra que el consumo mensual es una variable central para describir intensidad de uso\056 La edad) Tj
+T*
+-0.046515 Tw
+(aporta contexto\054 pero no explica por si sola el comportamiento\056 El plan\054 el genero favorito y los tickets de soporte) Tj
+T*
+0 Tw
+(permiten pensar perfiles mas completos\056) Tj
+T*
+ET
 Q
 Q
 q
 1 0 0 1 48.51969 693.2047 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL (6. PCA) Tj T* ET
+BT
+1 0 0 1 0 4 Tm
+/F2 18 Tf
+22 TL
+(6\056 PCA) Tj
+T*
+ET
 Q
 Q
 q
 1 0 0 1 48.51969 646.2047 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 29 Tm /F1 10 Tf 13 TL (PCA se aplico sobre age, monthly_watch_time_mins y customer_support_tickets despues de estandarizar. El) Tj T* (escalamiento fue necesario porque las variables tienen unidades distintas: anos, minutos y cantidad de tickets.) Tj T* (PCA ayuda a resumir variables numericas, pero no reemplaza la interpretacion del EDA.) Tj T* ET
+BT
+1 0 0 1 0 29 Tm
+/F1 10 Tf
+13 TL
+(PCA se aplico sobre age\054 monthly\137watch\137time\137mins y customer\137support\137tickets despues de estandarizar\056 El) Tj
+T*
+(escalamiento fue necesario porque las variables tienen unidades distintas\072 anos\054 minutos y cantidad de tickets\056) Tj
+T*
+(PCA ayuda a resumir variables numericas\054 pero no reemplaza la interpretacion del EDA\056) Tj
+T*
+ET
 Q
 Q
 q
 1 0 0 1 48.51969 612.2047 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL (7. Limitaciones) Tj T* ET
+BT
+1 0 0 1 0 4 Tm
+/F2 18 Tf
+22 TL
+(7\056 Limitaciones) Tj
+T*
+ET
 Q
 Q
 q
 1 0 0 1 48.51969 565.2047 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 29 Tm /F1 10 Tf 13 TL (El dataset no incluye churn, fecha de alta, antiguedad, precio pagado, satisfaccion, dispositivo ni historial) Tj T* (detallado de sesiones. Por eso las conclusiones son descriptivas: muestran patrones observados, no causas) Tj T* (definitivas.) Tj T* ET
+BT
+1 0 0 1 0 29 Tm
+/F1 10 Tf
+13 TL
+(El dataset no incluye churn\054 fecha de alta\054 antiguedad\054 precio pagado\054 satisfaccion\054 dispositivo ni historial) Tj
+T*
+(detallado de sesiones\056 Por eso las conclusiones son descriptivas\072 muestran patrones observados\054 no causas) Tj
+T*
+(definitivas\056) Tj
+T*
+ET
 Q
 Q
 q
 1 0 0 1 48.51969 531.2047 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL (8. Conclusion final) Tj T* ET
+BT
+1 0 0 1 0 4 Tm
+/F2 18 Tf
+22 TL
+(8\056 Conclusion final) Tj
+T*
+ET
 Q
 Q
 q
 1 0 0 1 48.51969 484.2047 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 29 Tm /F1 10 Tf 13 TL (El proyecto deja una base ordenada, trazable y lista para analisis. La conclusion mas importante es) Tj T* (metodologica: antes de interpretar, hay que preparar bien los datos. Sin esa etapa, el analisis puede sonar) Tj T* (convincente, pero apoyarse en errores de carga, duplicados o extremos poco realistas.) Tj T* ET
+BT
+1 0 0 1 0 29 Tm
+/F1 10 Tf
+13 TL
+(El proyecto deja una base ordenada\054 trazable y lista para analisis\056 La conclusion mas importante es) Tj
+T*
+(metodologica\072 antes de interpretar\054 hay que preparar bien los datos\056 Sin esa etapa\054 el analisis puede sonar) Tj
+T*
+(convincente\054 pero apoyarse en errores de carga\054 duplicados o extremos poco realistas\056) Tj
+T*
+ET
 Q
 Q
- 
+Q
 
 Q
 q
@@ -709,6 +1293,13 @@ BT
 /F1-0 12 Tf
 14.4 TL
 ET
+1 1 1 rg
+n
+0 762.5197 595.2756 85.03937 re
+f*
+n
+0 0 595.2756 45.35433 re
+f*
 0.86 0.9 0.92 RG
 0.8 w
 n
@@ -820,26 +1411,26 @@ xref
 0000000127 00000 n 
 0000000176 00000 n 
 0000000556 00000 n 
-0000004734 00000 n 
-0002966111 00000 n 
-0002991748 00000 n 
-0003002362 00000 n 
-0003002469 00000 n 
-0003002577 00000 n 
-0003002690 00000 n 
-0003002803 00000 n 
-0003002909 00000 n 
-0003003244 00000 n 
-0003008300 00000 n 
-0003033939 00000 n 
-0003044554 00000 n 
-0003044662 00000 n 
-0003044775 00000 n 
-0003045110 00000 n 
-0003047874 00000 n 
-0003073513 00000 n 
-0003084128 00000 n 
-0003084236 00000 n 
+0000004936 00000 n 
+0002966313 00000 n 
+0002991950 00000 n 
+0003002564 00000 n 
+0003002671 00000 n 
+0003002779 00000 n 
+0003002892 00000 n 
+0003003005 00000 n 
+0003003111 00000 n 
+0003003446 00000 n 
+0003008927 00000 n 
+0003034566 00000 n 
+0003045181 00000 n 
+0003045289 00000 n 
+0003045402 00000 n 
+0003045737 00000 n 
+0003048731 00000 n 
+0003074370 00000 n 
+0003084985 00000 n 
+0003085093 00000 n 
 trailer
 <<
 /Size 26
@@ -847,5 +1438,5 @@ trailer
 /Info 1 0 R
 >>
 startxref
-3084349
+3085206
 %%EOF

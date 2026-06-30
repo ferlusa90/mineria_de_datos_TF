@@ -1,5 +1,5 @@
 user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,last_login_date,customer_support_tickets
-10000,39,Estándar,805.8,Brasil,Crimen,2025-03-04,4
+10000,39,Estándar,805.8,Brasil,Crimen,2025-03-04,5
 10001,37,Estándar,1173.4,Colombia,Crimen,2019-04-02,2
 10002,28,Básico,401.0,Colombia,Crimen,2018-04-13,0
 10003,43,Básico,62.4,Uruguay,Thriller,2021-01-31,0
@@ -24,7 +24,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 10022,33,Básico,14.5,Argentina,Drama,2020-03-25,0
 10023,33,Básico,660.4,Argentina,Drama,2025-04-15,0
 10024,33,Premium,776.0,Perú,Thriller,2025-11-12,0
-10025,18,Premium,3080.0,Brasil,Thriller,2024-02-11,1
+10025,18,Premium,3628.4,Brasil,Thriller,2024-02-11,1
 10026,40,Básico,723.9,México,Acción,2022-09-15,2
 10027,42,Premium,845.5,Uruguay,Romance,2020-06-21,0
 10028,22,Premium,1168.3,Argentina,Documental,2023-01-14,0
@@ -76,7 +76,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 10074,51,Premium,925.5,Chile,Acción,2022-02-03,1
 10075,23,Estándar,658.2,Chile,Thriller,2019-10-29,1
 10076,38,Básico,1150.4,Uruguay,Crimen,2022-02-14,1
-10077,18,Premium,3080.0,Chile,Documental,2021-12-26,0
+10077,18,Premium,3628.4,Chile,Documental,2021-12-26,0
 10078,33,Premium,1059.7,Perú,Drama,2020-05-08,0
 10079,26,Premium,1168.3,Argentina,Crimen,2025-07-08,0
 10080,38,Estándar,1461.7,México,Crimen,2020-12-29,1
@@ -175,7 +175,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 10173,44,Estándar,545.8,Colombia,Crimen,2020-03-25,0
 10174,27,Premium,1221.6,Brasil,Acción,2019-09-19,2
 10175,42,Basico,1140.9,Colombia,Documental,2022-03-12,1
-10176,30,Básico,3080.0,Brasil,Thriller,2019-10-24,1
+10176,30,Básico,3628.4,Brasil,Thriller,2019-10-24,1
 10177,22,Premium,1340.2,Brasil,Comedia,2024-01-19,1
 10178,36,Básico,501.2,Chile,Acción,2023-12-13,1
 10179,41,Básico,0.0,Chile,Thriller,2018-01-03,0
@@ -242,7 +242,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 10240,18,Básico,596.2,México,Thriller,2023-10-07,0
 10241,18,Estándar,1090.9,Argentina,Acción,2020-09-01,0
 10242,42,Estándar,354.1,Chile,Acción,2021-02-14,0
-10243,46,Estándar,3080.0,Colombia,Thriller,2025-07-03,2
+10243,46,Estándar,3628.4,Colombia,Thriller,2025-07-03,2
 10244,47,Básico,1099.0,Argentina,Documental,2023-06-12,0
 10245,21,Premium,1119.3,Uruguay,Acción,2020-05-27,0
 10246,17,Estándar,1113.7,México,Acción,2024-01-18,0
@@ -299,7 +299,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 10297,47,Estándar,642.2,Perú,Thriller,2020-05-25,1
 10298,28,Básico,266.5,Chile,Romance,2022-07-01,0
 10299,52,Premium,1351.9,Uruguay,Acción,2018-08-29,1
-10300,48,Básico,736.3,Colombia,Romance,2019-11-06,4
+10300,48,Básico,736.3,Colombia,Romance,2019-11-06,5
 10301,56,Básico,1043.8,Brasil,Comedia,2022-02-14,0
 10302,27,Estándar,1096.9,Brasil,Documental,2018-01-09,1
 10303,46,Premium,1087.6,Brasil,Thriller,2022-05-19,1
@@ -341,7 +341,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 10339,27,Estándar,821.0,Chile,Acción,2024-05-22,0
 10340,28,Premium,1390.2,Chile,Documental,2020-10-05,1
 10341,44,Básico,381.4,Perú,Thriller,2024-06-29,0
-10342,38,Básico,3080.0,Colombia,Drama,2024-09-01,0
+10342,38,Básico,3628.4,Colombia,Drama,2024-09-01,0
 10343,13,Estándar,755.2,México,Drama,2018-12-06,0
 10344,45,Premium,1126.6,Perú,Romance,2024-12-11,0
 10345,42,Básico,342.2,México,Acción,2018-12-02,2
@@ -365,7 +365,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 10363,42,Estándar,924.6,Uruguay,Documental,2023-02-16,1
 10364,20,Básico,584.7,Colombia,Thriller,2021-07-19,0
 10365,66,Básico,394.6,Brasil,Acción,2018-10-25,1
-10366,44,Premium,1085.7,Colombia,Documental,2018-02-08,4
+10366,44,Premium,1085.7,Colombia,Documental,2018-02-08,5
 10367,19,Básico,844.1,Chile,Acción,2023-02-21,0
 10368,40,Premium,1306.4,Perú,Drama,2024-12-19,0
 10369,43,Básico,0.0,Argentina,Acción,2022-02-14,2
@@ -429,7 +429,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 10427,30,Básico,598.6,Brasil,Thriller,2024-03-09,1
 10428,14,Estándar,909.1,Brasil,Acción,2025-11-30,0
 10429,44,Estandar,652.4,Chile,Acción,2022-10-18,0
-10430,16,Básico,3080.0,Argentina,Drama,2022-02-14,3
+10430,16,Básico,3628.4,Argentina,Drama,2022-02-14,3
 10431,14,Básico,697.9,México,Romance,2018-02-09,0
 10432,35,Básico,563.2,México,Crimen,2019-04-04,3
 10433,32,Estándar,452.1,Perú,Acción,2018-11-05,1
@@ -480,7 +480,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 10478,15,Estándar,1014.6,Argentina,Comedia,2023-03-01,0
 10479,29,Estándar,984.5,Colombia,Drama,2021-12-03,1
 10480,42,Básico,446.7,Argentina,Thriller,2021-06-04,2
-10481,37,Estándar,3080.0,Chile,Thriller,2020-07-21,0
+10481,37,Estándar,3628.4,Chile,Thriller,2020-07-21,0
 10482,46,Básico,714.0,Uruguay,Romance,2020-07-02,0
 10483,22,Básico,2897.0,Argentina,Documental,2018-04-07,1
 10484,43,Básico,443.4,Uruguay,Documental,2025-05-27,0
@@ -525,7 +525,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 10523,20,Premium,1434.9,Colombia,Crimen,2024-01-15,0
 10524,24,Estándar,654.9,Brasil,Documental,2025-09-14,1
 10525,46,Estándar,1021.9,Perú,Romance,2025-07-09,0
-10526,37,Básico,3080.0,Uruguay,Drama,2020-03-18,1
+10526,37,Básico,3293.6,Uruguay,Drama,2020-03-18,1
 10527,45,Premium,1084.7,Uruguay,Acción,2022-01-31,1
 10528,42,Premium,1056.5,Colombia,Comedia,2022-11-02,1
 10529,34,Básico,590.1,Uruguay,Thriller,2018-10-14,0
@@ -577,7 +577,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 10575,42,Básico,471.5,Brasil,Thriller,2025-05-22,1
 10576,24,Estándar,230.6,Uruguay,Documental,2018-12-14,0
 10577,44,Básico,404.6,Argentina,Romance,2021-03-08,2
-10578,28,Básico,412.2,Uruguay,Romance,2023-10-13,4
+10578,28,Básico,412.2,Uruguay,Romance,2023-10-13,5
 10579,33,Estandar,1005.2,Chile,Acción,2025-06-12,0
 10580,37,Basico,782.1,México,Documental,2025-02-05,0
 10581,31,Premium,1119.3,Uruguay,Comedia,2024-12-11,2
@@ -587,7 +587,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 10585,17,Básico,1185.9,Argentina,Comedia,2025-07-18,2
 10586,44,Premium,1119.3,Uruguay,Documental,2021-06-25,1
 10587,31,Básico,825.0,Argentina,Romance,2020-07-09,0
-10588,31,Básico,3080.0,Brasil,Documental,2020-03-26,1
+10588,31,Básico,3628.4,Brasil,Documental,2020-03-26,1
 10589,35,Estándar,632.6,Uruguay,Documental,2019-08-27,1
 10590,13,Premium,1336.3,Colombia,Thriller,2018-04-11,1
 10591,33,Básico,694.2,Perú,Romance,2018-07-09,0
@@ -608,7 +608,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 10606,28,Básico,981.7,Colombia,Crimen,2019-08-28,1
 10607,37,Estándar,730.9,Chile,Comedia,2025-05-11,0
 10608,13,Premium,1265.9,Colombia,Documental,2025-09-17,2
-10609,21,Básico,931.8,México,Crimen,2018-01-23,4
+10609,21,Básico,931.8,México,Crimen,2018-01-23,5
 10610,30,Estándar,539.9,Brasil,Documental,2019-03-13,2
 10611,13,Básico,112.6,Argentina,Romance,2022-10-08,0
 10612,31,Estándar,1153.7,Perú,Acción,2020-06-15,1
@@ -747,7 +747,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 10745,28,Estándar,1158.8,Chile,Drama,2024-12-19,0
 10746,44,Premium,1297.0,México,Romance,2019-09-17,0
 10747,39,Estándar,700.3,Brasil,Drama,2020-09-04,1
-10748,31,Premium,1220.5,Chile,Thriller,2019-06-02,4
+10748,31,Premium,1220.5,Chile,Thriller,2019-06-02,5
 10749,22,Básico,224.9,Uruguay,Acción,2023-04-24,1
 10750,23,Básico,714.4,Brasil,Thriller,2025-07-05,2
 10751,33,Básico,167.4,Chile,Acción,2019-04-14,0
@@ -792,7 +792,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 10790,42,Básico,378.7,Chile,Comedia,2022-02-26,1
 10791,16,Básico,0.0,Perú,Romance,2018-10-10,0
 10792,28,Básico,772.8,Chile,Thriller,2023-09-04,0
-10793,54,Básico,3080.0,Brasil,Acción,2025-04-06,0
+10793,54,Básico,3628.4,Brasil,Acción,2025-04-06,0
 10794,36,Premium,1045.5,Chile,Comedia,2021-10-29,2
 10795,44,Estándar,396.8,México,Comedia,2018-02-21,1
 10796,40,Básico,479.1,Chile,Drama,2022-09-17,1
@@ -810,7 +810,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 10808,41,Básico,809.6,México,Acción,2025-04-18,0
 10809,50,Premium,1433.6,Uruguay,Comedia,2021-01-11,1
 10810,31,Premium,1224.2,Perú,Drama,2024-11-27,0
-10811,26,Estándar,1303.8,Brasil,Comedia,2024-01-14,4
+10811,26,Estándar,1303.8,Brasil,Comedia,2024-01-14,5
 10812,32,Estándar,747.4,Perú,Comedia,2023-06-04,0
 10813,55,Básico,805.0,Colombia,Acción,2023-03-20,1
 10814,41,Básico,30.5,Argentina,Romance,2022-11-20,1
@@ -819,7 +819,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 10817,43,Premium,1281.6,Uruguay,Drama,2021-08-13,0
 10818,30,Básico,684.4,Uruguay,Romance,2020-10-02,1
 10819,34,Premium,334.2,México,Acción,2018-12-21,1
-10820,55,Premium,3080.0,Uruguay,Romance,2021-02-16,0
+10820,55,Premium,3628.4,Uruguay,Romance,2021-02-16,0
 10821,31,Premium,935.2,Perú,Comedia,2023-01-21,1
 10822,33,Básico,344.1,Mexico,Thriller,2020-09-25,1
 10823,49,Básico,759.2,Argentina,Crimen,2023-03-19,0
@@ -893,7 +893,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 10891,40,Estándar,1711.6,Brasil,Documental,2020-06-05,0
 10892,20,Básico,723.3,Uruguay,Thriller,2023-06-07,2
 10893,39,Estándar,870.7,Uruguay,Romance,2021-02-06,0
-10894,39,Básico,3080.0,Perú,Acción,2024-08-11,0
+10894,39,Básico,3628.4,Perú,Acción,2024-08-11,0
 10895,57,Basico,439.5,Chile,Romance,2023-11-19,1
 10896,40,Premium,1025.0,Uruguay,Thriller,2024-09-10,1
 10897,35,Básico,301.5,Chile,Documental,2021-03-05,0
@@ -902,7 +902,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 10900,51,Básico,93.6,Uruguay,Romance,2021-04-28,0
 10901,21,Estándar,1400.1,Colombia,Crimen,2020-07-20,2
 10902,32,Estandar,610.1,Uruguay,Crimen,2022-01-18,0
-10903,41,Premium,3080.0,Brasil,Drama,2020-01-05,0
+10903,41,Premium,3628.4,Brasil,Drama,2020-01-05,0
 10904,35,Básico,1103.2,Brasil,Documental,2021-05-23,0
 10905,29,Básico,473.0,México,Acción,2018-02-27,1
 10906,38,Estándar,558.1,Perú,Comedia,2025-12-10,0
@@ -1020,7 +1020,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 11018,44,Básico,817.4,Brasil,Thriller,2021-05-30,0
 11019,39,Básico,0.0,Uruguay,Crimen,2025-11-06,2
 11020,54,Básico,256.7,Colombia,Thriller,2022-07-07,0
-11021,18,Estándar,3080.0,Perú,Thriller,2021-01-20,1
+11021,18,Estándar,3628.4,Perú,Thriller,2021-01-20,1
 11022,36,Premium,1169.3,Uruguay,Acción,2022-02-14,0
 11023,45,Premium,1207.3,Perú,Acción,2024-01-21,0
 11024,22,Estándar,1404.0,Argentina,Crimen,2023-07-16,0
@@ -1051,7 +1051,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 11049,40,Básico,659.7,Perú,Romance,2021-02-13,2
 11050,64,Básico,722.4,Uruguay,Drama,2020-01-14,0
 11051,25,Estándar,831.5,Uruguay,Acción,2024-07-25,0
-11052,34,Estándar,995.6,Uruguay,Thriller,2022-11-21,4
+11052,34,Estándar,995.6,Uruguay,Thriller,2022-11-21,5
 11053,35,Premium,559.7,Colombia,Thriller,2025-02-13,0
 11054,45,Estándar,562.6,Chile,Comedia,2023-07-08,0
 11055,30,Estándar,145.6,Uruguay,Thriller,2019-01-09,4
@@ -1071,7 +1071,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 11069,40,Estándar,879.1,Brasil,Romance,2025-06-06,1
 11070,31,Básico,907.9,Colombia,Comedia,2022-06-29,0
 11071,25,Básico,756.3,México,Acción,2024-03-03,2
-11072,22,Estándar,3080.0,Brasil,Drama,2018-05-31,2
+11072,22,Estándar,3628.4,Brasil,Drama,2018-05-31,2
 11073,45,Premium,1143.6,Chile,Comedia,2023-02-06,0
 11074,16,Básico,415.1,Uruguay,Romance,2018-12-27,2
 11075,44,Básico,345.4,Colombia,Crimen,2021-07-12,0
@@ -1144,7 +1144,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 11142,44,Básico,142.4,Chile,Drama,2021-10-24,1
 11143,34,Básico,922.8,México,Comedia,2023-09-11,1
 11144,13,Básico,339.8,México,Acción,2020-12-30,0
-11145,24,Básico,606.4,Colombia,Comedia,2018-01-11,4
+11145,24,Básico,606.4,Colombia,Comedia,2018-01-11,5
 11146,40,Básico,450.6,Colombia,Romance,2021-03-04,1
 11147,35,Básico,985.9,México,Documental,2021-05-07,0
 11148,45,Básico,80.7,Colombia,Acción,2024-08-01,1
@@ -1159,9 +1159,9 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 11157,45,Premium,1238.0,Uruguay,Documental,2021-09-23,0
 11158,25,Estándar,583.1,Colombia,Drama,2024-03-10,1
 11159,34,Premium,663.5,Perú,Documental,2024-02-04,1
-11160,34,Básico,899.4,Brasil,Thriller,2022-03-26,4
+11160,34,Básico,899.4,Brasil,Thriller,2022-03-26,5
 11161,32,Básico,889.2,Chile,Drama,2023-02-09,0
-11162,13,Estándar,818.7,Argentina,Crimen,2021-08-11,4
+11162,13,Estándar,818.7,Argentina,Crimen,2021-08-11,5
 11163,23,Estándar,628.5,Argentina,Crimen,2020-02-12,2
 11164,39,Básico,552.1,Colombia,Comedia,2025-10-27,0
 11165,20,Premium,1416.0,Argentina,Drama,2020-09-05,0
@@ -1172,7 +1172,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 11170,38,Básico,671.3,Argentina,Comedia,2018-06-28,1
 11171,15,Premium,1070.9,Uruguay,Documental,2021-07-27,0
 11172,34,Premium,2038.7,Argentina,Romance,2023-04-22,0
-11173,39,Básico,1177.4,Chile,Acción,2025-11-28,4
+11173,39,Básico,1177.4,Chile,Acción,2025-11-28,5
 11174,34,Premium,1728.9,Argentina,Acción,2022-04-11,1
 11175,35,Estándar,1009.7,Colombia,Thriller,2022-05-01,1
 11176,36,Estándar,1005.6,Brasil,Acción,2025-06-11,0
@@ -1249,7 +1249,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 11247,31,Estándar,1237.9,México,Thriller,2018-11-20,2
 11248,24,Premium,1126.1,Chile,Romance,2024-01-11,2
 11249,28,Premium,697.9,Brasil,Crimen,2022-04-16,1
-11250,49,Básico,3080.0,Brasil,Drama,2024-12-13,1
+11250,49,Básico,3628.4,Brasil,Drama,2024-12-13,1
 11251,42,Básico,407.7,Uruguay,Romance,2025-08-30,1
 11252,22,Estándar,813.6,México,Drama,2020-09-13,1
 11253,32,Premium,1097.2,Uruguay,Romance,2023-08-01,1
@@ -1303,7 +1303,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 11301,25,Premium,1194.3,Perú,Thriller,2023-07-28,2
 11302,41,Estándar,837.6,México,Documental,2021-03-18,2
 11303,19,Premium,1126.6,Perú,Crimen,2022-02-14,2
-11304,13,Básico,3080.0,Perú,Crimen,2024-10-22,0
+11304,13,Básico,3628.4,Perú,Crimen,2024-10-22,0
 11305,13,Básico,611.6,México,Thriller,2021-12-14,0
 11306,20,Básico,504.5,Uruguay,Documental,2020-06-16,1
 11307,15,Básico,696.3,Perú,Acción,2025-02-20,0
@@ -1336,13 +1336,13 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 11334,59,Básico,640.3,Perú,Comedia,2022-02-07,1
 11335,13,Estándar,476.2,Argentina,Drama,2023-12-15,0
 11336,16,Básico,192.9,Chile,Comedia,2023-08-18,1
-11337,60,Básico,606.7,Uruguay,Documental,2021-01-21,4
+11337,60,Básico,606.7,Uruguay,Documental,2021-01-21,5
 11338,39,Básico,706.5,Chile,Romance,2019-11-05,0
 11339,14,Premium,1085.7,Colombia,Crimen,2020-11-18,0
 11340,40,Estándar,833.6,Perú,Documental,2023-05-28,2
 11341,22,Estándar,559.8,Chile,Crimen,2021-04-23,2
 11342,48,Premium,1369.1,Uruguay,Acción,2021-10-19,0
-11343,22,Premium,281.5,Chile,Comedia,2019-04-17,4
+11343,22,Premium,281.5,Chile,Comedia,2019-04-17,5
 11344,34,Estándar,821.8,Colombia,Comedia,2023-04-03,0
 11345,39,Básico,221.4,México,Thriller,2018-11-05,0
 11346,69,Básico,806.8,Perú,Romance,2019-07-31,0
@@ -1359,7 +1359,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 11357,46,Básico,526.1,México,Crimen,2024-01-07,0
 11358,36,Básico,281.5,Colombia,Drama,2019-05-22,0
 11359,25,Básico,189.8,Perú,Romance,2023-02-06,0
-11360,26,Básico,3080.0,México,Acción,2022-02-18,0
+11360,26,Básico,3628.4,México,Acción,2022-02-18,0
 11361,44,Premium,1176.6,México,Acción,2025-07-18,0
 11362,56,Basico,651.7,Brasil,Drama,2025-07-16,0
 11363,26,Premium,1119.3,Uruguay,Comedia,2020-12-09,0
@@ -1489,13 +1489,13 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 11487,15,Estándar,488.9,Argentina,Acción,2023-08-26,0
 11488,25,Estándar,563.4,Argentina,Documental,2020-06-26,0
 11489,29,Básico,158.0,Brasil,Comedia,2024-11-24,0
-11490,42,Estándar,3080.0,Peru,Acción,2018-06-27,1
+11490,42,Estándar,3622.4,Peru,Acción,2018-06-27,1
 11491,34,Estándar,1134.9,Colombia,Comedia,2025-05-22,1
 11492,26,Premium,1004.4,Brasil,Crimen,2023-11-06,1
 11493,38,Estandar,904.3,Perú,Thriller,2021-05-20,0
 11494,31,Estándar,633.3,México,Documental,2023-02-20,1
 11495,20,Premium,1481.1,Chile,Documental,2025-03-20,2
-11496,40,Básico,3080.0,Chile,Comedia,2018-05-08,0
+11496,40,Básico,3628.4,Chile,Comedia,2018-05-08,0
 11497,52,Estándar,504.4,Argentina,Crimen,2018-09-07,1
 11498,24,Básico,388.5,Chile,Romance,2023-05-16,1
 11499,47,Estándar,1007.4,Chile,Thriller,2022-07-04,0
@@ -1519,7 +1519,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 11517,40,Estándar,536.5,Chile,Acción,2024-02-25,1
 11518,15,Básico,973.7,Chile,Thriller,2022-02-14,2
 11519,29,Básico,550.6,Brasil,Comedia,2021-08-24,0
-11520,56,Premium,3080.0,Uruguay,Drama,2022-04-10,0
+11520,56,Premium,3628.4,Uruguay,Drama,2022-04-10,0
 11521,29,Estándar,680.3,Uruguay,Comedia,2024-09-12,1
 11522,42,Estándar,1114.4,Uruguay,Comedia,2023-12-14,1
 11523,27,Estándar,1075.3,Chile,Crimen,2021-04-22,1
@@ -1539,7 +1539,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 11537,31,Premium,1329.2,Argentina,Acción,2020-07-24,1
 11538,32,Básico,542.1,México,Acción,2022-08-22,1
 11539,30,Básico,434.2,Chile,Crimen,2021-10-20,2
-11540,23,Básico,572.3,Perú,Drama,2023-02-01,4
+11540,23,Básico,572.3,Perú,Drama,2023-02-01,5
 11541,26,Estándar,745.5,Brasil,Romance,2022-06-22,2
 11542,21,Premium,1082.3,Chile,Comedia,2022-08-31,2
 11543,47,Básico,368.5,México,Comedia,2019-01-25,3
@@ -1570,19 +1570,19 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 11568,39,Estándar,755.7,Perú,Romance,2022-02-14,1
 11569,37,Estándar,1200.6,Perú,Comedia,2022-08-10,0
 11570,25,Básico,1257.2,Uruguay,Drama,2021-12-19,0
-11571,44,Estándar,3080.0,Chile,Crimen,2025-06-18,1
+11571,44,Estándar,3628.4,Chile,Crimen,2025-06-18,1
 11572,53,Estándar,418.7,Uruguay,Comedia,2022-09-29,1
 11573,44,Básico,470.3,Colombia,Thriller,2018-07-30,1
 11574,25,Básico,119.1,Argentina,Drama,2021-03-24,1
 11575,30,Estándar,1234.1,Perú,Drama,2024-09-25,0
 11576,33,Estándar,158.3,Chile,Crimen,2021-07-03,0
 11577,13,Premium,883.6,Perú,Comedia,2021-12-11,1
-11578,13,Básico,0.0,Chile,Thriller,2019-03-01,4
+11578,13,Básico,0.0,Chile,Thriller,2019-03-01,5
 11579,30,Básico,787.0,Perú,Thriller,2024-06-25,0
 11580,18,Básico,448.1,Argentina,Thriller,2022-02-14,1
 11581,53,Premium,1064.8,México,Documental,2020-05-21,0
 11582,42,Básico,1052.9,México,Comedia,2019-09-26,0
-11583,49,Estándar,1118.5,Uruguay,Romance,2025-05-13,4
+11583,49,Estándar,1118.5,Uruguay,Romance,2025-05-13,5
 11584,18,Estándar,852.8,Perú,Romance,2023-05-30,0
 11585,39,Premium,1040.7,Brasil,Crimen,2020-07-07,1
 11586,17,Básico,1123.6,Brasil,Crimen,2019-03-20,1
@@ -1597,7 +1597,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 11595,23,Estándar,798.9,Colombia,Romance,2024-04-16,1
 11596,47,Estándar,472.3,México,Romance,2024-12-21,1
 11597,44,Premium,847.1,Uruguay,Romance,2024-11-18,1
-11598,37,Estándar,3080.0,Uruguay,Crimen,2025-07-27,1
+11598,37,Estándar,3628.4,Uruguay,Crimen,2025-07-27,1
 11599,14,Premium,1260.8,Argentina,Acción,2025-03-17,0
 11600,28,Básico,75.8,Perú,Romance,2024-03-30,2
 11601,37,Básico,371.2,Perú,Drama,2018-04-18,0
@@ -1621,7 +1621,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 11619,14,Básico,463.9,Argentina,Crimen,2018-10-13,1
 11620,39,Premium,1157.8,Colombia,Comedia,2019-08-05,0
 11621,13,Estándar,521.9,Chile,Acción,2025-02-06,2
-11622,38,Básico,3080.0,Argentina,Acción,2018-05-06,0
+11622,38,Básico,3628.4,Argentina,Acción,2018-05-06,0
 11623,13,Básico,487.5,México,Romance,2019-01-11,1
 11624,16,Básico,888.5,Uruguay,Drama,2023-12-13,0
 11625,37,Básico,228.6,Chile,Crimen,2020-05-31,1
@@ -1645,7 +1645,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 11643,35,Estándar,1198.6,México,Drama,2018-12-01,0
 11644,36,Premium,369.0,Uruguay,Thriller,2021-01-19,0
 11645,28,Básico,209.2,Uruguay,Romance,2022-12-20,0
-11646,47,Básico,3080.0,Uruguay,Comedia,2025-06-04,1
+11646,47,Básico,3628.4,Uruguay,Comedia,2025-06-04,1
 11647,14,Estándar,595.2,Uruguay,Thriller,2022-10-03,3
 11648,30,Estándar,466.2,Argentina,Documental,2023-06-13,0
 11649,34,Premium,1208.3,Perú,Drama,2024-10-22,1
@@ -1668,7 +1668,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 11666,32,Básico,564.9,Brasil,Drama,2022-02-14,2
 11667,30,Estándar,147.9,Argentina,Acción,2018-07-06,1
 11668,30,Estándar,1025.6,Brasil,Thriller,2020-06-22,1
-11669,34,Premium,1337.1,México,Documental,2022-06-07,4
+11669,34,Premium,1337.1,México,Documental,2022-06-07,5
 11670,22,Estándar,1262.3,Brasil,Crimen,2024-09-20,2
 11671,19,Básico,809.5,Brasil,Drama,2018-08-13,1
 11672,34,Estándar,862.2,Perú,Comedia,2018-02-01,0
@@ -1728,7 +1728,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 11726,20,Estándar,988.4,Chile,Crimen,2023-11-17,1
 11727,44,Básico,605.3,Chile,Acción,2018-11-19,1
 11728,33,Básico,80.6,Perú,Drama,2022-06-10,3
-11729,59,Premium,3080.0,Brasil,Drama,2021-06-24,0
+11729,59,Premium,3628.4,Brasil,Drama,2021-06-24,0
 11730,39,Estándar,935.6,Colombia,Comedia,2021-10-22,2
 11731,19,Estándar,1153.7,Chile,Acción,2020-06-26,0
 11732,40,Básico,151.6,Colombia,Romance,2021-09-26,1
@@ -1740,7 +1740,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 11738,18,Básico,1070.7,Argentina,Romance,2023-12-14,2
 11739,13,Estándar,161.8,México,Acción,2023-09-20,0
 11740,33,Básico,578.1,México,Crimen,2020-03-05,1
-11741,18,Premium,3080.0,Argentina,Documental,2021-12-02,3
+11741,18,Premium,3628.4,Argentina,Documental,2021-12-02,3
 11742,43,Básico,467.7,México,Drama,2021-12-09,1
 11743,40,Básico,74.4,Brasil,Acción,2022-02-14,2
 11744,43,Estándar,1097.3,Perú,Romance,2019-08-28,1
@@ -1762,13 +1762,13 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 11760,25,Básico,353.5,Argentina,Comedia,2024-07-01,1
 11761,32,Básico,0.0,Uruguay,Acción,2023-01-13,1
 11762,48,Estándar,1358.3,Uruguay,Romance,2025-08-21,2
-11763,20,Estándar,897.8,Chile,Drama,2024-05-01,4
+11763,20,Estándar,897.8,Chile,Drama,2024-05-01,5
 11764,37,Básico,917.4,Colombia,Drama,2025-03-18,1
 11765,31,Básico,237.4,Argentina,Drama,2025-02-15,0
 11766,39,Básico,481.5,Chile,Thriller,2025-01-02,1
 11767,49,Básico,586.9,Argentina,Crimen,2021-08-16,1
 11768,17,Estándar,814.3,Perú,Crimen,2025-01-13,1
-11769,13,Premium,2284.1,Uruguay,Acción,2021-07-18,4
+11769,13,Premium,2284.1,Uruguay,Acción,2021-07-18,5
 11770,15,Basico,628.5,Colombia,Documental,2019-09-11,1
 11771,39,Básico,188.8,Brasil,Thriller,2022-12-07,1
 11772,13,Premium,929.1,Perú,Drama,2018-10-07,0
@@ -1922,7 +1922,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 11920,27,Básico,841.3,Colombia,Drama,2023-01-13,1
 11921,23,Estándar,677.2,Perú,Acción,2020-08-16,1
 11922,13,Básico,894.8,Uruguay,Thriller,2023-12-28,1
-11923,38,Estándar,3080.0,Colombia,Thriller,2020-09-06,0
+11923,38,Estándar,3419.1,Colombia,Thriller,2020-09-06,0
 11924,26,Estándar,817.2,Perú,Comedia,2021-06-21,0
 11925,32,Estándar,840.7,México,Acción,2023-04-06,0
 11926,41,Básico,732.2,Chile,Comedia,2020-03-05,0
@@ -2035,7 +2035,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 12033,13,Básico,939.4,Argentina,Acción,2018-12-17,0
 12034,34,Estándar,408.2,Brasil,Thriller,2023-11-15,1
 12035,45,Premium,545.6,Brasil,Crimen,2022-01-17,0
-12036,32,Básico,3080.0,Colombia,Romance,2018-10-05,0
+12036,32,Básico,3628.4,Colombia,Romance,2018-10-05,0
 12037,22,Básico,94.7,Brasil,Acción,2023-11-25,0
 12038,39,Básico,336.0,Brasil,Drama,2024-02-07,0
 12039,33,Básico,0.0,México,Thriller,2023-09-10,0
@@ -2087,7 +2087,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 12085,35,Estándar,1090.8,Colombia,Romance,2022-06-20,1
 12086,14,Premium,1126.1,Chile,Thriller,2024-02-03,0
 12087,16,Básico,386.7,Chile,Crimen,2023-04-24,2
-12088,38,Básico,0.0,Brasil,Drama,2020-11-03,4
+12088,38,Básico,0.0,Brasil,Drama,2020-11-03,5
 12089,15,Estándar,577.9,Brasil,Drama,2018-05-30,0
 12090,39,Básico,690.0,Argentina,Acción,2025-04-03,1
 12091,31,Estándar,955.2,Brasil,Romance,2022-02-14,2
@@ -2123,7 +2123,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 12121,47,Básico,838.4,Chile,Comedia,2019-02-25,0
 12122,24,Básico,303.7,Perú,Comedia,2018-11-24,0
 12123,28,Estándar,997.9,Brasil,Drama,2021-09-05,1
-12124,23,Estándar,3080.0,Brasil,Thriller,2025-05-31,0
+12124,23,Estándar,3628.4,Brasil,Thriller,2025-05-31,0
 12125,49,Estándar,940.2,Uruguay,Drama,2021-04-25,2
 12126,50,Estándar,955.8,México,Acción,2021-06-09,0
 12127,17,Básico,266.6,Argentina,Drama,2023-01-01,1
@@ -2134,7 +2134,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 12132,37,Básico,163.0,Uruguay,Thriller,2022-12-24,1
 12133,33,Basico,525.2,Brasil,Thriller,2021-12-10,0
 12134,34,Básico,327.3,México,Acción,2023-01-06,1
-12135,34,Estándar,1281.0,Colombia,Drama,2018-06-23,4
+12135,34,Estándar,1281.0,Colombia,Drama,2018-06-23,5
 12136,24,Básico,778.6,Uruguay,Documental,2021-12-15,1
 12137,36,Premium,1070.8,Brasil,Romance,2024-11-23,0
 12138,54,Básico,65.9,Uruguay,Drama,2022-11-17,0
@@ -2178,7 +2178,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 12176,37,Estándar,1049.7,Uruguay,Thriller,2022-02-12,0
 12177,25,Estándar,2609.9,México,Comedia,2022-06-19,1
 12178,38,Básico,922.0,Colombia,Acción,2021-07-11,0
-12179,20,Básico,3080.0,Brasil,Acción,2025-04-14,0
+12179,20,Básico,3628.4,Brasil,Acción,2025-04-14,0
 12180,20,Estándar,1320.6,perú,Thriller,2022-02-14,2
 12181,37,Básico,296.9,Argentina,Acción,2020-10-19,0
 12182,19,Estándar,57.2,Colombia,Acción,2019-04-10,0
@@ -2215,7 +2215,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 12213,13,Básico,398.3,México,Documental,2018-09-23,2
 12214,27,Premium,1126.6,Perú,Comedia,2024-03-02,1
 12215,25,Básico,466.0,Brasil,Comedia,2024-01-30,0
-12216,44,Básico,679.9,Argentina,Documental,2021-04-04,4
+12216,44,Básico,679.9,Argentina,Documental,2021-04-04,5
 12217,35,Premium,1113.2,Brasil,Comedia,2021-05-13,1
 12218,17,Estándar,839.4,Perú,Crimen,2019-10-08,0
 12219,38,Premium,1259.5,Argentina,Acción,2025-12-25,0
@@ -2266,12 +2266,12 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 12264,51,Básico,642.5,Perú,Comedia,2020-01-16,0
 12265,20,Estándar,1200.6,Colombia,Romance,2019-06-13,0
 12266,35,Estándar,743.6,Perú,Documental,2022-11-08,0
-12267,47,Premium,3080.0,Brasil,Acción,2023-08-22,0
+12267,47,Premium,3628.4,Brasil,Acción,2023-08-22,0
 12268,19,Estándar,692.2,Chile,Thriller,2018-08-15,0
 12269,61,Premium,1564.7,Argentina,Drama,2019-05-24,1
 12270,26,Estandar,811.4,Brasil,Comedia,2023-10-24,1
 12271,27,Estándar,505.1,Chile,Comedia,2019-09-19,0
-12272,41,Premium,1085.7,Colombia,Comedia,2022-02-14,4
+12272,41,Premium,1085.7,Colombia,Comedia,2022-02-14,5
 12273,39,Estándar,556.5,Colombia,Crimen,2019-11-06,0
 12274,43,Estándar,756.1,Brasil,Comedia,2019-10-26,0
 12275,32,Estándar,539.2,Peru,Documental,2021-08-14,0
@@ -2288,7 +2288,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 12286,30,Estandar,1024.6,Uruguay,Thriller,2021-01-29,0
 12287,25,Básico,63.9,Chile,Acción,2019-05-28,2
 12288,50,Básico,577.1,Brasil,Thriller,2025-01-04,0
-12289,51,Básico,3080.0,México,Romance,2021-05-25,0
+12289,51,Básico,3628.4,México,Romance,2021-05-25,0
 12290,39,Estándar,384.1,Colombia,Crimen,2024-11-21,0
 12291,34,Básico,592.8,México,Drama,2023-12-26,2
 12292,47,Estándar,818.4,Colombia,Romance,2022-02-14,2
@@ -2312,7 +2312,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 12310,22,Estándar,293.1,Argentina,Romance,2024-06-20,1
 12311,54,Básico,1255.6,Colombia,Drama,2020-12-20,1
 12312,49,Estándar,644.6,México,Crimen,2025-04-21,2
-12313,66,Básico,3080.0,Argentina,Acción,2022-02-14,2
+12313,66,Básico,3628.4,Argentina,Acción,2022-02-14,2
 12314,28,Básico,962.1,Colombia,Crimen,2024-06-01,0
 12315,32,Estándar,1106.0,México,Documental,2022-09-03,1
 12316,47,Premium,1119.9,México,Drama,2024-12-06,1
@@ -2400,9 +2400,9 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 12398,39,Básico,464.8,Perú,Acción,2018-02-03,1
 12399,43,Estándar,1370.4,Perú,Documental,2019-03-17,0
 12400,35,Estándar,933.9,Chile,Acción,2022-11-01,0
-12401,51,Estandar,3080.0,Argentina,Thriller,2019-07-03,2
+12401,51,Estandar,3346.5,Argentina,Thriller,2019-07-03,2
 12402,33,Básico,0.0,Argentina,Acción,2020-12-19,1
-12403,44,Básico,839.6,Brasil,Documental,2022-02-07,4
+12403,44,Básico,839.6,Brasil,Documental,2022-02-07,5
 12404,37,Estándar,464.6,Argentina,Thriller,2022-02-14,3
 12405,36,Básico,96.4,Uruguay,Drama,2022-02-07,0
 12406,23,Básico,473.3,México,Comedia,2018-07-05,1
@@ -2449,19 +2449,19 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 12447,18,Estándar,779.2,Perú,Drama,2024-10-19,1
 12448,43,Estándar,702.7,Uruguay,Acción,2023-10-13,1
 12449,34,Básico,623.3,Uruguay,Thriller,2019-07-27,0
-12450,29,Básico,3080.0,Colombia,ACCIÓN,2021-09-05,1
+12450,29,Básico,3628.4,Colombia,ACCIÓN,2021-09-05,1
 12451,44,Básico,521.6,Chile,Drama,2024-11-16,2
 12452,16,Básico,284.9,Colombia,Drama,2021-07-28,1
 12453,32,Básico,519.7,México,Acción,2019-10-28,1
 12454,44,Básico,835.6,Perú,Romance,2022-05-29,1
-12455,50,Estándar,386.1,Brasil,Crimen,2024-11-30,4
+12455,50,Estándar,386.1,Brasil,Crimen,2024-11-30,5
 12456,26,Premium,907.4,Uruguay,Crimen,2021-05-10,1
 12457,30,Básico,920.8,Perú,Crimen,2024-08-28,1
 12458,49,Básico,0.0,Brasil,Drama,2021-10-09,1
 12459,29,Básico,513.9,Chile,Comedia,2023-09-09,0
 12460,28,Básico,523.3,Uruguay,Drama,2023-09-19,0
 12461,31,Básico,875.8,Brasil,Documental,2023-12-21,0
-12462,37,Básico,19.2,Colombia,Acción,2023-06-30,4
+12462,37,Básico,19.2,Colombia,Acción,2023-06-30,5
 12463,19,Básico,184.6,Chile,Comedia,2025-12-12,1
 12464,25,Estándar,869.2,Peru,Comedia,2024-04-24,1
 12465,20,Estándar,1300.2,Uruguay,Comedia,2021-05-12,0
@@ -2489,7 +2489,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 12487,30,Básico,193.2,Uruguay,Thriller,2023-05-22,3
 12488,21,Premium,903.9,Argentina,Romance,2019-11-30,0
 12489,35,Estándar,93.6,Uruguay,Drama,2023-11-18,0
-12490,32,Estándar,3080.0,México,Drama,2025-01-20,1
+12490,32,Estándar,3628.4,México,Drama,2025-01-20,1
 12491,32,Basico,86.8,Perú,Comedia,2024-12-13,1
 12492,17,Premium,1081.9,Chile,Romance,2022-04-07,1
 12493,42,Básico,868.5,Colombia,Comedia,2019-08-29,2
@@ -2704,7 +2704,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 12702,26,Estándar,530.3,Brasil,Crimen,2021-06-27,2
 12703,13,Premium,1153.8,Chile,Thriller,2025-09-28,0
 12704,24,Básico,484.1,Uruguay,Acción,2019-04-26,0
-12705,48,Estándar,3080.0,Perú,Documental,2025-03-01,1
+12705,48,Estándar,3220.3,Perú,Documental,2025-03-01,1
 12706,28,Estándar,1003.1,Chile,Romance,2021-04-23,1
 12707,25,Estándar,796.2,Colombia,Crimen,2022-02-14,2
 12708,33,Estándar,1092.2,Chile,Comedia,2024-11-22,0
@@ -2756,10 +2756,10 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 12754,58,Premium,935.0,Argentina,Drama,2022-12-30,1
 12755,13,Estándar,974.9,México,Acción,2018-08-16,2
 12756,50,Estándar,624.2,Brasil,Comedia,2023-02-01,1
-12757,37,Básico,3080.0,Brasil,Thriller,2019-06-25,1
+12757,37,Básico,3242.8,Brasil,Thriller,2019-06-25,1
 12758,33,Premium,1223.8,México,Thriller,2023-10-04,1
 12759,37,Básico,836.8,Chile,Acción,2022-08-29,2
-12760,19,Estándar,3080.0,Colombia,Thriller,2023-02-15,4
+12760,19,Estándar,3611.7,Colombia,Thriller,2023-02-15,4
 12761,42,Estándar,958.9,Brasil,Documental,2024-04-28,0
 12762,22,Estándar,1370.8,Chile,Acción,2018-08-25,0
 12763,29,Básico,538.6,Colombia,Acción,2024-04-07,1
@@ -2801,7 +2801,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 12799,33,Estándar,944.0,Perú,Comedia,2022-02-14,2
 12800,42,Básico,824.8,Perú,Crimen,2019-06-29,0
 12801,30,Básico,333.0,Brasil,Crimen,2025-04-30,1
-12802,55,Básico,3080.0,Colombia,Documental,2021-11-25,0
+12802,55,Básico,3628.4,Colombia,Documental,2021-11-25,0
 12803,44,Básico,512.7,Colombia,Romance,2019-05-01,1
 12804,26,Estándar,1397.4,Brasil,Acción,2020-01-02,0
 12805,47,Premium,1113.2,Brasil,Thriller,2024-01-10,0
@@ -2844,7 +2844,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 12842,44,Básico,842.9,Brasil,Crimen,2018-07-19,0
 12843,21,Estándar,814.8,Argentina,Romance,2020-09-29,0
 12844,37,Premium,1585.5,Uruguay,Documental,2018-07-01,0
-12845,28,Estándar,1163.7,Uruguay,Comedia,2022-07-06,4
+12845,28,Estándar,1163.7,Uruguay,Comedia,2022-07-06,5
 12846,40,Premium,1417.9,Argentina,Comedia,2022-12-03,0
 12847,53,Básico,825.5,Perú,Documental,2020-08-17,1
 12848,22,Premium,1045.8,Chile,Documental,2024-01-20,0
@@ -2958,7 +2958,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 12956,26,Premium,978.5,Perú,Crimen,2022-01-11,0
 12957,36,Básico,958.8,Chile,Crimen,2021-06-17,1
 12958,40,Estándar,1010.9,Chile,Comedia,2022-02-14,2
-12959,25,Básico,3080.0,México,Crimen,2022-01-13,0
+12959,25,Básico,3473.8,México,Crimen,2022-01-13,0
 12960,34,Estándar,1074.9,Brasil,Comedia,2023-10-02,4
 12961,21,Básico,602.6,Chile,Romance,2023-07-30,1
 12962,34,Estándar,1110.4,Perú,Romance,2023-03-24,0
@@ -2966,7 +2966,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 12964,17,Básico,699.5,México,Drama,2023-04-08,0
 12965,26,Estándar,794.0,Colombia,Thriller,2021-08-04,1
 12966,18,Básico,491.0,México,Thriller,2020-04-12,0
-12967,38,Premium,1719.7,Chile,Drama,2022-02-27,4
+12967,38,Premium,1719.7,Chile,Drama,2022-02-27,5
 12968,40,Estándar,527.3,México,Acción,2021-07-05,1
 12969,27,Estándar,536.3,Uruguay,Documental,2022-08-23,0
 12970,44,Básico,426.9,Perú,Thriller,2018-07-07,3
@@ -2977,11 +2977,11 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 12975,36,Básico,705.4,Chile,Documental,2020-12-04,4
 12976,35,Premium,1312.1,Perú,Acción,2024-03-16,0
 12977,20,Básico,511.2,Argentina,Crimen,2024-07-20,0
-12978,30,Premium,1067.1,Uruguay,Drama,2024-06-30,4
+12978,30,Premium,1067.1,Uruguay,Drama,2024-06-30,5
 12979,43,Estándar,1244.4,México,Drama,2022-09-07,1
 12980,27,Básico,103.0,Brasil,Romance,2021-04-24,1
 12981,14,Premium,590.6,Perú,Drama,2019-09-17,2
-12982,18,Premium,1362.2,Colombia,Romance,2020-03-14,4
+12982,18,Premium,1362.2,Colombia,Romance,2020-03-14,5
 12983,66,Basico,525.6,Argentina,Acción,2021-09-13,3
 12984,38,Básico,1084.2,Chile,Crimen,2020-07-31,2
 12985,16,Básico,627.0,Chile,Documental,2022-04-05,1
@@ -2995,7 +2995,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 12993,27,Básico,750.5,México,Thriller,2020-11-20,1
 12994,13,Basico,626.0,Brasil,Drama,2023-06-25,0
 12995,37,Premium,1085.7,Colombia,Thriller,2025-03-13,1
-12996,35,Básico,616.0,Argentina,Documental,2023-07-03,4
+12996,35,Básico,616.0,Argentina,Documental,2023-07-03,5
 12997,20,Estándar,1390.8,Brasil,Comedia,2023-03-03,1
 12998,16,Básico,0.0,México,Documental,2019-11-21,1
 12999,26,Estándar,880.9,Brasil,Documental,2021-12-13,1
@@ -3076,7 +3076,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 13074,34,Premium,750.2,México,Romance,2025-05-01,1
 13075,39,Básico,461.3,Perú,Acción,2025-04-15,0
 13076,39,Premium,1295.8,Perú,Thriller,2018-05-10,0
-13077,13,Estándar,3080.0,Argentina,Documental,2019-01-18,0
+13077,13,Estándar,3628.4,Argentina,Documental,2019-01-18,0
 13078,33,Premium,1350.7,Chile,Romance,2022-07-19,0
 13079,28,Básico,395.9,México,Acción,2022-04-03,1
 13080,20,Premium,940.8,Uruguay,Thriller,2022-03-25,0
@@ -3093,13 +3093,13 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 13091,19,Premium,743.4,Uruguay,Acción,2025-03-26,1
 13092,35,Estándar,1044.0,México,Documental,2021-09-18,1
 13093,27,Básico,0.0,Colombia,Comedia,2024-05-06,0
-13094,34,Estándar,3080.0,México,Romance,2019-01-26,1
+13094,34,Estándar,3628.4,México,Romance,2019-01-26,1
 13095,22,Básico,792.5,México,Acción,2023-12-04,0
 13096,41,Premium,957.9,México,Romance,2018-06-24,0
 13097,36,Premium,1179.1,Perú,Documental,2020-07-30,0
 13098,28,Básico,549.7,México,Documental,2020-05-15,1
 13099,41,Básico,0.0,Argentina,Comedia,2025-10-06,1
-13100,34,Básico,3080.0,Argentina,Crimen,2024-05-10,1
+13100,34,Básico,3146.3,Argentina,Crimen,2024-05-10,1
 13101,48,Básico,557.0,Perú,Drama,2022-02-14,2
 13102,38,Básico,1026.7,Uruguay,Romance,2021-01-15,1
 13103,25,Estándar,1457.3,Chile,Romance,2018-07-10,2
@@ -3208,11 +3208,11 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 13206,24,Premium,1119.3,Uruguay,Romance,2022-08-22,2
 13207,13,Estándar,655.8,Argentina,Thriller,2022-05-08,0
 13208,24,Premium,928.7,Colombia,Crimen,2018-12-13,4
-13209,29,Estándar,3080.0,Argentina,Documental,2024-04-10,2
+13209,29,Estándar,3628.4,Argentina,Documental,2024-04-10,2
 13210,17,Básico,173.2,Perú,Thriller,2020-09-21,0
 13211,42,Básico,418.8,Chile,Romance,2024-05-31,0
 13212,39,Básico,901.1,Perú,Crimen,2023-11-05,0
-13213,23,Premium,3080.0,Argentina,Drama,2019-11-26,0
+13213,23,Premium,3628.4,Argentina,Drama,2019-11-26,0
 13214,36,Básico,235.8,Chile,Romance,2025-09-08,0
 13215,36,Estándar,391.4,Argentina,Documental,2022-04-09,1
 13216,25,Estándar,679.1,México,Drama,2019-11-26,2
@@ -3276,7 +3276,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 13274,28,Básico,241.9,Uruguay,Acción,2022-05-29,0
 13275,25,Básico,1079.7,Argentina,Thriller,2022-02-04,1
 13276,21,Básico,197.9,Uruguay,Documental,2019-04-12,3
-13277,42,Básico,607.9,Argentina,Thriller,2024-04-28,4
+13277,42,Básico,607.9,Argentina,Thriller,2024-04-28,5
 13278,19,Básico,789.1,Brasil,Comedia,2020-03-29,1
 13279,32,Estándar,684.2,México,Documental,2024-08-22,1
 13280,41,Básico,493.0,México,Drama,2024-02-13,0
@@ -3339,7 +3339,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 13337,28,Premium,1199.8,Perú,Crimen,2022-10-30,1
 13338,23,Premium,1198.3,Colombia,Drama,2019-03-10,2
 13339,30,Estándar,989.3,Colombia,Thriller,2018-02-13,2
-13340,36,Estándar,1141.7,México,Acción,2022-02-14,4
+13340,36,Estándar,1141.7,México,Acción,2022-02-14,5
 13341,33,Premium,1550.7,Uruguay,Drama,2020-11-25,0
 13342,40,Básico,629.1,Argentina,Drama,2020-06-28,1
 13343,28,Básico,506.9,México,Romance,2023-09-23,0
@@ -3347,7 +3347,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 13345,36,Estándar,899.2,Chile,Comedia,2024-04-04,1
 13346,55,Estándar,1257.4,Argentina,Comedia,2024-07-05,0
 13347,19,Básico,698.4,Chile,Romance,2025-09-17,0
-13348,15,Premium,3080.0,Chile,Crimen,2024-06-14,0
+13348,15,Premium,3628.4,Chile,Crimen,2024-06-14,0
 13349,34,Básico,570.3,Chile,Thriller,2020-06-24,1
 13350,30,Estándar,904.8,Chile,Documental,2022-12-31,2
 13351,22,Estándar,704.6,Chile,Comedia,2022-03-13,3
@@ -3456,7 +3456,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 13454,18,Premium,1353.9,Argentina,Drama,2024-11-21,2
 13455,35,Básico,668.3,Uruguay,Comedia,2024-08-14,0
 13456,26,Básico,853.1,Colombia,Romance,2018-12-14,0
-13457,44,Básico,995.6,Brasil,Thriller,2025-07-15,4
+13457,44,Básico,995.6,Brasil,Thriller,2025-07-15,5
 13458,42,Básico,715.7,Argentina,Romance,2019-07-03,0
 13459,34,Básico,833.1,Uruguay,Thriller,2021-07-06,0
 13460,17,Estándar,934.2,méxico,Thriller,2019-04-28,0
@@ -3464,7 +3464,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 13462,34,Estándar,995.4,Perú,Accion,2021-06-04,0
 13463,60,Estándar,502.8,Argentina,Comedia,2019-04-25,1
 13464,39,Basico,298.0,méxico,Romance,2020-01-20,1
-13465,31,Básico,658.6,Chile,Romance,2022-03-10,4
+13465,31,Básico,658.6,Chile,Romance,2022-03-10,5
 13466,51,Estándar,507.6,México,Crimen,2025-10-11,0
 13467,19,Estándar,702.4,Uruguay,Drama,2019-08-03,0
 13468,26,Estándar,1045.4,México,Acción,2023-09-24,0
@@ -3483,7 +3483,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 13481,41,Estándar,773.0,Brasil,Accion,2025-03-27,0
 13482,41,Básico,659.3,Argentina,Crimen,2019-12-11,0
 13483,37,Básico,404.9,Argentina,Documental,2024-03-22,2
-13484,22,Básico,458.6,Argentina,Documental,2019-11-15,4
+13484,22,Básico,458.6,Argentina,Documental,2019-11-15,5
 13485,46,Básico,291.7,Uruguay,Documental,2023-06-29,0
 13486,44,Estándar,1312.3,Argentina,Documental,2021-03-29,0
 13487,29,Basico,419.4,Colombia,Thriller,2019-07-29,2
@@ -3517,7 +3517,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 13515,25,Premium,1156.7,México,Thriller,2021-04-11,0
 13516,25,Estándar,1177.9,Perú,Acción,2018-05-14,1
 13517,15,Estándar,786.0,Chile,Crimen,2021-01-30,1
-13518,13,Básico,3080.0,Perú,Crimen,2020-07-09,0
+13518,13,Básico,3628.4,Perú,Crimen,2020-07-09,0
 13519,39,Premium,1055.1,Perú,Thriller,2024-01-12,4
 13520,50,Premium,1392.8,Chile,Drama,2022-02-14,2
 13521,13,Estándar,1344.2,Colombia,Crimen,2019-11-20,0
@@ -3643,7 +3643,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 13641,48,Premium,990.5,Colombia,Acción,2022-02-14,1
 13642,13,Estándar,583.2,México,Documental,2018-07-18,1
 13643,28,básico,761.5,Argentina,Drama,2018-07-08,1
-13644,58,Básico,207.1,Perú,Acción,2019-02-12,4
+13644,58,Básico,207.1,Perú,Acción,2019-02-12,5
 13645,56,Básico,646.2,Colombia,Thriller,2025-01-08,1
 13646,26,Estándar,483.6,México,Acción,2022-02-14,0
 13647,30,Basico,1046.3,Brasil,Documental,2018-08-03,0
@@ -3701,7 +3701,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 13699,31,Premium,949.4,Colombia,Romance,2023-05-11,1
 13700,13,Básico,509.1,Uruguay,Drama,2018-10-18,0
 13701,37,Estándar,1103.7,Colombia,Romance,2020-07-26,0
-13702,13,básico,3080.0,Brasil,Romance,2022-02-14,2
+13702,13,básico,3628.4,Brasil,Romance,2022-02-14,2
 13703,24,Premium,1777.2,México,Romance,2019-01-01,0
 13704,49,Básico,479.8,Uruguay,Thriller,2019-02-24,0
 13705,34,Básico,637.3,Chile,Crimen,2019-02-27,0
@@ -3735,7 +3735,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 13733,28,Premium,1232.1,Colombia,Comedia,2019-02-16,0
 13734,29,Estandar,487.4,Chile,Documental,2019-07-28,0
 13735,36,Básico,259.5,Colombia,Crimen,2022-02-14,2
-13736,23,Premium,1204.7,Chile,Romance,2024-08-11,4
+13736,23,Premium,1204.7,Chile,Romance,2024-08-11,5
 13737,23,Premium,1178.8,Argentina,Thriller,2022-04-22,2
 13738,13,Estándar,977.8,Colombia,Documental,2021-12-10,3
 13739,13,Estándar,935.2,Perú,Drama,2022-10-25,0
@@ -3747,7 +3747,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 13745,33,Básico,914.6,Colombia,Drama,2018-12-12,1
 13746,20,Básico,438.4,Chile,Romance,2020-10-13,2
 13747,35,Estándar,989.3,Brasil,Acción,2024-03-16,0
-13748,27,Estándar,3080.0,Uruguay,Thriller,2024-09-27,1
+13748,27,Estándar,3628.4,Uruguay,Thriller,2024-09-27,1
 13749,41,Premium,1680.0,Chile,Thriller,2024-09-23,0
 13750,34,Estándar ,394.9,México,Thriller,2024-10-24,1
 13751,31,básico,805.4,Chile,Acción,2021-03-13,1
@@ -3875,7 +3875,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 13873,27,Premium,1187.1,Perú,Crimen,2023-07-26,3
 13874,28,Básico,664.3,Perú,Romance,2023-02-08,2
 13875,39,Básico,594.6,Chile,Romance,2023-09-24,1
-13876,28,Básico,3080.0,Brasil,Drama,2022-01-15,0
+13876,28,Básico,3628.4,Brasil,Drama,2022-01-15,0
 13877,34,Básico,0.0,Chile,Crimen,2018-08-16,3
 13878,14,Basico,438.7,Uruguay,Romance,2023-08-09,2
 13879,41,Básico,534.2,Perú,Documental,2024-05-10,0
@@ -3951,7 +3951,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 13949,32,Básico,871.5,Brasil,Crimen,2020-08-12,0
 13950,52,Básico,1047.2,Perú,Documental,2024-01-28,2
 13951,24,Básico,825.8,Colombia,Comedia,2021-11-19,0
-13952,31,Básico,3080.0,Brasil,Thriller,2025-02-17,1
+13952,31,Básico,3628.4,Brasil,Thriller,2025-02-17,1
 13953,36,Estándar,1248.3,Chile,Crimen,2025-10-11,0
 13954,38,Estándar,704.5,Argentina,Acción,2018-02-09,1
 13955,13,Básico,720.8,México,Thriller,2021-10-04,1
@@ -3979,12 +3979,12 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 13977,30,Estándar,1232.5,Argentina,Documental,2023-02-21,1
 13978,29,Premium,783.6,Uruguay,Romance,2018-12-14,1
 13979,51,Básico,171.4,Perú,Acción,2024-07-06,1
-13980,40,Premium,3080.0,Chile,Drama,2019-01-27,1
+13980,40,Premium,3628.4,Chile,Drama,2019-01-27,1
 13981,13,Premium,1245.1,Uruguay,Crimen,2023-09-02,2
 13982,29,Basico,804.5,Chile,Comedia,2019-01-07,0
 13983,24,Estandar,995.9,México,Thriller,2025-02-23,0
 13984,57,Básico,532.8,Colombia,Acción,2022-04-06,1
-13985,24,Básico,3080.0,México,Thriller,2018-11-03,1
+13985,24,Básico,3375.4,México,Thriller,2018-11-03,1
 13986,28,Estándar,451.1,México,Crimen,2022-02-14,2
 13987,24,Premium,909.1,Colombia,Drama,2024-05-14,0
 13988,39,Básico,701.3,Uruguay,Thriller,2018-09-13,1
@@ -4145,7 +4145,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 14143,40,Estándar,1003.1,Perú,Comedia,2021-02-24,2
 14144,38,Premium,731.4,Colombia,Documental,2018-08-28,1
 14145,53,Estándar,1213.0,Perú,Romance,2023-04-17,0
-14146,32,Estándar,862.3,Perú,Thriller,2023-12-09,4
+14146,32,Estándar,862.3,Perú,Thriller,2023-12-09,5
 14147,43,Básico,1307.8,Brasil,Drama,2022-01-04,1
 14148,29,Básico,582.6,Brasil,Drama,2024-07-20,1
 14149,42,Básico,287.6,Chile,Thriller,2020-08-11,0
@@ -4165,7 +4165,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 14163,31,Premium,494.4,México,Thriller,2019-12-23,0
 14164,30,Estándar,1028.5,Argentina,Comedia,2020-08-26,3
 14165,27,Estándar,548.6,Uruguay,Crimen,2024-08-23,1
-14166,15,Estándar,612.5,Perú,Crimen,2021-07-26,4
+14166,15,Estándar,612.5,Perú,Crimen,2021-07-26,5
 14167,43,Estándar,840.5,México,Thriller,2025-10-28,0
 14168,27,Básico,200.6,Argentina,Comedia,2022-01-09,0
 14169,25,Premium,833.8,Perú,Crimen,2024-08-20,0
@@ -4188,7 +4188,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 14186,24,Básico,555.9,Uruguay,Thriller,2018-08-19,0
 14187,13,Estándar,1299.3,México,Acción,2020-08-10,2
 14188,53,Básico,216.8,México,Accion,2024-09-30,3
-14189,53,Estándar,110.8,Uruguay,Acción,2020-06-15,4
+14189,53,Estándar,110.8,Uruguay,Acción,2020-06-15,5
 14190,36,Estándar,966.8,Brasil,Drama,2018-03-23,0
 14191,34,Básico,299.0,Uruguay,Documental,2023-11-27,1
 14192,23,Premium,658.5,Perú,Documental,2023-05-12,1
@@ -4230,7 +4230,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 14228,65,Básico,985.3,Chile,Acción,2025-12-06,1
 14229,47,Básico,724.8,México,Crimen,2024-04-20,0
 14230,35,Básico,493.7,Chile,Comedia,2025-10-11,2
-14231,23,Estándar,689.7,Chile,Comedia,2024-11-18,4
+14231,23,Estándar,689.7,Chile,Comedia,2024-11-18,5
 14232,36,Básico,451.8,Brasil,Documental,2022-01-01,1
 14233,33,Estándar,587.1,Chile,Comedia,2020-07-03,2
 14234,47,Básico,1073.8,Brasil,Thriller,2025-06-19,4
@@ -4254,7 +4254,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 14252,29,Premium,1158.2,Colombia,Acción,2024-11-09,0
 14253,31,Estándar,994.6,México,Crimen,2020-06-23,4
 14254,45,Estándar,397.9,Perú,Thriller,2025-03-04,0
-14255,45,Básico,0.0,México,Drama,2024-05-05,4
+14255,45,Básico,0.0,México,Drama,2024-05-05,5
 14256,26,Premium,1058.5,Uruguay,Thriller,2019-03-03,2
 14257,23,Básico,887.0,México,Comedia,2023-07-26,0
 14258,49,Básico,974.9,Perú,Documental,2019-07-31,1
@@ -4277,7 +4277,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 14275,26,Premium,887.0,Chile,Documental,2022-02-14,2
 14276,13,Básico,1121.2,Argentina,Acción,2025-10-10,2
 14277,36,Premium,1068.4,Perú,Acción,2018-10-05,0
-14278,16,Básico,3080.0,Colombia,Romance,2021-12-06,0
+14278,16,Básico,3577.0,Colombia,Romance,2021-12-06,0
 14279,32,Básico,295.8,México,Thriller,2020-11-17,3
 14280,34,Estándar,151.2,Argentina,Acción,2019-03-19,0
 14281,23,Premium,1280.3,México,Romance,2022-02-14,1
@@ -4323,7 +4323,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 14321,20,Premium,998.6,Perú,Comedia,2018-05-07,0
 14322,45,Básico,931.1,México,Acción,2022-11-02,0
 14323,32,Premium,1444.5,Brasil,Comedia,2025-01-05,1
-14324,46,Premium,3080.0,México,Drama,2019-11-07,1
+14324,46,Premium,3628.4,México,Drama,2019-11-07,1
 14325,35,Básico,217.3,Perú,Comedia,2024-10-23,0
 14326,34,Estándar,551.3,Perú,Documental,2022-11-14,2
 14327,46,Estándar,859.9,Argentina,Romance,2019-10-06,0
@@ -4345,7 +4345,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 14343,46,Premium,832.5,Perú,Comedia,2018-07-23,0
 14344,27,Premium,1085.4,México,Comedia,2022-05-29,1
 14345,50,Premium,1085.7,Colombia,Documental,2024-05-30,0
-14346,16,Premium,3080.0,Perú,Thriller,2024-03-01,1
+14346,16,Premium,3628.4,Perú,Thriller,2024-03-01,1
 14347,25,Premium,719.5,Chile,Drama,2023-07-04,2
 14348,21,Básico,573.3,México,Drama,2019-09-22,2
 14349,36,Premium,1234.4,Brasil,Drama,2018-08-12,0
@@ -4374,7 +4374,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 14372,40,Básico,406.4,Uruguay,Documental,2023-06-27,0
 14373,53,Premium,1113.2,Brasil,Acción,2025-05-31,0
 14374,36,Estándar,840.0,Brasil,Acción,2020-12-21,1
-14375,23,Básico,316.4,Argentina,Comedia,2019-01-09,4
+14375,23,Básico,316.4,Argentina,Comedia,2019-01-09,5
 14376,28,Básico,659.9,Chile,Acción,2025-03-14,0
 14377,40,Estándar,828.8,Chile,Crimen,2024-02-07,1
 14378,20,Básico,330.0,Colombia,Comedia,2022-05-07,1
@@ -4456,9 +4456,9 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 14454,36,Estándar,1149.6,Argentina,Romance,2023-02-20,0
 14455,27,Básico,884.1,Perú,Romance,2018-02-20,0
 14456,32,Básico,612.9,Colombia,Documental,2025-11-08,1
-14457,40,Básico,1165.1,Perú,Thriller,2022-02-14,4
+14457,40,Básico,1165.1,Perú,Thriller,2022-02-14,5
 14458,22,Básico,712.4,Perú,Documental,2022-02-14,3
-14459,27,Premium,1134.6,Uruguay,Romance,2023-11-11,4
+14459,27,Premium,1134.6,Uruguay,Romance,2023-11-11,5
 14460,27,Básico,230.8,Perú,Acción,2022-09-15,3
 14461,40,Básico,489.0,Colombia,Romance,2019-04-06,0
 14462,39,Estándar,1399.3,Colombia,Thriller,2022-08-25,0
@@ -4487,8 +4487,8 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 14485,22,Premium,932.9,Uruguay,Romance,2021-02-02,0
 14486,48,Premium,1111.1,Chile,Drama,2022-07-09,1
 14487,17,Estándar,863.4,Chile,Crimen,2019-08-13,1
-14488,45,Premium,3080.0,Uruguay,Thriller,2024-12-07,0
-14489,40,Básico,3080.0,Brasil,Thriller,2024-10-29,1
+14488,45,Premium,3628.4,Uruguay,Thriller,2024-12-07,0
+14489,40,Básico,3628.4,Brasil,Thriller,2024-10-29,1
 14490,38,Premium,922.5,Chile,Crimen,2025-08-20,0
 14491,32,Premium,1329.5,Perú,Acción,2025-10-12,0
 14492,39,Premium,1450.5,México,Drama,2022-07-04,0
@@ -4503,7 +4503,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 14501,27,Premium,1346.1,Uruguay,Thriller,2022-03-06,0
 14502,38,Básico,0.0,Argentina,Thriller,2018-03-24,1
 14503,13,Estándar,779.0,Argentina,Comedia,2021-10-15,0
-14504,27,Estándar,482.8,Uruguay,Crimen,2021-05-26,4
+14504,27,Estándar,482.8,Uruguay,Crimen,2021-05-26,5
 14505,17,Básico,0.0,Colombia,Comedia,2021-06-27,0
 14506,31,Básico,285.8,Colombia,Drama,2021-02-22,1
 14507,59,Premium,713.0,Brasil,Acción,2023-07-07,0
@@ -4616,7 +4616,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 14614,13,Estándar,950.5,Chile,Romance,2023-03-27,1
 14615,38,Básico,482.8,Chile,Crimen,2021-05-22,0
 14616,59,Estándar,905.6,Perú,Documental,2022-02-14,2
-14617,47,Estándar,740.1,México,Acción,2023-11-03,4
+14617,47,Estándar,740.1,México,Acción,2023-11-03,5
 14618,50,Premium,879.6,México,Comedia,2024-12-29,0
 14619,47,Estándar,680.2,Perú,Documental,2022-06-15,0
 14620,33,Estándar,865.3,Perú,Romance,2022-02-14,3
@@ -4644,7 +4644,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 14642,34,Premium,1303.7,Perú,Thriller,2025-05-11,0
 14643,13,Estándar,31.9,Chile,Acción,2025-12-22,0
 14644,18,Básico,528.4,Brasil,Crimen,2025-04-22,1
-14645,20,Básico,3080.0,Perú,Thriller,2021-05-08,1
+14645,20,Básico,3577.4,Perú,Thriller,2021-05-08,1
 14646,23,Estandar,824.7,Mexico,Thriller,2020-02-11,1
 14647,25,Básico,717.9,Argentina,Romance,2019-09-07,0
 14648,53,Básico,356.3,Argentina,Thriller,2023-10-20,0
@@ -4770,7 +4770,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 14768,42,Básico,369.3,Colombia,Documental,2023-12-16,2
 14769,39,Básico,65.0,Perú,Drama,2020-02-20,0
 14770,33,Premium,1201.9,Brasil,Romance,2022-02-14,2
-14771,47,Premium,3080.0,Argentina,Drama,2025-08-03,0
+14771,47,Premium,3628.4,Argentina,Drama,2025-08-03,0
 14772,32,Premium,1036.8,Chile,Comedia,2018-01-17,0
 14773,41,Básico,339.5,Colombia,Thriller,2025-01-10,0
 14774,31,Básico,590.7,Uruguay,Drama,2020-10-16,1
@@ -4796,7 +4796,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 14794,46,Básico,128.9,Chile,Thriller,2021-10-15,0
 14795,28,Básico,865.1,Chile,Comedia,2022-11-12,0
 14796,41,Estándar,1180.0,Perú,Drama,2025-09-14,1
-14797,32,Estándar,3080.0,Chile,Crimen,2019-07-03,0
+14797,32,Estándar,3319.7,Chile,Crimen,2019-07-03,0
 14798,37,Básico,670.3,Perú,Documental,2021-11-04,0
 14799,40,Básico,890.7,México,Documental,2023-07-01,0
 14800,39,Estándar,1341.8,México,Romance,2022-01-11,2
@@ -4846,7 +4846,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 14844,26,Premium,1443.8,Argentina,Thriller,2025-09-09,0
 14845,26,Básico,546.9,México,Drama,2025-01-25,0
 14846,13,Basico,384.2,Perú,Thriller,2018-02-08,2
-14847,33,Premium,786.9,Argentina,Documental,2022-02-14,4
+14847,33,Premium,786.9,Argentina,Documental,2022-02-14,5
 14848,31,Básico,754.7,Argentina,Thriller,2022-09-20,1
 14849,34,Básico,1070.0,Argentina,Crimen,2025-06-03,2
 14850,44,Estándar,327.3,Brasil,Acción,2019-02-18,1
@@ -4929,7 +4929,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 14927,32,Estándar,1368.2,Perú,Romance,2021-01-03,1
 14928,35,Estándar,551.7,Argentina,Acción,2019-01-16,1
 14929,46,Estándar,947.3,Perú,Thriller,2022-03-07,3
-14930,13,Estándar,3080.0,México,Thriller,2021-11-04,1
+14930,13,Estándar,3628.4,México,Thriller,2021-11-04,1
 14931,53,Premium,504.5,Chile,Documental,2020-01-20,0
 14932,48,Estándar,199.9,Argentina,Romance,2019-12-04,1
 14933,51,Básico,815.1,Uruguay,Documental,2022-02-14,2
@@ -4950,11 +4950,11 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 14948,33,Estándar,348.4,Perú,Documental,2019-03-01,1
 14949,14,Estándar,251.9,Colombia,Thriller,2022-09-01,0
 14950,36,Básico,283.8,Brasil,Crimen,2024-08-16,0
-14951,26,Básico,3080.0,Perú,Thriller,2023-06-01,1
+14951,26,Básico,3628.4,Perú,Thriller,2023-06-01,1
 14952,33,Estándar,923.8,Chile,Romance,2024-05-19,1
 14953,55,Básico,359.5,Brasil,Romance,2025-08-10,0
 14954,32,Premium,810.8,Argentina,Thriller,2022-11-30,1
-14955,28,Básico,466.5,Colombia,Comedia,2020-01-13,4
+14955,28,Básico,466.5,Colombia,Comedia,2020-01-13,5
 14956,40,Básico,614.3,Perú,Drama,2024-11-08,0
 14957,74,Estándar,889.7,Perú,Documental,2022-04-05,1
 14958,38,Básico,303.9,Chile,Documental,2022-01-08,0
@@ -4964,7 +4964,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 14962,32,Básico,615.3,Brasil,Crimen,2022-02-14,3
 14963,33,Básico,331.7,Colombia,Documental,2023-06-02,4
 14964,34,Básico,367.9,México,Romance,2022-02-14,0
-14965,19,Básico,831.6,Perú,Documental,2019-04-08,4
+14965,19,Básico,831.6,Perú,Documental,2019-04-08,5
 14966,13,Premium,666.2,Colombia,Crimen,2022-08-12,0
 14967,37,Estándar,646.7,Perú,Thriller,2022-12-11,1
 14968,42,Premium,1306.4,Brasil,Drama,2018-07-08,0
@@ -5002,7 +5002,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 15000,32,Estándar,549.2,México,Thriller,2018-12-08,1
 15001,25,Básico,246.3,Argentina,Comedia,2018-02-17,0
 15002,22,Premium,1001.8,Argentina,Acción,2025-03-20,0
-15003,36,Estándar,3080.0,México,Documental,2019-10-05,0
+15003,36,Estándar,3628.4,México,Documental,2019-10-05,0
 15004,37,Estándar,925.4,Perú,Acción,2023-09-02,0
 15005,20,Básico,853.0,México,Romance,2023-04-07,0
 15006,40,Básico,1484.2,Uruguay,Documental,2023-07-24,0
@@ -5096,7 +5096,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 15094,36,Estándar,858.9,Brasil,Acción,2020-02-20,2
 15095,61,Básico,740.3,Argentina,Drama,2021-10-16,2
 15096,32,Básico,497.5,Perú,Romance,2019-03-18,0
-15097,13,Básico,724.6,Chile,Crimen,2022-08-25,4
+15097,13,Básico,724.6,Chile,Crimen,2022-08-25,5
 15098,37,Estándar,876.1,Perú,Acción,2018-07-10,0
 15099,32,Premium,728.8,Argentina,Comedia,2025-02-06,2
 15100,37,Básico,501.6,Chile,Drama,2025-07-16,0
@@ -5114,7 +5114,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 15112,45,Básico,1038.3,Uruguay,Comedia,2018-07-18,1
 15113,21,Estándar,760.5,México,Thriller,2024-03-16,0
 15114,38,Premium,1012.4,México,Drama,2022-11-08,1
-15115,56,Estándar,3080.0,Chile,Acción,2024-07-24,1
+15115,56,Estándar,3628.4,Chile,Acción,2024-07-24,1
 15116,26,Básico,611.1,México,Romance,2023-06-02,0
 15117,37,Básico,189.5,Uruguay,Thriller,2023-09-14,3
 15118,13,Estándar,688.7,Argentina,Comedia,2019-12-27,0
@@ -5134,7 +5134,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 15132,34,Premium,785.0,Colombia,Thriller,2024-10-30,0
 15133,60,Estándar,1421.5,méxico,Documental,2025-10-07,1
 15134,43,Estandar,834.9,Perú,Romance,2020-10-13,0
-15135,24,Básico,3080.0,Colombia,Drama,2021-01-25,1
+15135,24,Básico,3154.3,Colombia,Drama,2021-01-25,1
 15136,23,Estándar,1387.7,Argentina,Comedia,2022-06-18,1
 15137,52,Básico,1084.4,Colombia,Documental,2021-11-05,0
 15138,37,Premium,1458.0,Brasil,Documental,2021-04-19,1
@@ -5156,7 +5156,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 15154,27,Básico,194.3,Perú,Acción,2020-04-02,1
 15155,31,Premium,509.8,Uruguay,Comedia,2020-05-08,0
 15156,25,Estándar,723.8,Argentina,Drama,2024-12-31,0
-15157,29,Estándar,834.6,Colombia,Thriller,2021-04-05,4
+15157,29,Estándar,834.6,Colombia,Thriller,2021-04-05,5
 15158,31,Estándar,1115.2,Brasil,Romance,2025-09-13,1
 15159,33,Básico,462.2,Argentina,Acción,2021-11-15,3
 15160,54,Premium,1062.3,Brasil,Documental,2025-07-17,1
@@ -5185,7 +5185,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 15183,13,Básico,266.7,Colombia,Documental,2022-02-14,2
 15184,45,Básico,595.2,Uruguay,Drama,2018-02-22,2
 15185,22,Básico,623.1,Chile,Thriller,2023-11-12,2
-15186,39,Estándar,709.6,Brasil,Thriller,2019-03-13,4
+15186,39,Estándar,709.6,Brasil,Thriller,2019-03-13,5
 15187,41,Estándar,277.7,Argentina,Acción,2018-04-14,1
 15188,47,básico,547.9,Argentina,Drama,2022-04-10,2
 15189,43,Premium,1171.8,Chile,Thriller,2019-08-19,1
@@ -5212,7 +5212,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 15210,32,Básico,600.2,Colombia,Thriller,2025-07-29,0
 15211,29,Básico,526.8,Perú,Crimen,2024-04-20,0
 15212,13,Premium,1337.3,Brasil,Comedia,2020-07-07,0
-15213,28,Estándar,3080.0,Colombia,Acción,2025-04-04,0
+15213,28,Estándar,3628.4,Colombia,Acción,2025-04-04,0
 15214,31,Estándar,1083.4,Chile,Documental,2024-04-17,4
 15215,20,Básico,19.2,Perú,Romance,2022-05-12,0
 15216,54,Básico,877.8,México,Acción,2020-08-31,2
@@ -5287,7 +5287,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 15285,13,Estándar,394.0,Uruguay,Drama,2022-02-14,2
 15286,35,Estándar,7.0,Argentina,Documental,2023-11-23,0
 15287,36,Básico,1152.4,Mexico,Acción,2020-06-19,1
-15288,51,Premium,1350.2,Perú,Acción,2020-01-24,4
+15288,51,Premium,1350.2,Perú,Acción,2020-01-24,5
 15289,30,Básico,319.8,Colombia,Drama,2023-11-03,1
 15290,27,Premium,1040.9,Argentina,Comedia,2018-10-07,0
 15291,27,Básico,351.3,México,Romance,2023-09-01,1
@@ -5305,7 +5305,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 15303,47,Estándar,1218.4,Uruguay,Comedia,2021-09-18,0
 15304,39,Estándar,760.8,Colombia,Documental,2022-01-17,2
 15305,42,Estandar,716.8,Chile,Thriller,2021-04-17,1
-15306,31,Premium,1091.5,Brasil,Comedia,2020-06-13,4
+15306,31,Premium,1091.5,Brasil,Comedia,2020-06-13,5
 15307,38,Estándar,755.9,Brasil,Comedia,2024-12-07,0
 15308,33,Básico,0.0,Colombia,Comedia,2023-12-13,0
 15309,22,Basico,531.7,Perú,Comedia,2023-04-30,0
@@ -5321,7 +5321,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 15319,26,Básico,279.9,Perú,Romance,2024-11-18,1
 15320,18,Básico,257.0,Perú,Thriller,2024-12-19,2
 15321,16,Básico,225.9,México,Acción,2020-09-25,1
-15322,38,Básico,875.2,Uruguay,Drama,2018-06-13,4
+15322,38,Básico,875.2,Uruguay,Drama,2018-06-13,5
 15323,53,Premium,1113.2,Brasil,Documental,2022-02-14,2
 15324,31,Básico,593.7,Argentina,Drama,2021-08-07,1
 15325,43,Básico,265.4,Chile,Crimen,2022-04-12,2
@@ -5383,7 +5383,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 15381,44,Premium,1405.2,Colombia,Drama,2022-07-28,0
 15382,20,Estándar,98.3,Perú,Acción,2022-05-09,1
 15383,25,Estándar,624.2,Chile,Crimen,2023-01-22,0
-15384,23,Estándar,681.4,Argentina,Crimen,2025-01-25,4
+15384,23,Estándar,681.4,Argentina,Crimen,2025-01-25,5
 15385,46,Básico,721.5,Chile,Documental,2022-07-15,1
 15386,33,Básico,236.9,Colombia,Documental,2022-11-09,1
 15387,24,Premium,1639.6,México,Thriller,2021-07-19,0
@@ -5399,7 +5399,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 15397,44,Básico,2866.7,Perú,Thriller,2024-07-26,1
 15398,42,Básico,1013.6,Chile,Drama,2018-07-06,0
 15399,14,Estándar,685.3,México,Drama,2025-11-10,1
-15400,37,Básico,3080.0,Chile,Drama,2018-10-25,1
+15400,37,Básico,3628.4,Chile,Drama,2018-10-25,1
 15401,55,Premium,1093.7,Chile,Drama,2022-01-05,1
 15402,37,Básico,164.1,Colombia,Romance,2023-08-22,1
 15403,20,Estándar,653.5,Perú,Acción,2019-03-11,0
@@ -5427,7 +5427,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 15425,67,Básico,551.4,Perú,Acción,2021-05-05,1
 15426,28,Premium,866.5,Argentina,Documental,2025-08-06,0
 15427,47,Básico,444.8,Colombia,Drama,2025-04-07,0
-15428,63,Estándar,549.9,Argentina,Comedia,2022-03-09,4
+15428,63,Estándar,549.9,Argentina,Comedia,2022-03-09,5
 15429,23,Básico,289.9,Uruguay,Drama,2018-02-15,1
 15430,36,Básico,1047.2,Brasil,Thriller,2024-03-17,2
 15431,56,Básico,249.6,Uruguay,Thriller,2024-03-23,2
@@ -5449,7 +5449,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 15447,34,Básico,554.5,Uruguay,Romance,2025-03-30,1
 15448,37,Básico,2716.6,Argentina,Crimen,2023-10-01,1
 15449,24,Estándar,792.2,Perú,Comedia,2019-08-07,0
-15450,29,Básico,3080.0,Brasil,Romance,2019-10-22,0
+15450,29,Básico,3628.4,Brasil,Romance,2019-10-22,0
 15451,42,Estándar,842.8,Argentina,Thriller,2020-01-24,0
 15452,17,Estándar ,140.8,Colombia,Drama,2020-06-23,0
 15453,22,Premium,1106.7,Perú,Romance,2024-12-01,1
@@ -5510,7 +5510,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 15508,60,Premium,1479.0,México,Acción,2021-02-07,0
 15509,29,Estándar,1067.3,Argentina,Crimen,2022-01-12,1
 15510,29,Básico,160.0,México,Drama,2019-07-05,1
-15511,31,Estándar,3080.0,Uruguay,Thriller,2025-08-15,0
+15511,31,Estándar,3628.4,Uruguay,Thriller,2025-08-15,0
 15512,24,Básico,0.0,Brasil,Drama,2021-09-20,0
 15513,24,Estándar,811.0,México,Acción,2023-05-20,0
 15514,59,Premium,1232.2,Colombia,Acción,2023-11-03,1
@@ -5620,7 +5620,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 15618,36,Estándar,379.6,Chile,Acción,2020-10-27,1
 15619,24,Básico,268.1,Brasil,Thriller,2022-03-22,2
 15620,44,Estándar,697.2,México,Drama,2020-07-01,1
-15621,39,Básico,3080.0,Brasil,Thriller,2023-10-17,1
+15621,39,Básico,3572.8,Brasil,Thriller,2023-10-17,1
 15622,36,Estándar,665.5,Perú,Romance,2022-07-21,0
 15623,43,Premium,790.7,Chile,Acción,2021-12-16,0
 15624,30,Premium,1119.3,Uruguay,Drama,2021-11-14,0
@@ -5634,7 +5634,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 15632,42,Básico,0.0,Perú,Crimen,2019-11-10,1
 15633,51,Básico,705.2,Perú,Documental,2020-07-31,0
 15634,32,Básico,821.9,Perú,Drama,2018-11-12,0
-15635,29,Estándar,493.0,Brasil,Acción,2023-10-09,4
+15635,29,Estándar,493.0,Brasil,Acción,2023-10-09,5
 15636,31,Básico,1099.8,Argentina,Documental,2025-03-20,1
 15637,13,Básico,434.8,Chile,Documental,2021-02-24,1
 15638,41,Estándar,846.7,Uruguay,Drama,2020-05-16,1
@@ -5688,12 +5688,12 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 15686,60,Premium,1228.9,Colombia,Drama,2023-01-14,0
 15687,17,Básico,397.7,Chile,Comedia,2024-10-20,0
 15688,17,Estándar,1127.3,Brasil,Documental,2023-04-15,1
-15689,36,Básico,759.9,Brasil,Comedia,2023-05-27,4
+15689,36,Básico,759.9,Brasil,Comedia,2023-05-27,5
 15690,25,Básico,71.6,México,Thriller,2019-11-30,1
 15691,44,Estándar,577.5,México,Documental,2020-06-17,2
 15692,37,Estándar,989.1,Chile,Crimen,2022-08-10,1
 15693,22,Estándar,1093.9,Colombia,Crimen,2024-09-27,0
-15694,22,Básico,26.5,Perú,Thriller,2019-08-08,4
+15694,22,Básico,26.5,Perú,Thriller,2019-08-08,5
 15695,34,Básico,635.0,Peru,Drama,2022-02-14,2
 15696,44,Estándar,583.2,México,Crimen,2020-01-15,1
 15697,28,Estándar,422.6,México,Comedia,2024-12-27,1
@@ -5707,7 +5707,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 15705,25,Básico,212.7,Brasil,Thriller,2024-09-09,0
 15706,14,Basico,261.8,México,Crimen,2024-08-16,0
 15707,51,Premium,1163.7,Argentina,Comedia,2018-10-09,0
-15708,48,Estándar ,1527.2,Argentina,Comedia,2020-07-30,4
+15708,48,Estándar ,1527.2,Argentina,Comedia,2020-07-30,5
 15709,24,Estándar,878.1,Argentina,Romance,2022-03-30,0
 15710,38,básico,1080.4,México,Drama,2022-02-14,0
 15711,28,Premium,1184.4,México,Documental,2019-06-26,0
@@ -5719,7 +5719,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 15717,24,Básico,557.4,Chile,Comedia,2025-09-04,3
 15718,18,Premium,1038.6,Perú,Romance,2022-09-16,0
 15719,35,Estándar,687.6,Uruguay,Romance,2019-09-05,0
-15720,67,Premium,3080.0,Uruguay,Drama,2024-10-16,1
+15720,67,Premium,3504.3,Uruguay,Drama,2024-10-16,1
 15721,41,Estándar,496.8,Brasil,Crimen,2019-01-30,1
 15722,47,Estándar,1208.0,México,Comedia,2019-12-28,1
 15723,32,Básico,422.7,Chile,Drama,2023-05-04,1
@@ -5851,7 +5851,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 15849,46,Básico,623.7,México,Romance,2022-06-30,1
 15850,29,Estándar,1174.6,Chile,Drama,2024-11-19,0
 15851,63,Básico,266.4,Argentina,Thriller,2025-05-11,1
-15852,24,Premium,1234.8,Argentina,Thriller,2023-11-05,4
+15852,24,Premium,1234.8,Argentina,Thriller,2023-11-05,5
 15853,32,Premium,1126.6,Perú,Romance,2021-03-19,1
 15854,48,Estándar,644.9,México,Comedia,2025-12-24,2
 15855,13,Básico,0.0,México,Romance,2024-09-13,0
@@ -5957,7 +5957,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 15955,23,Estándar,1184.4,Brasil,Acción,2020-12-14,1
 15956,35,Premium,1370.6,Uruguay,Drama,2020-10-13,2
 15957,58,Estándar,769.4,Chile,Romance,2021-03-22,1
-15958,40,Estándar,3080.0,Argentina,Thriller,2019-01-16,2
+15958,40,Estándar,3628.4,Argentina,Thriller,2019-01-16,2
 15959,48,Básico,0.0,Brasil,Crimen,2022-06-23,2
 15960,36,Básico,394.6,Argentina,Documental,2025-07-22,1
 15961,53,Estándar,1123.1,Chile,Comedia,2021-11-01,0
@@ -5971,7 +5971,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 15969,50,Estándar,1118.6,Argentina,Drama,2024-06-07,0
 15970,40,Básico,663.0,Perú,Crimen,2021-01-07,1
 15971,36,Premium,768.5,México,Comedia,2020-01-19,0
-15972,28,Básico,728.7,Uruguay,Comedia,2025-08-30,4
+15972,28,Básico,728.7,Uruguay,Comedia,2025-08-30,5
 15973,27,Estándar,440.0,Colombia,Thriller,2020-02-18,1
 15974,38,Premium,1173.6,Chile,Drama,2023-08-06,0
 15975,29,Estándar,1204.7,Chile,Comedia,2020-03-28,3
@@ -6000,8 +6000,8 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 15998,35,Estándar,683.1,Argentina,Drama,2024-12-17,2
 15999,44,Básico,680.8,México,Documental,2021-07-15,0
 16000,32,Básico,1196.9,Argentina,Acción,2023-07-10,0
-16001,21,Básico,3080.0,Uruguay,Thriller,2024-06-11,1
-16002,20,Básico,712.9,Brasil,Crimen,2021-01-30,4
+16001,21,Básico,3628.4,Uruguay,Thriller,2024-06-11,1
+16002,20,Básico,712.9,Brasil,Crimen,2021-01-30,5
 16003,34,Estándar,876.8,Brasil,Romance,2023-07-04,0
 16004,45,Estándar,561.5,Colombia,Crimen,2020-01-20,1
 16005,36,Básico,754.4,Uruguay,Crimen,2023-09-25,1
@@ -6026,7 +6026,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 16024,24,Básico,513.9,Argentina,Documental,2025-10-31,1
 16025,50,Básico,0.0,Colombia,Acción,2023-10-24,1
 16026,24,Básico,1074.8,Argentina,Comedia,2023-02-28,0
-16027,39,Estándar ,3080.0,Argentina,Romance,2021-07-16,2
+16027,39,Estándar ,3628.4,Argentina,Romance,2021-07-16,2
 16028,38,Básico,614.8,México,Drama,2025-09-24,0
 16029,40,Básico,543.5,Chile,Documental,2018-02-04,1
 16030,48,Basico,277.9,Argentina,Drama,2018-02-18,1
@@ -6142,7 +6142,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 16140,32,Básico,0.0,Perú,Acción,2022-09-24,0
 16141,42,Estándar,731.5,Chile,Romance,2025-01-29,0
 16142,13,Premium,1156.5,Chile,Acción,2024-11-13,0
-16143,33,Estándar,3080.0,Perú,Acción,2024-05-30,1
+16143,33,Estándar,3323.7,Perú,Acción,2024-05-30,1
 16144,53,Estándar,1207.4,Colombia,Documental,2022-07-16,2
 16145,24,Básico,271.0,México,Romance,2018-10-20,1
 16146,43,Básico,301.9,Argentina,Crimen,2018-11-21,0
@@ -6161,7 +6161,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 16159,47,Estándar,818.0,Uruguay,Acción,2021-01-16,0
 16160,38,Premium,993.9,Brasil,Comedia,2022-12-28,2
 16161,22,Estándar,288.7,Chile,Acción,2022-01-27,0
-16162,37,Estandar,3080.0,Brasil,Romance,2024-08-01,1
+16162,37,Estandar,3628.4,Brasil,Romance,2024-08-01,1
 16163,34,Estándar,1042.4,Uruguay,Drama,2023-11-04,2
 16164,44,Básico,1327.5,Perú,Drama,2023-01-19,1
 16165,35,Básico,374.5,Uruguay,Drama,2022-08-23,1
@@ -6199,14 +6199,14 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 16197,24,Básico,563.3,Brasil,Thriller,2020-10-10,1
 16198,50,Estándar,1196.0,Mexico,Crimen,2021-03-09,2
 16199,33,Básico,447.2,Perú,Comedia,2022-12-21,0
-16200,33,Básico,3080.0,Argentina,Comedia,2025-01-10,0
+16200,33,Básico,3628.4,Argentina,Comedia,2025-01-10,0
 16201,25,Básico,481.4,Perú,Documental,2019-06-02,2
 16202,35,Básico,918.2,México,Thriller,2019-06-22,2
 16203,22,Premium,1116.3,Brasil,Drama,2023-11-28,1
 16204,29,Básico,339.0,México,Crimen,2019-11-30,0
 16205,35,Premium,1156.4,Chile,Crimen,2018-04-28,2
 16206,30,Premium,834.7,Colombia,Drama,2018-05-24,0
-16207,21,Estándar,3080.0,Chile,Thriller,2022-02-14,3
+16207,21,Estándar,3628.4,Chile,Thriller,2022-02-14,3
 16208,31,Básico,226.8,Chile,Drama,2022-01-01,0
 16209,13,Estándar,402.3,Chile,Documental,2021-08-25,1
 16210,31,Básico,574.3,México,Acción,2023-05-05,0
@@ -6218,7 +6218,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 16216,35,Estándar,191.6,Chile,Documental,2019-07-08,0
 16217,23,Básico,290.3,Argentina,Comedia,2025-10-28,0
 16218,16,Básico,706.8,México,Comedia,2024-01-18,4
-16219,35,Básico,3080.0,Perú,Comedia,2019-12-27,0
+16219,35,Básico,3092.2,Perú,Comedia,2019-12-27,0
 16220,22,Premium,664.3,Uruguay,Acción,2024-08-17,0
 16221,57,Básico,60.2,Chile,Drama,2024-09-13,1
 16222,29,Estándar,1086.9,Uruguay,Comedia,2023-02-14,1
@@ -6229,14 +6229,14 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 16227,43,Premium,868.4,Brasil,Drama,2023-11-15,0
 16228,19,Estandar,1073.7,Uruguay,Thriller,2025-03-05,0
 16229,33,Estándar,1190.1,Argentina,Romance,2025-03-04,1
-16230,15,Premium,3080.0,México,Documental,2023-12-27,1
+16230,15,Premium,3628.4,México,Documental,2023-12-27,1
 16231,31,Estándar,950.0,Uruguay,Acción,2021-06-22,1
 16232,25,Básico,1061.0,Chile,Romance,2021-11-23,0
 16233,31,Basico,631.3,Argentina,Documental,2023-05-27,1
 16234,31,Básico,0.0,Chile,Romance,2024-01-20,2
 16235,46,Premium,1273.4,México,Comedia,2020-07-19,1
 16236,13,Premium,821.6,Colombia,Documental,2019-01-02,0
-16237,22,Estándar,3080.0,Argentina,Documental,2022-12-15,0
+16237,22,Estándar,3628.4,Argentina,Documental,2022-12-15,0
 16238,43,Básico,274.6,Colombia,Crimen,2021-06-15,3
 16239,55,Premium,1365.7,Colombia,Comedia,2022-02-07,2
 16240,42,Premium,1336.6,Brasil,Comedia,2022-08-16,1
@@ -6411,7 +6411,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 16409,20,Estándar,117.6,Uruguay,Crimen,2018-09-03,0
 16410,20,Premium,1430.8,Perú,Acción,2018-09-02,0
 16411,36,Estándar,1764.8,Chile,Crimen,2021-12-27,1
-16412,38,Premium,966.5,México,Documental,2025-03-25,4
+16412,38,Premium,966.5,México,Documental,2025-03-25,5
 16413,53,Básico,698.8,Colombia,Comedia,2019-09-23,1
 16414,25,Básico,784.4,Perú,Drama,2025-11-12,1
 16415,48,Básico,444.5,Brasil,Thriller,2022-02-14,2
@@ -6464,7 +6464,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 16462,13,Estándar,0.0,Chile,Crimen,2025-02-26,2
 16463,30,Estándar,754.6,Brasil,Romance,2023-09-04,2
 16464,23,Básico,872.6,Argentina,Acción,2022-04-02,2
-16465,43,básico,3080.0,Brasil,Acción,2020-01-30,1
+16465,43,básico,3628.4,Brasil,Acción,2020-01-30,1
 16466,16,básico,1153.5,Colombia,Crimen,2018-03-18,1
 16467,45,Estandar,188.5,Brasil,Drama,2024-12-13,2
 16468,55,Estándar,1014.4,Brasil,Crimen,2022-01-31,1
@@ -6481,11 +6481,11 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 16479,24,Básico,358.9,Brasil,Documental,2023-07-31,2
 16480,48,Básico,810.2,Mexico,Thriller,2024-03-08,1
 16481,40,Básico,1126.4,Uruguay,Documental,2019-09-24,0
-16482,44,Básico,3080.0,Uruguay,Comedia,2024-11-16,3
+16482,44,Básico,3628.4,Uruguay,Comedia,2024-11-16,3
 16483,24,Estándar,785.4,Perú,Acción,2021-03-05,1
 16484,24,Básico,300.1,Colombia,Documental,2021-08-14,0
 16485,41,Estándar,850.3,México,Crimen,2022-08-06,0
-16486,33,Premium,3080.0,Uruguay,Documental,2025-03-10,1
+16486,33,Premium,3336.3,Uruguay,Documental,2025-03-10,1
 16487,31,Estándar,689.6,Colombia,Comedia,2021-08-12,0
 16488,43,Básico,195.0,Colombia,Comedia,2019-03-29,0
 16489,38,Estándar,788.2,Perú,Documental,2019-01-30,0
@@ -6603,7 +6603,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 16601,33,Básico,1432.2,Brasil,Thriller,2021-03-11,0
 16602,21,Estándar,1403.5,Perú,Documental,2024-09-06,1
 16603,34,Básico,217.4,Perú,Documental,2018-03-08,3
-16604,51,Premium,3080.0,Perú,Thriller,2023-10-22,1
+16604,51,Premium,3628.4,Perú,Thriller,2023-10-22,1
 16605,62,Estándar,485.1,México,Thriller,2019-07-08,0
 16606,26,Básico,280.4,Colombia,Thriller,2021-05-21,0
 16607,35,Básico,1037.7,Argentina,Romance,2018-01-27,1
@@ -6627,7 +6627,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 16625,18,Estándar ,934.9,Perú,Drama,2019-10-02,0
 16626,25,Básico,920.3,Brasil,Thriller,2019-07-21,0
 16627,33,Premium,1023.5,Argentina,Thriller,2020-12-21,0
-16628,49,Estándar,3080.0,Brasil,Comedia,2022-12-02,0
+16628,49,Estándar,3628.4,Brasil,Comedia,2022-12-02,0
 16629,40,Estándar,734.9,Brasil,Comedia,2024-07-12,1
 16630,13,Básico,383.4,Chile,Drama,2020-10-20,0
 16631,39,Estándar,754.4,México,Acción,2020-08-12,0
@@ -6670,7 +6670,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 16668,33,Estándar,1160.2,Brasil,Drama,2018-08-10,1
 16669,24,Estándar,577.6,Argentina,Thriller,2021-06-02,0
 16670,16,Básico,309.4,México,Drama,2022-02-14,2
-16671,29,Premium,3080.0,Brasil,Acción,2018-06-18,0
+16671,29,Premium,3628.4,Brasil,Acción,2018-06-18,0
 16672,14,Básico,1122.2,Perú,Acción,2021-07-31,0
 16673,61,Estándar,757.8,Uruguay,Crimen,2024-01-21,1
 16674,30,Básico,0.0,Perú,Drama,2024-05-02,2
@@ -6690,7 +6690,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 16688,15,Básico,513.5,Brasil,Drama,2019-01-04,0
 16689,45,Básico,498.6,Perú,Documental,2020-06-28,1
 16690,58,Básico,222.0,Colombia,Acción,2022-05-11,3
-16691,13,Básico,3080.0,Colombia,Documental,2021-04-01,0
+16691,13,Básico,3506.7,Colombia,Documental,2021-04-01,0
 16692,25,Estándar,1218.2,Brasil,Crimen,2022-06-04,2
 16693,55,Básico,402.6,Colombia,Crimen,2019-08-30,1
 16694,15,Premium,1355.3,México,Comedia,2019-06-26,1
@@ -6714,13 +6714,13 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 16712,13,Estándar,666.7,Perú,Romance,2020-03-22,1
 16713,22,Estándar,104.0,Chile,Crimen,2023-06-22,1
 16714,37,Básico,1009.1,México,Romance,2022-06-08,0
-16715,38,Estándar,997.7,Chile,Drama,2025-04-25,4
+16715,38,Estándar,997.7,Chile,Drama,2025-04-25,5
 16716,49,Básico,691.6,Colombia,Crimen,2024-05-29,0
 16717,37,Básico,381.5,Brasil,Romance,2020-03-14,0
 16718,24,Estándar,804.5,México,Drama,2024-04-17,2
 16719,31,Básico,641.7,Brasil,Crimen,2024-11-28,0
 16720,39,Básico,877.5,Argentina,Romance,2023-11-18,0
-16721,30,Premium,1106.4,Uruguay,Drama,2020-10-05,4
+16721,30,Premium,1106.4,Uruguay,Drama,2020-10-05,5
 16722,21,Premium,1128.7,Chile,Documental,2020-09-19,0
 16723,41,Premium,1331.2,Perú,Drama,2018-10-21,1
 16724,40,Estándar,796.6,Perú,Romance,2020-12-26,0
@@ -6781,7 +6781,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 16779,23,Básico,1055.4,México,Drama,2024-02-26,2
 16780,13,Estándar,719.5,Chile,Documental,2023-06-02,1
 16781,41,Premium,1119.3,Uruguay,Acción,2024-12-26,1
-16782,20,Básico,3080.0,Colombia,Acción,2019-08-02,2
+16782,20,Básico,3628.4,Colombia,Acción,2019-08-02,2
 16783,44,Premium,894.7,Chile,Thriller,2025-10-18,1
 16784,37,Básico,792.8,Argentina,Thriller,2025-11-02,1
 16785,29,Estándar,833.6,Perú,Thriller,2025-06-30,1
@@ -6819,7 +6819,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 16817,35,Básico,854.3,Colombia,Thriller,2022-04-09,1
 16818,28,Básico,1163.9,Colombia,Crimen,2023-09-14,1
 16819,55,Básico,356.6,Colombia,Romance,2025-12-16,0
-16820,39,Básico,209.1,Uruguay,Acción,2019-02-12,4
+16820,39,Básico,209.1,Uruguay,Acción,2019-02-12,5
 16821,42,Básico,600.6,Argentina,Documental,2021-07-16,0
 16822,46,Básico,13.9,Colombia,Romance,2023-06-09,0
 16823,15,Estándar,1421.2,México,Romance,2024-09-11,1
@@ -6950,7 +6950,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 16948,35,Básico,888.5,México,Comedia,2023-07-06,1
 16949,36,Premium,1292.0,Colombia,Romance,2023-04-25,0
 16950,28,Estándar,818.0,México,Crimen,2019-07-18,3
-16951,42,Estándar,3080.0,Colombia,Documental,2019-11-02,1
+16951,42,Estándar,3628.4,Colombia,Documental,2019-11-02,1
 16952,23,Premium,1371.3,Chile,Crimen,2020-03-02,0
 16953,36,Básico,312.2,Brasil,Thriller,2020-07-15,2
 16954,37,Estándar,307.7,Argentina,Documental,2018-05-13,0
@@ -7012,13 +7012,13 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 17010,42,Estándar,271.4,Chile,Crimen,2022-09-27,1
 17011,27,Premium,1204.4,Chile,Drama,2021-04-20,0
 17012,32,Premium,1245.6,Chile,Romance,2024-11-16,0
-17013,46,Básico,485.1,México,Comedia,2018-08-12,4
+17013,46,Básico,485.1,México,Comedia,2018-08-12,5
 17014,18,Básico,577.9,Uruguay,Romance,2025-09-27,0
 17015,47,Básico,265.4,Brasil,Romance,2023-10-19,0
 17016,33,Premium,1413.6,Brasil,Crimen,2019-08-06,0
 17017,35,Estándar,1100.5,México,Drama,2023-03-14,2
 17018,36,Básico,545.3,Colombia,Romance,2025-03-31,1
-17019,50,Premium,1328.2,México,Romance,2023-01-25,4
+17019,50,Premium,1328.2,México,Romance,2023-01-25,5
 17020,52,Premium,1301.1,Colombia,Crimen,2019-01-06,2
 17021,39,Básico,344.0,Uruguay,Romance,2023-08-13,0
 17022,13,Básico,207.2,México,Romance,2019-04-09,0
@@ -7088,7 +7088,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 17086,29,Básico,942.6,Chile,Crimen,2020-11-02,0
 17087,41,Estándar,63.4,Perú,Comedia,2018-02-20,0
 17088,24,Premium,952.6,Colombia,Crimen,2023-02-22,1
-17089,35,Premium,3080.0,Colombia,Crimen,2023-08-01,1
+17089,35,Premium,3628.4,Colombia,Crimen,2023-08-01,1
 17090,31,Estándar,797.2,Brasil,Drama,2023-08-05,1
 17091,25,Básico,662.0,Perú,Comedia,2024-02-05,1
 17092,50,Básico,359.5,Colombia,Documental,2018-01-24,2
@@ -7112,7 +7112,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 17110,29,Básico,142.9,Perú,Drama,2024-12-13,0
 17111,50,Estándar,817.3,Colombia,Documental,2025-01-18,0
 17112,19,Estándar,722.7,Argentina,Thriller,2024-04-02,2
-17113,50,Estándar,3080.0,Brasil,Romance,2020-04-30,0
+17113,50,Estándar,3628.4,Brasil,Romance,2020-04-30,0
 17114,34,Básico,937.8,Argentina,Documental,2018-07-20,0
 17115,55,Estándar,1493.2,Chile,Documental,2020-01-28,1
 17116,28,Estándar,684.1,Chile,Acción,2019-08-31,0
@@ -7130,7 +7130,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 17128,41,Premium,1298.5,Uruguay,Thriller,2018-12-26,1
 17129,14,Estándar,1221.9,Colombia,Documental,2018-07-20,0
 17130,38,Estándar,905.2,Colombia,Thriller,2019-03-23,1
-17131,32,Básico,3080.0,México,Accion,2022-04-09,1
+17131,32,Básico,3628.4,México,Accion,2022-04-09,1
 17132,18,Básico,615.1,Argentina,Comedia,2020-01-01,0
 17133,34,Básico,1002.4,Colombia,Acción,2019-10-23,0
 17134,26,Estándar,958.0,Brasil,Documental,2025-07-15,0
@@ -7139,7 +7139,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 17137,26,Básico,427.9,Chile,Romance,2025-05-31,1
 17138,35,Estándar,1316.7,Uruguay,Documental,2025-10-03,2
 17139,29,Basico,204.4,México,Drama,2025-11-06,0
-17140,35,Básico,3080.0,Chile,Crimen,2024-09-02,0
+17140,35,Básico,3619.2,Chile,Crimen,2024-09-02,0
 17141,23,Premium,1388.3,Perú,Acción,2024-06-02,0
 17142,33,Premium,903.0,Colombia,Romance,2024-04-21,0
 17143,48,Estándar,675.0,Brasil,Acción,2019-12-28,1
@@ -7151,7 +7151,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 17149,34,Estándar,325.0,Brasil,Thriller,2021-05-10,0
 17150,13,Básico,902.7,Chile,Romance,2021-08-15,0
 17151,47,Básico,7.9,Colombia,Drama,2022-02-18,2
-17152,39,Básico,3080.0,Brasil,Thriller,2022-04-02,3
+17152,39,Básico,3159.8,Brasil,Thriller,2022-04-02,3
 17153,45,Premium,919.8,Chile,Crimen,2018-10-05,3
 17154,52,Básico,226.7,Colombia,Thriller,2022-10-17,1
 17155,13,Básico,191.5,méxico,Documental,2024-03-04,1
@@ -7390,7 +7390,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 17388,38,Estándar,616.8,Uruguay,Acción,2022-12-23,1
 17389,44,Premium,756.5,Argentina,Comedia,2018-07-27,0
 17390,36,Básico,336.3,Brasil,Documental,2019-06-17,1
-17391,29,Básico,3080.0,Brasil,Comedia,2018-04-29,2
+17391,29,Básico,3309.4,Brasil,Comedia,2018-04-29,2
 17392,24,Básico,365.7,Uruguay,Thriller,2023-04-13,0
 17393,37,Básico,836.4,Argentina,Documental,2025-07-29,0
 17394,25,Básico,0.0,Perú,Thriller,2018-07-26,0
@@ -7460,7 +7460,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 17458,19,Básico,503.2,Uruguay,Drama,2019-06-06,0
 17459,13,Básico,440.8,Brasil,Thriller,2023-09-12,0
 17460,26,Básico,752.7,Colombia,Comedia,2019-02-26,0
-17461,35,Estándar,362.5,Argentina,Drama,2022-07-20,4
+17461,35,Estándar,362.5,Argentina,Drama,2022-07-20,5
 17462,29,Estándar,966.0,Brasil,Thriller,2019-03-15,3
 17463,48,Básico,689.1,México,Romance,2021-08-27,3
 17464,42,Estándar,703.7,México,Drama,2024-03-27,2
@@ -7478,7 +7478,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 17476,18,Básico,0.0,Perú,Romance,2024-02-23,1
 17477,24,Básico,410.9,Uruguay,Comedia,2019-10-14,2
 17478,46,Básico,393.2,México,Drama,2023-05-30,0
-17479,50,Premium,3080.0,Chile,Thriller,2022-04-22,1
+17479,50,Premium,3532.2,Chile,Thriller,2022-04-22,1
 17480,43,Básico,520.8,Brasil,Comedia,2018-09-28,0
 17481,64,Básico,669.0,Argentina,Romance,2021-10-27,1
 17482,40,Estándar,456.8,México,Documental,2020-05-02,1
@@ -7560,7 +7560,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 17558,41,Estándar ,1168.1,Colombia,Comedia,2018-08-06,0
 17559,47,Premium,1001.1,Perú,Drama,2018-01-04,1
 17560,46,Estándar,804.0,Uruguay,Thriller,2025-11-20,0
-17561,27,Estándar,3080.0,Chile,Drama,2024-04-12,0
+17561,27,Estándar,3628.4,Chile,Drama,2024-04-12,0
 17562,38,Premium,1085.7,Colombia,Thriller,2022-01-11,0
 17563,29,Básico,1144.4,Colombia,Romance,2019-03-26,1
 17564,34,Básico,563.4,Uruguay,Crimen,2021-03-01,0
@@ -7576,7 +7576,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 17574,47,Estándar,957.0,Colombia,Thriller,2022-04-17,0
 17575,48,Estándar,1282.9,Uruguay,Crimen,2022-07-22,1
 17576,43,Premium,863.8,Argentina,Thriller,2022-04-12,1
-17577,40,Premium,3080.0,Brasil,Acción,2022-11-18,1
+17577,40,Premium,3628.4,Brasil,Acción,2022-11-18,1
 17578,26,Estándar,934.3,Colombia,Acción,2024-02-11,1
 17579,17,Estándar,936.1,Uruguay,Documental,2020-05-15,0
 17580,46,Estándar,795.0,Uruguay,Acción,2025-06-06,1
@@ -7634,7 +7634,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 17632,48,Basico,1196.6,México,Crimen,2024-02-16,1
 17633,33,Premium,839.9,Uruguay,Acción,2022-02-14,2
 17634,13,Básico,850.7,México,Documental,2022-02-12,0
-17635,13,Estándar,3080.0,Brasil,Documental,2018-05-18,1
+17635,13,Estándar,3083.5,Brasil,Documental,2018-05-18,1
 17636,56,Estandar,963.0,Perú,Crimen,2018-06-05,1
 17637,46,Básico,307.8,Chile,Drama,2024-05-16,0
 17638,29,Premium,1134.5,Perú,Documental,2022-02-14,2
@@ -7653,7 +7653,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 17651,44,Estándar,458.1,Perú,Romance,2018-11-17,0
 17652,32,Premium,1659.1,Brasil,Comedia,2023-11-14,1
 17653,15,Básico,982.7,Chile,Comedia,2024-11-03,1
-17654,52,Básico,3080.0,Perú,Romance,2018-12-29,0
+17654,52,Básico,3628.4,Perú,Romance,2018-12-29,0
 17655,21,Básico,521.6,Argentina,Comedia,2020-10-01,0
 17656,36,Básico,548.2,Brasil,Documental,2023-04-20,2
 17657,39,Básico,1259.7,México,Acción,2025-01-27,2
@@ -7701,13 +7701,13 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 17699,25,Básico,445.0,Uruguay,Romance,2021-03-20,1
 17700,28,Premium,1130.7,México,Romance,2023-06-09,1
 17701,42,Básico,810.0,Perú,Romance,2018-12-04,0
-17702,28,Premium,1126.6,Perú,Documental,2019-06-04,4
+17702,28,Premium,1126.6,Perú,Documental,2019-06-04,5
 17703,35,Estándar,1470.1,Perú,Comedia,2023-09-02,0
 17704,27,Estándar,581.1,Uruguay,Documental,2018-11-11,0
 17705,30,Estándar,800.0,Brasil,Comedia,2021-02-12,1
 17706,13,Básico,296.2,Chile,Documental,2020-10-29,0
 17707,40,Estandar,701.4,Colombia,Drama,2019-06-27,1
-17708,36,Estándar,3080.0,Chile,Romance,2024-11-27,1
+17708,36,Estándar,3628.4,Chile,Romance,2024-11-27,1
 17709,56,Estándar,683.7,Uruguay,Crimen,2021-02-24,1
 17710,27,Estándar,895.1,Perú,Documental,2021-01-02,0
 17711,41,Estándar,1221.1,México,Acción,2020-11-18,1
@@ -7738,7 +7738,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 17736,60,Básico,967.3,México,Acción,2022-04-19,1
 17737,27,Básico,365.2,Chile,Drama,2020-09-01,2
 17738,13,Estándar,395.0,México,Drama,2025-05-30,0
-17739,38,Estándar,772.7,méxico,Crimen,2022-12-08,4
+17739,38,Estándar,772.7,méxico,Crimen,2022-12-08,5
 17740,44,Premium,1071.1,Perú,Comedia,2025-02-24,2
 17741,51,Básico,0.0,Colombia,Documental,2019-11-17,0
 17742,30,Estándar,742.0,Uruguay,Thriller,2020-05-13,2
@@ -7746,11 +7746,11 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 17744,25,básico,0.0,Chile,Crimen,2021-11-14,0
 17745,13,Básico,378.4,Chile,Romance,2018-08-11,1
 17746,40,Básico,0.0,Colombia,Drama,2025-03-15,0
-17747,47,Básico,613.7,Uruguay,Comedia,2020-12-18,4
+17747,47,Básico,613.7,Uruguay,Comedia,2020-12-18,5
 17748,33,Básico,471.6,Colombia,Romance,2019-04-21,0
 17749,34,Premium,1345.8,Uruguay,Comedia,2018-08-04,0
 17750,52,Basico,392.5,Uruguay,Drama,2019-11-18,1
-17751,17,Premium,835.0,Perú,Crimen,2023-03-16,4
+17751,17,Premium,835.0,Perú,Crimen,2023-03-16,5
 17752,24,Premium,1299.2,México,Documental,2022-06-22,0
 17753,40,Básico,429.4,Colombia,Drama,2023-05-05,0
 17754,46,Básico,521.9,Uruguay,Drama,2021-05-19,0
@@ -7768,7 +7768,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 17766,30,Básico,453.5,Chile,Comedia,2022-11-16,0
 17767,30,Básico,649.8,Perú,Crimen,2018-02-18,0
 17768,37,Básico,181.7,Colombia,Acción,2022-02-14,2
-17769,27,Básico,3080.0,Argentina,Thriller,2023-01-13,1
+17769,27,Básico,3584.7,Argentina,Thriller,2023-01-13,1
 17770,19,Estándar,950.2,Brasil,Thriller,2022-04-14,0
 17771,27,Básico,524.3,Brasil,Comedia,2025-08-11,1
 17772,51,Premium,1024.9,Argentina,Acción,2021-07-17,1
@@ -7790,7 +7790,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 17788,46,Estándar,802.8,México,Romance,2020-11-11,1
 17789,42,Básico,624.9,Perú,Comedia,2025-05-04,1
 17790,34,Básico,1009.7,Brasil,Acción,2024-07-20,1
-17791,19,Básico,3080.0,Uruguay,Acción,2022-05-22,0
+17791,19,Básico,3628.4,Uruguay,Acción,2022-05-22,0
 17792,40,Básico,770.8,Brasil,Drama,2023-03-04,1
 17793,32,Básico,933.4,Uruguay,Acción,2025-07-28,1
 17794,46,Básico,893.6,Brasil,Crimen,2020-09-17,2
@@ -7824,7 +7824,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 17822,45,Premium,1457.3,Argentina,Documental,2018-04-08,0
 17823,42,Estándar,757.5,Perú,Acción,2024-12-12,1
 17824,33,Premium,1011.4,Argentina,Crimen,2019-01-12,1
-17825,32,Estándar,3080.0,Argentina,Comedia,2018-08-21,2
+17825,32,Estándar,3151.9,Argentina,Comedia,2018-08-21,2
 17826,23,Básico,804.8,Uruguay,Romance,2024-08-30,0
 17827,50,Premium,1135.7,Perú,Comedia,2022-02-14,2
 17828,48,Premium,1271.4,Uruguay,Acción,2020-06-07,3
@@ -7842,7 +7842,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 17840,31,Premium,1541.2,Brasil,Comedia,2024-05-07,2
 17841,22,Básico,402.6,Chile,Crimen,2020-01-27,1
 17842,44,Estándar,290.3,Argentina,Thriller,2019-03-31,1
-17843,33,Básico,591.9,Colombia,Comedia,2025-10-20,4
+17843,33,Básico,591.9,Colombia,Comedia,2025-10-20,5
 17844,15,Básico,732.3,Uruguay,Acción,2020-01-25,0
 17845,53,Estándar,931.8,Perú,Accion,2020-11-03,0
 17846,40,Estándar,782.0,Colombia,Documental,2021-04-21,3
@@ -7880,7 +7880,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 17878,43,Básico,768.0,Argentina,Acción,2019-03-21,1
 17879,39,Básico,351.8,México,Acción,2019-08-13,1
 17880,19,Estándar,614.1,Uruguay,Romance,2024-01-24,0
-17881,35,Básico,3080.0,Colombia,Comedia,2022-11-02,0
+17881,35,Básico,3479.2,Colombia,Comedia,2022-11-02,0
 17882,19,Básico,600.9,Colombia,Comedia,2022-02-14,2
 17883,42,Estándar,947.2,Colombia,Thriller,2024-11-19,3
 17884,25,Estándar,551.2,Argentina,Acción,2025-03-20,0
@@ -7914,7 +7914,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 17912,44,Básico,696.3,Perú,Romance,2025-12-08,1
 17913,38,Premium,673.0,Colombia,Comedia,2023-07-03,0
 17914,44,Básico,1077.6,Uruguay,Romance,2023-05-13,1
-17915,42,Básico,486.0,Perú,Thriller,2022-11-22,4
+17915,42,Básico,486.0,Perú,Thriller,2022-11-22,5
 17916,62,Básico,920.4,Colombia,Crimen,2022-07-13,0
 17917,39,Básico,545.3,Colombia,Documental,2018-10-15,0
 17918,18,Básico,717.9,Argentina,Crimen,2024-01-22,0
@@ -7964,7 +7964,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 17962,23,Estándar,879.5,Perú,Thriller,2022-02-14,0
 17963,42,Estándar,652.4,Chile,Documental,2018-05-27,2
 17964,36,Básico,362.2,México,Drama,2020-03-01,1
-17965,32,Básico,776.4,Brasil,Acción,2018-04-14,4
+17965,32,Básico,776.4,Brasil,Acción,2018-04-14,5
 17966,42,Estándar,1081.4,Argentina,Thriller,2024-08-25,1
 17967,33,Básico,566.8,Chile,Crimen,2020-09-03,0
 17968,17,Básico,517.1,Brasil,Documental,2023-06-27,2
@@ -7988,7 +7988,7 @@ user_id,age,subscription_plan,monthly_watch_time_mins,country,favorite_genre,las
 17986,47,Estándar,1141.9,Argentina,Drama,2025-05-02,1
 17987,50,Premium,770.9,Chile,Crimen,2025-06-26,0
 17988,26,Básico,1079.5,Colombia,Thriller,2023-11-13,0
-17989,42,Premium,3080.0,Colombia,Comedia,2023-02-21,0
+17989,42,Premium,3503.1,Colombia,Comedia,2023-02-21,0
 17990,46,Básico,747.6,Chile,Crimen,2025-08-09,0
 17991,13,Premium,1367.4,Perú,Romance,2024-01-07,0
 17992,19,Basico,195.7,Brasil,Documental,2019-09-03,3

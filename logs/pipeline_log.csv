@@ -5,5 +5,5 @@ Paso,Decision,Evidencia,Filas,Nulos,Retencion (%)
 03,Estandarizacion de categorias equivalentes.,"Se unificaron variantes de plan, pais y genero favorito para evitar grupos duplicados por escritura.",8000,743,98.04
 04,Conversion de valores imposibles a nulos.,"Se marcaron como nulos edades fuera de 13-100, consumos negativos, tickets negativos y fechas invalidas/futuras.",8000,1019,98.04
 05,"Imputacion de nulos con medianas, modas y fecha mediana.",La base queda sin nulos y los reemplazos se apoyan en segmentos cuando es posible.,8000,0,98.04
-06,Winsorizacion superior de consumo mensual y tickets.,"Se aplico cap en percentil 99: watch_time=3080.0, tickets=4.",8000,0,98.04
+06,Winsorizacion superior de consumo mensual y tickets.,"Se aplico cap en percentil 99: watch_time=3628.4, tickets=5.",8000,0,98.04
 07,Normalizacion final de tipos y exportacion.,Se exporta el dataset procesado con las mismas columnas originales.,8000,0,98.04

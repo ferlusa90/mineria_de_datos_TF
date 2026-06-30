@@ -68,7 +68,23 @@ Luego se eliminan duplicados exactos porque no aportan informacion nueva. Para `
 4. Login mas reciente.
 5. Mayor completitud de campos.
 
-Tambien se estandarizaron categorias equivalentes, se marcaron valores imposibles como nulos, se imputaron faltantes con medianas/modas y se aplico winsorizacion superior para reducir el efecto de extremos.
+Para detectar valores sospechosos antes de limpiar se usaron reglas reproducibles:
+
+```python
+edad_q1 = raw["age"].quantile(0.25)
+edad_q3 = raw["age"].quantile(0.75)
+edad_iqr = edad_q3 - edad_q1
+edad_umbral_iqr_sup = edad_q3 + 1.5 * edad_iqr
+
+tickets_q1 = raw["customer_support_tickets"].quantile(0.25)
+tickets_q3 = raw["customer_support_tickets"].quantile(0.75)
+tickets_iqr = tickets_q3 - tickets_q1
+tickets_umbral_sospechoso = tickets_q3 + 1.5 * tickets_iqr
+
+cap_tickets = df["customer_support_tickets"].quantile(0.99)
+```
+
+Tambien se estandarizaron categorias equivalentes, se marcaron valores imposibles como nulos, se imputaron faltantes con medianas/modas y se aplico winsorizacion superior para reducir el efecto de extremos. La limpieza de edad uso limites de plausibilidad explicitos (13 a 100) y la de tickets se apoyo en IQR y percentiles. Los umbrales no se eligieron al tanteo: en tickets se uso una regla robusta basada en IQR para marcar sospechosos y luego un cap por percentil 99 sobre la base ya depurada para limitar extremos; en edad se usaron limites de plausibilidad de 13 a 100 anos, apoyados por la distribucion observada y por valores claramente imposibles en la base original.
 
 Resultado final:
 
@@ -123,4 +139,4 @@ El consumo mensual, el soporte y las preferencias de genero permiten describir p
 PCA ayuda a resumir variables numericas, pero no reemplaza la interpretacion del EDA.  
 Las conclusiones son descriptivas y quedan limitadas por las variables disponibles.
 
-La conclusion metodologica es la mas importante: en mineria de datos no conviene interpretar sin antes revisar calidad, justificar transformaciones y validar el resultado.
+La conclusion metodologica es la mas importante: en mineria de datos no conviene interpretar sin antes revisar calidad, justificar transformaciones y validar el resultado. En este trabajo, cada umbral queda respaldado por codigo, estadistica descriptiva o una regla de negocio declarada.

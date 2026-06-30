@@ -5,8 +5,8 @@ Este proyecto analiza usuarios de una plataforma de streaming a partir de un dat
 
 La idea central es trabajar como un analista de datos junior: antes de limpiar se revisa la evidencia, despues se aplica una regla explicita y finalmente se controla el impacto de la decision.
 
-Repositorio GitHub: https://github.com/ferlusa90/mineria_de_datos_TF  
-Aplicacion Streamlit: https://mineriadedatostf-a4hvlnmrwzjjvazcprcx7q.streamlit.app/
+Repositorio GitHub: [ferlusa90/mineria_de_datos_TF](https://github.com/ferlusa90/mineria_de_datos_TF)  
+Aplicacion Streamlit: [mineriadedatostf-a4hvlnmrwzjjvazcprcx7q.streamlit.app](https://mineriadedatostf-a4hvlnmrwzjjvazcprcx7q.streamlit.app/)
 
 Integrante: Sanchez Luna Fernando Emmanuel  
 Comision: ITSE NODO TARDE  
@@ -112,8 +112,8 @@ Los resultados e interpretaciones estan en `notebooks/04_pca.ipynb`.
 ## Visualizacion interactiva
 La aplicacion esta en `app/`.  
 Archivo principal: `app/Home.py`.  
-Repositorio GitHub: https://github.com/ferlusa90/mineria_de_datos_TF  
-Enlace Streamlit Cloud: https://mineriadedatostf-a4hvlnmrwzjjvazcprcx7q.streamlit.app/
+Repositorio GitHub: [ferlusa90/mineria_de_datos_TF](https://github.com/ferlusa90/mineria_de_datos_TF)  
+Enlace Streamlit Cloud: [mineriadedatostf-a4hvlnmrwzjjvazcprcx7q.streamlit.app](https://mineriadedatostf-a4hvlnmrwzjjvazcprcx7q.streamlit.app/)
 
 La pagina Dataset de Streamlit incluye diagnostico inicial, logica de limpieza y fragmentos de codigo para que el proceso sea auditable.
 

@@ -26,7 +26,7 @@ with col1:
 with col2:
     card(
         "Objetivo",
-        "Convertir una base con problemas reales en un dataset confiable, analizable y listo para comunicar hallazgos.",
+        "Convertir una base con problemas reales en un dataset confiable, mostrando evidencia antes de cada limpieza y controlando el impacto despues.",
         "Proceso",
         soft=True,
     )
@@ -44,7 +44,7 @@ left, right = st.columns([1.15, 0.85])
 with left:
     card(
         "Resumen del proyecto",
-        "La base tenia duplicados, categorias escritas de distintas formas, fechas invalidas, valores extremos y datos faltantes. El trabajo propone una lectura profesional: entender la base, limpiar con criterio, analizar patrones y comunicar resultados con visualizaciones.",
+        "La base tenia duplicados, user_id repetidos, categorias escritas de distintas formas, fechas invalidas, valores extremos y datos faltantes. El trabajo sigue una logica de analista junior: diagnosticar, justificar, limpiar y validar.",
         "Vision general",
     )
 with right:
@@ -67,6 +67,6 @@ with col_b:
 with col_c:
     card(
         "Datos del autor",
-        "Sanchez Luna Fernando Emmanuel | Comision tarde | 28/06/2026",
+        "Sanchez Luna Fernando Emmanuel | Comision ITSE NODO TARDE | 28/06/2026",
         "Presentacion",
     )

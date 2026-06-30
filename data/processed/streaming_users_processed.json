@@ -112,7 +112,7 @@
   {
     "user_id":10011,
     "age":46,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":1148.0,
     "country":"Brasil",
     "favorite_genre":"Comedia",
@@ -185,7 +185,7 @@
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":244.3,
     "country":"Uruguay",
-    "favorite_genre":"Acción",
+    "favorite_genre":"ACCIÓN",
     "last_login_date":"2023-09-01",
     "customer_support_tickets":1
   },
@@ -305,7 +305,7 @@
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":598.8,
     "country":"Argentina",
-    "favorite_genre":"Drama",
+    "favorite_genre":"Comedia",
     "last_login_date":"2021-02-13",
     "customer_support_tickets":3
   },
@@ -352,7 +352,7 @@
   {
     "user_id":10035,
     "age":37,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":1114.7,
     "country":"Colombia",
     "favorite_genre":"Drama",
@@ -412,7 +412,7 @@
   {
     "user_id":10041,
     "age":39,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":1119.3,
     "country":"Chile",
     "favorite_genre":"Documental",
@@ -815,7 +815,7 @@
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":983.9,
     "country":"Argentina",
-    "favorite_genre":"Drama",
+    "favorite_genre":"Comedia",
     "last_login_date":"2025-11-14",
     "customer_support_tickets":0
   },
@@ -1012,7 +1012,7 @@
   {
     "user_id":10101,
     "age":26,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":394.1,
     "country":"Colombia",
     "favorite_genre":"Acción",
@@ -1135,7 +1135,7 @@
     "subscription_plan":"Premium",
     "monthly_watch_time_mins":1453.2,
     "country":"Perú",
-    "favorite_genre":"Acción",
+    "favorite_genre":"Accion",
     "last_login_date":"2022-06-09",
     "customer_support_tickets":2
   },
@@ -1154,7 +1154,7 @@
     "age":36,
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":60.2,
-    "country":"México",
+    "country":"méxico",
     "favorite_genre":"Romance",
     "last_login_date":"2022-02-14",
     "customer_support_tickets":2
@@ -1182,7 +1182,7 @@
   {
     "user_id":10118,
     "age":13,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":1066.3,
     "country":"Uruguay",
     "favorite_genre":"Romance",
@@ -1302,7 +1302,7 @@
   {
     "user_id":10130,
     "age":35,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":911.5,
     "country":"Perú",
     "favorite_genre":"Drama",
@@ -1413,7 +1413,7 @@
     "user_id":10141,
     "age":26,
     "subscription_plan":"Premium",
-    "monthly_watch_time_mins":1130.7,
+    "monthly_watch_time_mins":1136.1,
     "country":"México",
     "favorite_genre":"Thriller",
     "last_login_date":"2018-09-18",
@@ -1694,7 +1694,7 @@
     "age":64,
     "subscription_plan":"Estándar",
     "monthly_watch_time_mins":1000.3,
-    "country":"México",
+    "country":"méxico",
     "favorite_genre":"Comedia",
     "last_login_date":"2021-05-07",
     "customer_support_tickets":1
@@ -1752,7 +1752,7 @@
   {
     "user_id":10175,
     "age":42,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":1140.9,
     "country":"Colombia",
     "favorite_genre":"Documental",
@@ -1765,7 +1765,7 @@
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":3080.0,
     "country":"Brasil",
-    "favorite_genre":"Drama",
+    "favorite_genre":"Thriller",
     "last_login_date":"2019-10-24",
     "customer_support_tickets":1
   },
@@ -1802,7 +1802,7 @@
   {
     "user_id":10180,
     "age":31,
-    "subscription_plan":"Básico",
+    "subscription_plan":"básico",
     "monthly_watch_time_mins":610.7,
     "country":"Perú",
     "favorite_genre":"Comedia",
@@ -1843,7 +1843,7 @@
     "user_id":10184,
     "age":28,
     "subscription_plan":"Premium",
-    "monthly_watch_time_mins":1130.7,
+    "monthly_watch_time_mins":1136.1,
     "country":"México",
     "favorite_genre":"Comedia",
     "last_login_date":"2019-04-04",
@@ -2053,7 +2053,7 @@
     "user_id":10205,
     "age":45,
     "subscription_plan":"Estándar",
-    "monthly_watch_time_mins":840.6,
+    "monthly_watch_time_mins":845.1,
     "country":"Chile",
     "favorite_genre":"Crimen",
     "last_login_date":"2022-09-30",
@@ -2125,7 +2125,7 @@
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":1042.0,
     "country":"Perú",
-    "favorite_genre":"Drama",
+    "favorite_genre":"Romance",
     "last_login_date":"2022-06-23",
     "customer_support_tickets":0
   },
@@ -2244,7 +2244,7 @@
     "age":29,
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":616.0,
-    "country":"México",
+    "country":"Mexico",
     "favorite_genre":"Thriller",
     "last_login_date":"2018-03-28",
     "customer_support_tickets":3
@@ -2382,7 +2382,7 @@
   {
     "user_id":10238,
     "age":23,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":511.3,
     "country":"Uruguay",
     "favorite_genre":"Thriller",
@@ -2585,7 +2585,7 @@
     "subscription_plan":"Estándar",
     "monthly_watch_time_mins":888.5,
     "country":"Brasil",
-    "favorite_genre":"Acción",
+    "favorite_genre":"Accion",
     "last_login_date":"2022-11-01",
     "customer_support_tickets":0
   },
@@ -2622,7 +2622,7 @@
   {
     "user_id":10262,
     "age":34,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":476.2,
     "country":"Perú",
     "favorite_genre":"Documental",
@@ -2672,7 +2672,7 @@
   {
     "user_id":10267,
     "age":27,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":0.0,
     "country":"Perú",
     "favorite_genre":"Crimen",
@@ -2752,7 +2752,7 @@
   {
     "user_id":10275,
     "age":13,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":909.4,
     "country":"Uruguay",
     "favorite_genre":"Documental",
@@ -2842,7 +2842,7 @@
   {
     "user_id":10284,
     "age":18,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":624.9,
     "country":"Colombia",
     "favorite_genre":"Acción",
@@ -2854,7 +2854,7 @@
     "age":32,
     "subscription_plan":"Estándar",
     "monthly_watch_time_mins":822.5,
-    "country":"México",
+    "country":"Mexico",
     "favorite_genre":"Comedia",
     "last_login_date":"2024-03-04",
     "customer_support_tickets":0
@@ -2953,7 +2953,7 @@
     "user_id":10295,
     "age":27,
     "subscription_plan":"Estándar",
-    "monthly_watch_time_mins":841.0,
+    "monthly_watch_time_mins":840.0,
     "country":"Brasil",
     "favorite_genre":"Comedia",
     "last_login_date":"2023-06-13",
@@ -3282,7 +3282,7 @@
   {
     "user_id":10328,
     "age":37,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":526.0,
     "country":"Argentina",
     "favorite_genre":"Thriller",
@@ -3295,7 +3295,7 @@
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":784.3,
     "country":"Chile",
-    "favorite_genre":"Acción",
+    "favorite_genre":"ACCIÓN",
     "last_login_date":"2023-09-12",
     "customer_support_tickets":1
   },
@@ -3443,7 +3443,7 @@
     "user_id":10344,
     "age":45,
     "subscription_plan":"Premium",
-    "monthly_watch_time_mins":1123.6,
+    "monthly_watch_time_mins":1126.6,
     "country":"Perú",
     "favorite_genre":"Romance",
     "last_login_date":"2024-12-11",
@@ -3532,7 +3532,7 @@
   {
     "user_id":10353,
     "age":31,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":552.2,
     "country":"Colombia",
     "favorite_genre":"Documental",
@@ -3542,7 +3542,7 @@
   {
     "user_id":10354,
     "age":13,
-    "subscription_plan":"Básico",
+    "subscription_plan":"básico",
     "monthly_watch_time_mins":88.8,
     "country":"Chile",
     "favorite_genre":"Documental",
@@ -3595,7 +3595,7 @@
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":597.0,
     "country":"Perú",
-    "favorite_genre":"Drama",
+    "favorite_genre":"Romance",
     "last_login_date":"2019-06-21",
     "customer_support_tickets":1
   },
@@ -3622,7 +3622,7 @@
   {
     "user_id":10362,
     "age":36,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":991.4,
     "country":"Chile",
     "favorite_genre":"Documental",
@@ -3872,7 +3872,7 @@
   {
     "user_id":10387,
     "age":41,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estándar ",
     "monthly_watch_time_mins":0.0,
     "country":"Perú",
     "favorite_genre":"Romance",
@@ -4265,7 +4265,7 @@
     "subscription_plan":"Premium",
     "monthly_watch_time_mins":1315.6,
     "country":"Colombia",
-    "favorite_genre":"Acción",
+    "favorite_genre":"ACCIÓN",
     "last_login_date":"2022-12-15",
     "customer_support_tickets":1
   },
@@ -4275,7 +4275,7 @@
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":598.6,
     "country":"Brasil",
-    "favorite_genre":"Drama",
+    "favorite_genre":"Thriller",
     "last_login_date":"2024-03-09",
     "customer_support_tickets":1
   },
@@ -4292,7 +4292,7 @@
   {
     "user_id":10429,
     "age":44,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":652.4,
     "country":"Chile",
     "favorite_genre":"Acción",
@@ -4421,8 +4421,8 @@
   },
   {
     "user_id":10442,
-    "age":34,
-    "subscription_plan":"Estándar",
+    "age":32,
+    "subscription_plan":"Estándar ",
     "monthly_watch_time_mins":1693.0,
     "country":"México",
     "favorite_genre":"Crimen",
@@ -4433,7 +4433,7 @@
     "user_id":10443,
     "age":31,
     "subscription_plan":"Estándar",
-    "monthly_watch_time_mins":840.6,
+    "monthly_watch_time_mins":845.1,
     "country":"Chile",
     "favorite_genre":"Thriller",
     "last_login_date":"2019-06-07",
@@ -4452,7 +4452,7 @@
   {
     "user_id":10445,
     "age":34,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":777.1,
     "country":"México",
     "favorite_genre":"Romance",
@@ -4462,7 +4462,7 @@
   {
     "user_id":10446,
     "age":46,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":1087.0,
     "country":"México",
     "favorite_genre":"Comedia",
@@ -4553,7 +4553,7 @@
     "user_id":10455,
     "age":57,
     "subscription_plan":"Básico",
-    "monthly_watch_time_mins":577.9,
+    "monthly_watch_time_mins":578.8,
     "country":"Argentina",
     "favorite_genre":"Romance",
     "last_login_date":"2024-04-12",
@@ -4584,7 +4584,7 @@
     "age":41,
     "subscription_plan":"Estándar",
     "monthly_watch_time_mins":878.2,
-    "country":"México",
+    "country":"Mexico",
     "favorite_genre":"Comedia",
     "last_login_date":"2019-09-26",
     "customer_support_tickets":0
@@ -4713,7 +4713,7 @@
     "user_id":10471,
     "age":38,
     "subscription_plan":"Estándar",
-    "monthly_watch_time_mins":840.6,
+    "monthly_watch_time_mins":845.1,
     "country":"Chile",
     "favorite_genre":"Thriller",
     "last_login_date":"2025-11-12",
@@ -5152,7 +5152,7 @@
   {
     "user_id":10515,
     "age":37,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":647.8,
     "country":"Perú",
     "favorite_genre":"Thriller",
@@ -5192,7 +5192,7 @@
   {
     "user_id":10519,
     "age":40,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":981.9,
     "country":"Colombia",
     "favorite_genre":"Comedia",
@@ -5204,7 +5204,7 @@
     "age":53,
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":340.2,
-    "country":"México",
+    "country":"Mexico",
     "favorite_genre":"Drama",
     "last_login_date":"2022-11-22",
     "customer_support_tickets":0
@@ -5325,7 +5325,7 @@
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":1008.0,
     "country":"Brasil",
-    "favorite_genre":"Drama",
+    "favorite_genre":"Thriller",
     "last_login_date":"2024-12-27",
     "customer_support_tickets":0
   },
@@ -5372,7 +5372,7 @@
   {
     "user_id":10537,
     "age":26,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estándar ",
     "monthly_watch_time_mins":889.5,
     "country":"Chile",
     "favorite_genre":"Documental",
@@ -5482,7 +5482,7 @@
   {
     "user_id":10548,
     "age":13,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estándar ",
     "monthly_watch_time_mins":701.9,
     "country":"Colombia",
     "favorite_genre":"Crimen",
@@ -5535,7 +5535,7 @@
     "subscription_plan":"Estándar",
     "monthly_watch_time_mins":107.0,
     "country":"Chile",
-    "favorite_genre":"Acción",
+    "favorite_genre":"Crimen",
     "last_login_date":"2024-11-26",
     "customer_support_tickets":2
   },
@@ -5792,7 +5792,7 @@
   {
     "user_id":10579,
     "age":33,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":1005.2,
     "country":"Chile",
     "favorite_genre":"Acción",
@@ -5802,7 +5802,7 @@
   {
     "user_id":10580,
     "age":37,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":782.1,
     "country":"México",
     "favorite_genre":"Documental",
@@ -6022,7 +6022,7 @@
   {
     "user_id":10602,
     "age":19,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":423.4,
     "country":"Uruguay",
     "favorite_genre":"Acción",
@@ -6302,7 +6302,7 @@
   {
     "user_id":10630,
     "age":59,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":544.9,
     "country":"Colombia",
     "favorite_genre":"Romance",
@@ -6513,7 +6513,7 @@
     "user_id":10651,
     "age":30,
     "subscription_plan":"Premium",
-    "monthly_watch_time_mins":1130.7,
+    "monthly_watch_time_mins":1136.1,
     "country":"México",
     "favorite_genre":"Crimen",
     "last_login_date":"2021-01-17",
@@ -6562,7 +6562,7 @@
   {
     "user_id":10656,
     "age":52,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":335.2,
     "country":"Uruguay",
     "favorite_genre":"Drama",
@@ -6632,7 +6632,7 @@
   {
     "user_id":10663,
     "age":26,
-    "subscription_plan":"Básico",
+    "subscription_plan":"básico",
     "monthly_watch_time_mins":681.4,
     "country":"Chile",
     "favorite_genre":"Comedia",
@@ -6802,7 +6802,7 @@
   {
     "user_id":10680,
     "age":32,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estándar ",
     "monthly_watch_time_mins":670.6,
     "country":"México",
     "favorite_genre":"Documental",
@@ -6874,7 +6874,7 @@
     "age":35,
     "subscription_plan":"Estándar",
     "monthly_watch_time_mins":1012.4,
-    "country":"Perú",
+    "country":"Peru",
     "favorite_genre":"Acción",
     "last_login_date":"2024-02-15",
     "customer_support_tickets":1
@@ -7082,7 +7082,7 @@
   {
     "user_id":10708,
     "age":32,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":1169.8,
     "country":"Chile",
     "favorite_genre":"Romance",
@@ -7152,7 +7152,7 @@
   {
     "user_id":10715,
     "age":15,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":347.5,
     "country":"Argentina",
     "favorite_genre":"Thriller",
@@ -7253,7 +7253,7 @@
     "user_id":10725,
     "age":23,
     "subscription_plan":"Premium",
-    "monthly_watch_time_mins":1130.7,
+    "monthly_watch_time_mins":1136.1,
     "country":"México",
     "favorite_genre":"Thriller",
     "last_login_date":"2021-10-14",
@@ -7284,7 +7284,7 @@
     "age":44,
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":429.4,
-    "country":"Perú",
+    "country":"perú",
     "favorite_genre":"Documental",
     "last_login_date":"2022-02-14",
     "customer_support_tickets":2
@@ -7432,7 +7432,7 @@
   {
     "user_id":10743,
     "age":17,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":601.1,
     "country":"Argentina",
     "favorite_genre":"Romance",
@@ -8022,7 +8022,7 @@
   {
     "user_id":10802,
     "age":29,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":0.0,
     "country":"México",
     "favorite_genre":"Romance",
@@ -8032,7 +8032,7 @@
   {
     "user_id":10803,
     "age":30,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estándar ",
     "monthly_watch_time_mins":734.3,
     "country":"Uruguay",
     "favorite_genre":"Romance",
@@ -8224,7 +8224,7 @@
     "age":33,
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":344.1,
-    "country":"México",
+    "country":"Mexico",
     "favorite_genre":"Thriller",
     "last_login_date":"2020-09-25",
     "customer_support_tickets":1
@@ -8345,7 +8345,7 @@
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":502.8,
     "country":"Brasil",
-    "favorite_genre":"Drama",
+    "favorite_genre":"Thriller",
     "last_login_date":"2020-05-18",
     "customer_support_tickets":0
   },
@@ -8552,7 +8552,7 @@
   {
     "user_id":10855,
     "age":35,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":554.8,
     "country":"Chile",
     "favorite_genre":"Drama",
@@ -8905,7 +8905,7 @@
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":888.5,
     "country":"Colombia",
-    "favorite_genre":"Acción",
+    "favorite_genre":"ACCIÓN",
     "last_login_date":"2020-02-24",
     "customer_support_tickets":0
   },
@@ -8933,7 +8933,7 @@
     "user_id":10893,
     "age":39,
     "subscription_plan":"Estándar",
-    "monthly_watch_time_mins":867.4,
+    "monthly_watch_time_mins":870.7,
     "country":"Uruguay",
     "favorite_genre":"Romance",
     "last_login_date":"2021-02-06",
@@ -8952,7 +8952,7 @@
   {
     "user_id":10895,
     "age":57,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":439.5,
     "country":"Chile",
     "favorite_genre":"Romance",
@@ -9022,7 +9022,7 @@
   {
     "user_id":10902,
     "age":32,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":610.1,
     "country":"Uruguay",
     "favorite_genre":"Crimen",
@@ -9164,7 +9164,7 @@
     "age":41,
     "subscription_plan":"Estándar",
     "monthly_watch_time_mins":723.5,
-    "country":"Perú",
+    "country":"perú",
     "favorite_genre":"Drama",
     "last_login_date":"2025-02-25",
     "customer_support_tickets":1
@@ -9254,7 +9254,7 @@
     "age":45,
     "subscription_plan":"Estándar",
     "monthly_watch_time_mins":1084.2,
-    "country":"Perú",
+    "country":"Peru",
     "favorite_genre":"Crimen",
     "last_login_date":"2021-10-27",
     "customer_support_tickets":1
@@ -9313,7 +9313,7 @@
     "user_id":10931,
     "age":32,
     "subscription_plan":"Premium",
-    "monthly_watch_time_mins":1123.6,
+    "monthly_watch_time_mins":1126.6,
     "country":"Perú",
     "favorite_genre":"Documental",
     "last_login_date":"2018-09-25",
@@ -9502,7 +9502,7 @@
   {
     "user_id":10950,
     "age":13,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":843.6,
     "country":"Argentina",
     "favorite_genre":"Thriller",
@@ -9572,7 +9572,7 @@
   {
     "user_id":10957,
     "age":50,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":640.8,
     "country":"Chile",
     "favorite_genre":"Thriller",
@@ -9753,7 +9753,7 @@
     "user_id":10975,
     "age":34,
     "subscription_plan":"Premium",
-    "monthly_watch_time_mins":1130.7,
+    "monthly_watch_time_mins":1136.1,
     "country":"México",
     "favorite_genre":"Documental",
     "last_login_date":"2018-11-04",
@@ -9933,7 +9933,7 @@
     "user_id":10993,
     "age":46,
     "subscription_plan":"Premium",
-    "monthly_watch_time_mins":1123.6,
+    "monthly_watch_time_mins":1126.6,
     "country":"Perú",
     "favorite_genre":"Acción",
     "last_login_date":"2020-08-14",
@@ -10422,7 +10422,7 @@
   {
     "user_id":11042,
     "age":15,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":1015.7,
     "country":"Perú",
     "favorite_genre":"Romance",
@@ -10455,7 +10455,7 @@
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":277.5,
     "country":"Brasil",
-    "favorite_genre":"Drama",
+    "favorite_genre":"Thriller",
     "last_login_date":"2023-04-12",
     "customer_support_tickets":3
   },
@@ -10664,7 +10664,7 @@
     "age":31,
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":907.9,
-    "country":"México",
+    "country":"méxico",
     "favorite_genre":"Crimen",
     "last_login_date":"2025-10-12",
     "customer_support_tickets":1
@@ -10802,7 +10802,7 @@
   {
     "user_id":11080,
     "age":45,
-    "subscription_plan":"Básico",
+    "subscription_plan":"básico",
     "monthly_watch_time_mins":1301.7,
     "country":"Perú",
     "favorite_genre":"Drama",
@@ -10812,7 +10812,7 @@
   {
     "user_id":11081,
     "age":38,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":456.3,
     "country":"Chile",
     "favorite_genre":"Drama",
@@ -10872,7 +10872,7 @@
   {
     "user_id":11087,
     "age":21,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":0.0,
     "country":"Brasil",
     "favorite_genre":"Thriller",
@@ -10991,7 +10991,7 @@
   },
   {
     "user_id":11099,
-    "age":33,
+    "age":32,
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":771.3,
     "country":"Perú",
@@ -11144,7 +11144,7 @@
     "age":33,
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":909.8,
-    "country":"México",
+    "country":"méxico",
     "favorite_genre":"Crimen",
     "last_login_date":"2022-07-30",
     "customer_support_tickets":1
@@ -11172,7 +11172,7 @@
   {
     "user_id":11117,
     "age":14,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":552.7,
     "country":"Brasil",
     "favorite_genre":"Documental",
@@ -11182,7 +11182,7 @@
   {
     "user_id":11118,
     "age":35,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":788.5,
     "country":"Argentina",
     "favorite_genre":"Acción",
@@ -11245,7 +11245,7 @@
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":0.0,
     "country":"Perú",
-    "favorite_genre":"Drama",
+    "favorite_genre":"Romance",
     "last_login_date":"2023-09-16",
     "customer_support_tickets":0
   },
@@ -11332,7 +11332,7 @@
   {
     "user_id":11133,
     "age":13,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":783.0,
     "country":"Argentina",
     "favorite_genre":"Thriller",
@@ -11352,7 +11352,7 @@
   {
     "user_id":11135,
     "age":20,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":451.9,
     "country":"Argentina",
     "favorite_genre":"Documental",
@@ -11493,7 +11493,7 @@
     "user_id":11149,
     "age":19,
     "subscription_plan":"Básico",
-    "monthly_watch_time_mins":577.9,
+    "monthly_watch_time_mins":578.8,
     "country":"Argentina",
     "favorite_genre":"Drama",
     "last_login_date":"2024-07-03",
@@ -11514,7 +11514,7 @@
     "age":31,
     "subscription_plan":"Estándar",
     "monthly_watch_time_mins":797.7,
-    "country":"Perú",
+    "country":"perú",
     "favorite_genre":"Crimen",
     "last_login_date":"2023-06-29",
     "customer_support_tickets":0
@@ -11872,9 +11872,9 @@
   {
     "user_id":11187,
     "age":25,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estándar ",
     "monthly_watch_time_mins":686.1,
-    "country":"Perú",
+    "country":"Peru",
     "favorite_genre":"Acción",
     "last_login_date":"2019-02-13",
     "customer_support_tickets":0
@@ -11902,7 +11902,7 @@
   {
     "user_id":11190,
     "age":29,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":885.0,
     "country":"Brasil",
     "favorite_genre":"Crimen",
@@ -12112,7 +12112,7 @@
   {
     "user_id":11211,
     "age":33,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":768.7,
     "country":"Colombia",
     "favorite_genre":"Crimen",
@@ -12122,7 +12122,7 @@
   {
     "user_id":11212,
     "age":49,
-    "subscription_plan":"Básico",
+    "subscription_plan":"básico",
     "monthly_watch_time_mins":1256.9,
     "country":"Uruguay",
     "favorite_genre":"Comedia",
@@ -12152,8 +12152,8 @@
   {
     "user_id":11215,
     "age":29,
-    "subscription_plan":"Estándar",
-    "monthly_watch_time_mins":834.9,
+    "subscription_plan":"Estandar",
+    "monthly_watch_time_mins":829.2,
     "country":"Perú",
     "favorite_genre":"Crimen",
     "last_login_date":"2020-08-19",
@@ -12202,7 +12202,7 @@
   {
     "user_id":11220,
     "age":16,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estándar ",
     "monthly_watch_time_mins":693.3,
     "country":"México",
     "favorite_genre":"Comedia",
@@ -12224,7 +12224,7 @@
     "age":13,
     "subscription_plan":"Estándar",
     "monthly_watch_time_mins":1321.8,
-    "country":"México",
+    "country":"Mexico",
     "favorite_genre":"Documental",
     "last_login_date":"2019-02-08",
     "customer_support_tickets":0
@@ -12322,7 +12322,7 @@
   {
     "user_id":11232,
     "age":30,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":1336.6,
     "country":"Brasil",
     "favorite_genre":"Thriller",
@@ -12572,7 +12572,7 @@
   {
     "user_id":11257,
     "age":50,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":1122.0,
     "country":"Brasil",
     "favorite_genre":"Drama",
@@ -12782,7 +12782,7 @@
   {
     "user_id":11278,
     "age":42,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":0.0,
     "country":"México",
     "favorite_genre":"Romance",
@@ -12842,7 +12842,7 @@
   {
     "user_id":11284,
     "age":33,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estándar ",
     "monthly_watch_time_mins":822.1,
     "country":"Uruguay",
     "favorite_genre":"Thriller",
@@ -12942,7 +12942,7 @@
   {
     "user_id":11294,
     "age":24,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":379.3,
     "country":"Brasil",
     "favorite_genre":"Drama",
@@ -13033,7 +13033,7 @@
     "user_id":11303,
     "age":19,
     "subscription_plan":"Premium",
-    "monthly_watch_time_mins":1123.6,
+    "monthly_watch_time_mins":1126.6,
     "country":"Perú",
     "favorite_genre":"Crimen",
     "last_login_date":"2022-02-14",
@@ -13172,7 +13172,7 @@
   {
     "user_id":11317,
     "age":15,
-    "subscription_plan":"Básico",
+    "subscription_plan":"básico",
     "monthly_watch_time_mins":576.0,
     "country":"Uruguay",
     "favorite_genre":"Crimen",
@@ -13255,7 +13255,7 @@
     "subscription_plan":"Premium",
     "monthly_watch_time_mins":1545.4,
     "country":"Colombia",
-    "favorite_genre":"Acción",
+    "favorite_genre":"Accion",
     "last_login_date":"2019-06-23",
     "customer_support_tickets":2
   },
@@ -13312,7 +13312,7 @@
   {
     "user_id":11331,
     "age":27,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":492.6,
     "country":"México",
     "favorite_genre":"Documental",
@@ -13403,7 +13403,7 @@
     "user_id":11340,
     "age":40,
     "subscription_plan":"Estándar",
-    "monthly_watch_time_mins":834.9,
+    "monthly_watch_time_mins":833.6,
     "country":"Perú",
     "favorite_genre":"Documental",
     "last_login_date":"2023-05-28",
@@ -13492,7 +13492,7 @@
   {
     "user_id":11349,
     "age":26,
-    "subscription_plan":"Básico",
+    "subscription_plan":"básico",
     "monthly_watch_time_mins":369.2,
     "country":"Argentina",
     "favorite_genre":"Thriller",
@@ -13523,7 +13523,7 @@
     "user_id":11352,
     "age":35,
     "subscription_plan":"Estándar",
-    "monthly_watch_time_mins":841.0,
+    "monthly_watch_time_mins":840.0,
     "country":"Brasil",
     "favorite_genre":"Documental",
     "last_login_date":"2022-02-07",
@@ -13573,7 +13573,7 @@
     "user_id":11357,
     "age":46,
     "subscription_plan":"Básico",
-    "monthly_watch_time_mins":520.0,
+    "monthly_watch_time_mins":526.1,
     "country":"México",
     "favorite_genre":"Crimen",
     "last_login_date":"2024-01-07",
@@ -13622,7 +13622,7 @@
   {
     "user_id":11362,
     "age":56,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":651.7,
     "country":"Brasil",
     "favorite_genre":"Drama",
@@ -13743,7 +13743,7 @@
     "user_id":11374,
     "age":34,
     "subscription_plan":"Básico",
-    "monthly_watch_time_mins":572.6,
+    "monthly_watch_time_mins":577.9,
     "country":"Uruguay",
     "favorite_genre":"Acción",
     "last_login_date":"2024-04-18",
@@ -14062,7 +14062,7 @@
   {
     "user_id":11406,
     "age":27,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":568.5,
     "country":"Perú",
     "favorite_genre":"Romance",
@@ -14265,7 +14265,7 @@
     "subscription_plan":"Estándar",
     "monthly_watch_time_mins":778.6,
     "country":"Chile",
-    "favorite_genre":"Acción",
+    "favorite_genre":"Crimen",
     "last_login_date":"2022-01-09",
     "customer_support_tickets":2
   },
@@ -14344,7 +14344,7 @@
     "age":20,
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":563.6,
-    "country":"Perú",
+    "country":"Peru",
     "favorite_genre":"Thriller",
     "last_login_date":"2025-06-07",
     "customer_support_tickets":0
@@ -14362,7 +14362,7 @@
   {
     "user_id":11436,
     "age":41,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":780.7,
     "country":"México",
     "favorite_genre":"Drama",
@@ -14402,7 +14402,7 @@
   {
     "user_id":11440,
     "age":38,
-    "subscription_plan":"Básico",
+    "subscription_plan":"básico",
     "monthly_watch_time_mins":0.0,
     "country":"Colombia",
     "favorite_genre":"Crimen",
@@ -14442,7 +14442,7 @@
   {
     "user_id":11444,
     "age":27,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":490.0,
     "country":"Chile",
     "favorite_genre":"Comedia",
@@ -14451,7 +14451,7 @@
   },
   {
     "user_id":11445,
-    "age":34,
+    "age":33,
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":288.1,
     "country":"México",
@@ -14625,7 +14625,7 @@
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":800.4,
     "country":"Brasil",
-    "favorite_genre":"Drama",
+    "favorite_genre":"Thriller",
     "last_login_date":"2019-03-27",
     "customer_support_tickets":2
   },
@@ -14642,7 +14642,7 @@
   {
     "user_id":11464,
     "age":25,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":579.0,
     "country":"Uruguay",
     "favorite_genre":"Romance",
@@ -14663,7 +14663,7 @@
     "user_id":11466,
     "age":13,
     "subscription_plan":"Estándar",
-    "monthly_watch_time_mins":834.9,
+    "monthly_watch_time_mins":833.6,
     "country":"Perú",
     "favorite_genre":"Acción",
     "last_login_date":"2018-03-02",
@@ -14774,7 +14774,7 @@
     "age":54,
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":1319.5,
-    "country":"Perú",
+    "country":"Peru",
     "favorite_genre":"Drama",
     "last_login_date":"2023-11-25",
     "customer_support_tickets":1
@@ -14904,7 +14904,7 @@
     "age":42,
     "subscription_plan":"Estándar",
     "monthly_watch_time_mins":3080.0,
-    "country":"Perú",
+    "country":"Peru",
     "favorite_genre":"Acción",
     "last_login_date":"2018-06-27",
     "customer_support_tickets":1
@@ -14932,7 +14932,7 @@
   {
     "user_id":11493,
     "age":38,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":904.3,
     "country":"Perú",
     "favorite_genre":"Thriller",
@@ -15095,7 +15095,7 @@
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":582.5,
     "country":"Brasil",
-    "favorite_genre":"Drama",
+    "favorite_genre":"Thriller",
     "last_login_date":"2024-10-27",
     "customer_support_tickets":0
   },
@@ -15152,7 +15152,7 @@
   {
     "user_id":11515,
     "age":40,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":605.4,
     "country":"Argentina",
     "favorite_genre":"Thriller",
@@ -15235,7 +15235,7 @@
     "subscription_plan":"Estándar",
     "monthly_watch_time_mins":1075.3,
     "country":"Chile",
-    "favorite_genre":"Acción",
+    "favorite_genre":"Crimen",
     "last_login_date":"2021-04-22",
     "customer_support_tickets":1
   },
@@ -15283,7 +15283,7 @@
     "user_id":11528,
     "age":35,
     "subscription_plan":"Estándar",
-    "monthly_watch_time_mins":826.1,
+    "monthly_watch_time_mins":832.4,
     "country":"Colombia",
     "favorite_genre":"Comedia",
     "last_login_date":"2019-02-11",
@@ -15305,7 +15305,7 @@
     "subscription_plan":"Estándar",
     "monthly_watch_time_mins":788.7,
     "country":"Argentina",
-    "favorite_genre":"Acción",
+    "favorite_genre":"Accion",
     "last_login_date":"2019-04-14",
     "customer_support_tickets":2
   },
@@ -15482,7 +15482,7 @@
   {
     "user_id":11548,
     "age":31,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":972.8,
     "country":"Chile",
     "favorite_genre":"Romance",
@@ -15515,7 +15515,7 @@
     "subscription_plan":"Estándar",
     "monthly_watch_time_mins":1364.2,
     "country":"Chile",
-    "favorite_genre":"Acción",
+    "favorite_genre":"Crimen",
     "last_login_date":"2025-09-14",
     "customer_support_tickets":1
   },
@@ -15603,8 +15603,8 @@
     "user_id":11560,
     "age":34,
     "subscription_plan":"Premium",
-    "monthly_watch_time_mins":1130.7,
-    "country":"México",
+    "monthly_watch_time_mins":958.6,
+    "country":"Mexico",
     "favorite_genre":"Crimen",
     "last_login_date":"2019-06-17",
     "customer_support_tickets":2
@@ -15663,7 +15663,7 @@
     "user_id":11566,
     "age":26,
     "subscription_plan":"Estándar",
-    "monthly_watch_time_mins":826.1,
+    "monthly_watch_time_mins":832.4,
     "country":"Colombia",
     "favorite_genre":"Romance",
     "last_login_date":"2021-09-12",
@@ -15765,7 +15765,7 @@
     "subscription_plan":"Estándar",
     "monthly_watch_time_mins":158.3,
     "country":"Chile",
-    "favorite_genre":"Acción",
+    "favorite_genre":"Crimen",
     "last_login_date":"2021-07-03",
     "customer_support_tickets":0
   },
@@ -15902,7 +15902,7 @@
   {
     "user_id":11590,
     "age":36,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":735.1,
     "country":"Colombia",
     "favorite_genre":"Acción",
@@ -16005,7 +16005,7 @@
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":75.8,
     "country":"Perú",
-    "favorite_genre":"Drama",
+    "favorite_genre":"Romance",
     "last_login_date":"2024-03-30",
     "customer_support_tickets":2
   },
@@ -16185,7 +16185,7 @@
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":326.1,
     "country":"Argentina",
-    "favorite_genre":"Acción",
+    "favorite_genre":"Accion",
     "last_login_date":"2022-06-30",
     "customer_support_tickets":2
   },
@@ -16282,7 +16282,7 @@
   {
     "user_id":11628,
     "age":35,
-    "subscription_plan":"Básico",
+    "subscription_plan":"básico",
     "monthly_watch_time_mins":222.4,
     "country":"Argentina",
     "favorite_genre":"Romance",
@@ -16732,7 +16732,7 @@
   {
     "user_id":11673,
     "age":27,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estándar ",
     "monthly_watch_time_mins":574.3,
     "country":"Uruguay",
     "favorite_genre":"Crimen",
@@ -16741,7 +16741,7 @@
   },
   {
     "user_id":11674,
-    "age":33,
+    "age":32,
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":305.0,
     "country":"Perú",
@@ -16772,7 +16772,7 @@
   {
     "user_id":11677,
     "age":50,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":624.3,
     "country":"Perú",
     "favorite_genre":"Acción",
@@ -16802,7 +16802,7 @@
   {
     "user_id":11680,
     "age":13,
-    "subscription_plan":"Básico",
+    "subscription_plan":"básico",
     "monthly_watch_time_mins":415.2,
     "country":"Colombia",
     "favorite_genre":"Thriller",
@@ -16815,7 +16815,7 @@
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":234.2,
     "country":"Argentina",
-    "favorite_genre":"Drama",
+    "favorite_genre":"Comedia",
     "last_login_date":"2018-02-01",
     "customer_support_tickets":0
   },
@@ -17162,7 +17162,7 @@
   {
     "user_id":11716,
     "age":36,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":736.9,
     "country":"Perú",
     "favorite_genre":"Drama",
@@ -17182,7 +17182,7 @@
   {
     "user_id":11718,
     "age":38,
-    "subscription_plan":"Básico",
+    "subscription_plan":"básico",
     "monthly_watch_time_mins":700.4,
     "country":"Colombia",
     "favorite_genre":"Documental",
@@ -17253,7 +17253,7 @@
     "user_id":11725,
     "age":28,
     "subscription_plan":"Estándar",
-    "monthly_watch_time_mins":834.9,
+    "monthly_watch_time_mins":833.6,
     "country":"Perú",
     "favorite_genre":"Comedia",
     "last_login_date":"2022-06-29",
@@ -17702,7 +17702,7 @@
   {
     "user_id":11770,
     "age":15,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":628.5,
     "country":"Colombia",
     "favorite_genre":"Documental",
@@ -17732,7 +17732,7 @@
   {
     "user_id":11773,
     "age":36,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":326.6,
     "country":"Chile",
     "favorite_genre":"Romance",
@@ -17852,9 +17852,9 @@
   {
     "user_id":11785,
     "age":24,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":1241.7,
-    "country":"Perú",
+    "country":"Peru",
     "favorite_genre":"Comedia",
     "last_login_date":"2023-01-26",
     "customer_support_tickets":0
@@ -18012,7 +18012,7 @@
   {
     "user_id":11801,
     "age":39,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":296.8,
     "country":"Brasil",
     "favorite_genre":"Thriller",
@@ -18072,7 +18072,7 @@
   {
     "user_id":11807,
     "age":16,
-    "subscription_plan":"Básico",
+    "subscription_plan":"básico",
     "monthly_watch_time_mins":0.0,
     "country":"México",
     "favorite_genre":"Drama",
@@ -18433,9 +18433,9 @@
     "user_id":11843,
     "age":38,
     "subscription_plan":"Básico",
-    "monthly_watch_time_mins":577.9,
+    "monthly_watch_time_mins":578.8,
     "country":"Argentina",
-    "favorite_genre":"Acción",
+    "favorite_genre":"Accion",
     "last_login_date":"2025-08-10",
     "customer_support_tickets":1
   },
@@ -18462,7 +18462,7 @@
   {
     "user_id":11846,
     "age":33,
-    "subscription_plan":"Básico",
+    "subscription_plan":"básico",
     "monthly_watch_time_mins":259.7,
     "country":"México",
     "favorite_genre":"Drama",
@@ -18572,7 +18572,7 @@
   {
     "user_id":11857,
     "age":40,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":150.1,
     "country":"México",
     "favorite_genre":"Crimen",
@@ -18603,7 +18603,7 @@
     "user_id":11860,
     "age":37,
     "subscription_plan":"Premium",
-    "monthly_watch_time_mins":1130.7,
+    "monthly_watch_time_mins":1136.1,
     "country":"México",
     "favorite_genre":"Thriller",
     "last_login_date":"2022-05-25",
@@ -18652,7 +18652,7 @@
   {
     "user_id":11865,
     "age":29,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":460.5,
     "country":"Argentina",
     "favorite_genre":"Comedia",
@@ -18812,7 +18812,7 @@
   {
     "user_id":11881,
     "age":27,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":452.6,
     "country":"Perú",
     "favorite_genre":"Acción",
@@ -18842,7 +18842,7 @@
   {
     "user_id":11884,
     "age":13,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":989.0,
     "country":"Chile",
     "favorite_genre":"Acción",
@@ -19272,7 +19272,7 @@
   {
     "user_id":11927,
     "age":40,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":1507.3,
     "country":"Uruguay",
     "favorite_genre":"Documental",
@@ -19284,7 +19284,7 @@
     "age":40,
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":206.6,
-    "country":"Perú",
+    "country":"Peru",
     "favorite_genre":"Acción",
     "last_login_date":"2025-08-10",
     "customer_support_tickets":2
@@ -19334,7 +19334,7 @@
     "age":37,
     "subscription_plan":"Estándar",
     "monthly_watch_time_mins":491.8,
-    "country":"Perú",
+    "country":"Peru",
     "favorite_genre":"Crimen",
     "last_login_date":"2022-04-14",
     "customer_support_tickets":0
@@ -19422,7 +19422,7 @@
   {
     "user_id":11942,
     "age":27,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":1426.5,
     "country":"Uruguay",
     "favorite_genre":"Drama",
@@ -19542,7 +19542,7 @@
   {
     "user_id":11954,
     "age":36,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":277.8,
     "country":"Colombia",
     "favorite_genre":"Comedia",
@@ -19582,10 +19582,10 @@
   {
     "user_id":11958,
     "age":26,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":417.6,
     "country":"Uruguay",
-    "favorite_genre":"Drama",
+    "favorite_genre":"Acción",
     "last_login_date":"2022-11-27",
     "customer_support_tickets":1
   },
@@ -19702,7 +19702,7 @@
   {
     "user_id":11970,
     "age":28,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":485.5,
     "country":"Chile",
     "favorite_genre":"Comedia",
@@ -20202,7 +20202,7 @@
   {
     "user_id":12020,
     "age":18,
-    "subscription_plan":"Básico",
+    "subscription_plan":"básico",
     "monthly_watch_time_mins":420.6,
     "country":"Brasil",
     "favorite_genre":"Documental",
@@ -20302,7 +20302,7 @@
   {
     "user_id":12030,
     "age":24,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":508.9,
     "country":"México",
     "favorite_genre":"Comedia",
@@ -20391,7 +20391,7 @@
   },
   {
     "user_id":12039,
-    "age":34,
+    "age":33,
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":0.0,
     "country":"México",
@@ -20453,7 +20453,7 @@
     "user_id":12045,
     "age":27,
     "subscription_plan":"Estándar",
-    "monthly_watch_time_mins":834.9,
+    "monthly_watch_time_mins":833.6,
     "country":"Perú",
     "favorite_genre":"Documental",
     "last_login_date":"2018-06-28",
@@ -20592,7 +20592,7 @@
   {
     "user_id":12059,
     "age":31,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":709.6,
     "country":"Argentina",
     "favorite_genre":"Acción",
@@ -21314,7 +21314,7 @@
     "age":22,
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":222.2,
-    "country":"México",
+    "country":"méxico",
     "favorite_genre":"Comedia",
     "last_login_date":"2025-09-26",
     "customer_support_tickets":0
@@ -21332,7 +21332,7 @@
   {
     "user_id":12133,
     "age":33,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":525.2,
     "country":"Brasil",
     "favorite_genre":"Thriller",
@@ -21465,7 +21465,7 @@
     "subscription_plan":"Estándar",
     "monthly_watch_time_mins":904.8,
     "country":"Chile",
-    "favorite_genre":"Acción",
+    "favorite_genre":"Crimen",
     "last_login_date":"2022-01-28",
     "customer_support_tickets":1
   },
@@ -21804,7 +21804,7 @@
     "age":20,
     "subscription_plan":"Estándar",
     "monthly_watch_time_mins":1320.6,
-    "country":"Perú",
+    "country":"perú",
     "favorite_genre":"Thriller",
     "last_login_date":"2022-02-14",
     "customer_support_tickets":2
@@ -21902,7 +21902,7 @@
   {
     "user_id":12190,
     "age":37,
-    "subscription_plan":"Básico",
+    "subscription_plan":"básico",
     "monthly_watch_time_mins":569.2,
     "country":"Chile",
     "favorite_genre":"Acción",
@@ -22013,7 +22013,7 @@
     "user_id":12201,
     "age":32,
     "subscription_plan":"Premium",
-    "monthly_watch_time_mins":1130.7,
+    "monthly_watch_time_mins":1136.1,
     "country":"México",
     "favorite_genre":"Romance",
     "last_login_date":"2019-07-10",
@@ -22083,7 +22083,7 @@
     "user_id":12208,
     "age":40,
     "subscription_plan":"Premium",
-    "monthly_watch_time_mins":1123.6,
+    "monthly_watch_time_mins":1126.6,
     "country":"Perú",
     "favorite_genre":"Thriller",
     "last_login_date":"2025-08-25",
@@ -22092,7 +22092,7 @@
   {
     "user_id":12209,
     "age":39,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estándar ",
     "monthly_watch_time_mins":908.9,
     "country":"Chile",
     "favorite_genre":"Crimen",
@@ -22102,7 +22102,7 @@
   {
     "user_id":12210,
     "age":34,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":786.8,
     "country":"México",
     "favorite_genre":"Acción",
@@ -22143,7 +22143,7 @@
     "user_id":12214,
     "age":27,
     "subscription_plan":"Premium",
-    "monthly_watch_time_mins":1123.6,
+    "monthly_watch_time_mins":1126.6,
     "country":"Perú",
     "favorite_genre":"Comedia",
     "last_login_date":"2024-03-02",
@@ -22602,7 +22602,7 @@
   {
     "user_id":12260,
     "age":37,
-    "subscription_plan":"Básico",
+    "subscription_plan":"básico",
     "monthly_watch_time_mins":717.0,
     "country":"México",
     "favorite_genre":"Thriller",
@@ -22702,7 +22702,7 @@
   {
     "user_id":12270,
     "age":26,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":811.4,
     "country":"Brasil",
     "favorite_genre":"Comedia",
@@ -22754,7 +22754,7 @@
     "age":32,
     "subscription_plan":"Estándar",
     "monthly_watch_time_mins":539.2,
-    "country":"Perú",
+    "country":"Peru",
     "favorite_genre":"Documental",
     "last_login_date":"2021-08-14",
     "customer_support_tickets":0
@@ -22862,7 +22862,7 @@
   {
     "user_id":12286,
     "age":30,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":1024.6,
     "country":"Uruguay",
     "favorite_genre":"Thriller",
@@ -22982,7 +22982,7 @@
   {
     "user_id":12298,
     "age":34,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":308.2,
     "country":"Brasil",
     "favorite_genre":"Acción",
@@ -23183,7 +23183,7 @@
     "user_id":12318,
     "age":29,
     "subscription_plan":"Estándar",
-    "monthly_watch_time_mins":840.6,
+    "monthly_watch_time_mins":845.1,
     "country":"Chile",
     "favorite_genre":"Documental",
     "last_login_date":"2018-05-05",
@@ -23275,7 +23275,7 @@
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":598.9,
     "country":"Perú",
-    "favorite_genre":"Drama",
+    "favorite_genre":"Romance",
     "last_login_date":"2025-09-06",
     "customer_support_tickets":0
   },
@@ -23292,7 +23292,7 @@
   {
     "user_id":12329,
     "age":38,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":413.1,
     "country":"Brasil",
     "favorite_genre":"Comedia",
@@ -23352,7 +23352,7 @@
   {
     "user_id":12335,
     "age":49,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":943.4,
     "country":"México",
     "favorite_genre":"Comedia",
@@ -23362,7 +23362,7 @@
   {
     "user_id":12336,
     "age":36,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":379.4,
     "country":"Uruguay",
     "favorite_genre":"Acción",
@@ -23602,7 +23602,7 @@
   {
     "user_id":12360,
     "age":43,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":208.8,
     "country":"Brasil",
     "favorite_genre":"Crimen",
@@ -23622,7 +23622,7 @@
   {
     "user_id":12362,
     "age":13,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":755.1,
     "country":"Chile",
     "favorite_genre":"Comedia",
@@ -23843,7 +23843,7 @@
     "user_id":12384,
     "age":33,
     "subscription_plan":"Estándar",
-    "monthly_watch_time_mins":867.4,
+    "monthly_watch_time_mins":870.7,
     "country":"Uruguay",
     "favorite_genre":"Crimen",
     "last_login_date":"2020-09-13",
@@ -23873,7 +23873,7 @@
     "user_id":12387,
     "age":40,
     "subscription_plan":"Básico",
-    "monthly_watch_time_mins":577.9,
+    "monthly_watch_time_mins":578.8,
     "country":"Argentina",
     "favorite_genre":"Romance",
     "last_login_date":"2021-12-16",
@@ -23882,7 +23882,7 @@
   {
     "user_id":12388,
     "age":43,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estándar ",
     "monthly_watch_time_mins":917.6,
     "country":"Brasil",
     "favorite_genre":"Comedia",
@@ -23942,7 +23942,7 @@
   {
     "user_id":12394,
     "age":17,
-    "subscription_plan":"Básico",
+    "subscription_plan":"básico",
     "monthly_watch_time_mins":520.5,
     "country":"Argentina",
     "favorite_genre":"Romance",
@@ -24012,7 +24012,7 @@
   {
     "user_id":12401,
     "age":51,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":3080.0,
     "country":"Argentina",
     "favorite_genre":"Thriller",
@@ -24172,7 +24172,7 @@
   {
     "user_id":12417,
     "age":30,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":0.0,
     "country":"Colombia",
     "favorite_genre":"Comedia",
@@ -24212,7 +24212,7 @@
   {
     "user_id":12421,
     "age":43,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estándar ",
     "monthly_watch_time_mins":1099.1,
     "country":"México",
     "favorite_genre":"Documental",
@@ -24291,8 +24291,8 @@
   },
   {
     "user_id":12429,
-    "age":33,
-    "subscription_plan":"Básico",
+    "age":29,
+    "subscription_plan":"básico",
     "monthly_watch_time_mins":583.2,
     "country":"Chile",
     "favorite_genre":"Romance",
@@ -24414,7 +24414,7 @@
     "age":42,
     "subscription_plan":"Estándar",
     "monthly_watch_time_mins":943.3,
-    "country":"Perú",
+    "country":"Peru",
     "favorite_genre":"Comedia",
     "last_login_date":"2019-07-16",
     "customer_support_tickets":0
@@ -24505,7 +24505,7 @@
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":3080.0,
     "country":"Colombia",
-    "favorite_genre":"Acción",
+    "favorite_genre":"ACCIÓN",
     "last_login_date":"2021-09-05",
     "customer_support_tickets":1
   },
@@ -24545,7 +24545,7 @@
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":835.6,
     "country":"Perú",
-    "favorite_genre":"Drama",
+    "favorite_genre":"Romance",
     "last_login_date":"2022-05-29",
     "customer_support_tickets":1
   },
@@ -24644,7 +24644,7 @@
     "age":25,
     "subscription_plan":"Estándar",
     "monthly_watch_time_mins":869.2,
-    "country":"Perú",
+    "country":"Peru",
     "favorite_genre":"Comedia",
     "last_login_date":"2024-04-24",
     "customer_support_tickets":1
@@ -24703,7 +24703,7 @@
     "user_id":12470,
     "age":46,
     "subscription_plan":"Premium",
-    "monthly_watch_time_mins":1123.6,
+    "monthly_watch_time_mins":1126.6,
     "country":"Perú",
     "favorite_genre":"Documental",
     "last_login_date":"2025-07-22",
@@ -24912,7 +24912,7 @@
   {
     "user_id":12491,
     "age":32,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":86.8,
     "country":"Perú",
     "favorite_genre":"Comedia",
@@ -24972,10 +24972,10 @@
   {
     "user_id":12497,
     "age":28,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":896.8,
     "country":"Argentina",
-    "favorite_genre":"Acción",
+    "favorite_genre":"ACCIÓN",
     "last_login_date":"2024-06-03",
     "customer_support_tickets":2
   },
@@ -24983,7 +24983,7 @@
     "user_id":12498,
     "age":16,
     "subscription_plan":"Estándar",
-    "monthly_watch_time_mins":861.8,
+    "monthly_watch_time_mins":861.0,
     "country":"Argentina",
     "favorite_genre":"Thriller",
     "last_login_date":"2025-11-09",
@@ -25034,7 +25034,7 @@
     "age":13,
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":522.1,
-    "country":"Perú",
+    "country":"Peru",
     "favorite_genre":"Romance",
     "last_login_date":"2021-07-08",
     "customer_support_tickets":0
@@ -25334,7 +25334,7 @@
     "age":18,
     "subscription_plan":"Premium",
     "monthly_watch_time_mins":817.2,
-    "country":"México",
+    "country":"Mexico",
     "favorite_genre":"Crimen",
     "last_login_date":"2025-03-19",
     "customer_support_tickets":0
@@ -25373,7 +25373,7 @@
     "user_id":12537,
     "age":19,
     "subscription_plan":"Estándar",
-    "monthly_watch_time_mins":861.8,
+    "monthly_watch_time_mins":861.0,
     "country":"Argentina",
     "favorite_genre":"Crimen",
     "last_login_date":"2023-06-07",
@@ -25704,7 +25704,7 @@
     "age":30,
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":1341.4,
-    "country":"Perú",
+    "country":"Peru",
     "favorite_genre":"Thriller",
     "last_login_date":"2022-12-17",
     "customer_support_tickets":1
@@ -25932,7 +25932,7 @@
   {
     "user_id":12593,
     "age":19,
-    "subscription_plan":"Básico",
+    "subscription_plan":"básico",
     "monthly_watch_time_mins":0.0,
     "country":"México",
     "favorite_genre":"Comedia",
@@ -25962,7 +25962,7 @@
   {
     "user_id":12596,
     "age":35,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":1143.6,
     "country":"Argentina",
     "favorite_genre":"Thriller",
@@ -26493,7 +26493,7 @@
     "user_id":12649,
     "age":45,
     "subscription_plan":"Estándar",
-    "monthly_watch_time_mins":841.0,
+    "monthly_watch_time_mins":840.0,
     "country":"Brasil",
     "favorite_genre":"Documental",
     "last_login_date":"2019-10-28",
@@ -26702,7 +26702,7 @@
   {
     "user_id":12670,
     "age":27,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estándar ",
     "monthly_watch_time_mins":375.2,
     "country":"Perú",
     "favorite_genre":"Romance",
@@ -26712,7 +26712,7 @@
   {
     "user_id":12671,
     "age":27,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":134.6,
     "country":"Uruguay",
     "favorite_genre":"Acción",
@@ -26732,7 +26732,7 @@
   {
     "user_id":12673,
     "age":17,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":799.7,
     "country":"Brasil",
     "favorite_genre":"Thriller",
@@ -26812,7 +26812,7 @@
   {
     "user_id":12681,
     "age":57,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":329.6,
     "country":"Argentina",
     "favorite_genre":"Documental",
@@ -26925,7 +26925,7 @@
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":814.7,
     "country":"Brasil",
-    "favorite_genre":"Drama",
+    "favorite_genre":"Thriller",
     "last_login_date":"2018-09-12",
     "customer_support_tickets":1
   },
@@ -27003,7 +27003,7 @@
     "user_id":12700,
     "age":23,
     "subscription_plan":"Premium",
-    "monthly_watch_time_mins":1123.6,
+    "monthly_watch_time_mins":1126.6,
     "country":"Perú",
     "favorite_genre":"Documental",
     "last_login_date":"2023-08-21",
@@ -27125,14 +27125,14 @@
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":490.5,
     "country":"Argentina",
-    "favorite_genre":"Drama",
+    "favorite_genre":"Comedia",
     "last_login_date":"2023-05-13",
     "customer_support_tickets":0
   },
   {
     "user_id":12713,
     "age":33,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":502.9,
     "country":"Chile",
     "favorite_genre":"Romance",
@@ -27272,7 +27272,7 @@
   {
     "user_id":12727,
     "age":38,
-    "subscription_plan":"Básico",
+    "subscription_plan":"básico",
     "monthly_watch_time_mins":113.0,
     "country":"Colombia",
     "favorite_genre":"Crimen",
@@ -27293,7 +27293,7 @@
     "user_id":12729,
     "age":27,
     "subscription_plan":"Básico",
-    "monthly_watch_time_mins":520.0,
+    "monthly_watch_time_mins":526.1,
     "country":"México",
     "favorite_genre":"Acción",
     "last_login_date":"2022-02-14",
@@ -27382,7 +27382,7 @@
   {
     "user_id":12738,
     "age":18,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":147.3,
     "country":"México",
     "favorite_genre":"Comedia",
@@ -27432,7 +27432,7 @@
   {
     "user_id":12743,
     "age":28,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":867.1,
     "country":"Perú",
     "favorite_genre":"Acción",
@@ -27495,14 +27495,14 @@
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":1112.9,
     "country":"Brasil",
-    "favorite_genre":"Drama",
+    "favorite_genre":"Thriller",
     "last_login_date":"2020-04-21",
     "customer_support_tickets":0
   },
   {
     "user_id":12750,
     "age":37,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":279.7,
     "country":"Brasil",
     "favorite_genre":"Acción",
@@ -27512,7 +27512,7 @@
   {
     "user_id":12751,
     "age":29,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estándar ",
     "monthly_watch_time_mins":729.7,
     "country":"México",
     "favorite_genre":"Comedia",
@@ -27643,7 +27643,7 @@
     "user_id":12764,
     "age":35,
     "subscription_plan":"Básico",
-    "monthly_watch_time_mins":572.6,
+    "monthly_watch_time_mins":577.9,
     "country":"Uruguay",
     "favorite_genre":"Documental",
     "last_login_date":"2023-03-09",
@@ -27742,7 +27742,7 @@
   {
     "user_id":12774,
     "age":36,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":1059.5,
     "country":"Uruguay",
     "favorite_genre":"Drama",
@@ -27825,7 +27825,7 @@
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":782.3,
     "country":"Argentina",
-    "favorite_genre":"Drama",
+    "favorite_genre":"Comedia",
     "last_login_date":"2023-04-18",
     "customer_support_tickets":2
   },
@@ -28142,7 +28142,7 @@
   {
     "user_id":12814,
     "age":37,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":361.8,
     "country":"Uruguay",
     "favorite_genre":"Drama",
@@ -28162,10 +28162,10 @@
   {
     "user_id":12816,
     "age":19,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":640.9,
     "country":"Uruguay",
-    "favorite_genre":"Crimen",
+    "favorite_genre":"Thriller",
     "last_login_date":"2022-10-04",
     "customer_support_tickets":0
   },
@@ -28265,7 +28265,7 @@
     "subscription_plan":"Estándar",
     "monthly_watch_time_mins":588.6,
     "country":"Brasil",
-    "favorite_genre":"Acción",
+    "favorite_genre":"ACCIÓN",
     "last_login_date":"2019-04-08",
     "customer_support_tickets":0
   },
@@ -28282,7 +28282,7 @@
   {
     "user_id":12828,
     "age":30,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estándar ",
     "monthly_watch_time_mins":797.5,
     "country":"Chile",
     "favorite_genre":"Comedia",
@@ -28402,7 +28402,7 @@
   {
     "user_id":12840,
     "age":54,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":1156.5,
     "country":"Uruguay",
     "favorite_genre":"Thriller",
@@ -28533,7 +28533,7 @@
     "user_id":12853,
     "age":31,
     "subscription_plan":"Básico",
-    "monthly_watch_time_mins":520.0,
+    "monthly_watch_time_mins":526.1,
     "country":"México",
     "favorite_genre":"Crimen",
     "last_login_date":"2021-03-30",
@@ -28645,7 +28645,7 @@
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":641.8,
     "country":"México",
-    "favorite_genre":"Acción",
+    "favorite_genre":"Accion",
     "last_login_date":"2025-05-28",
     "customer_support_tickets":0
   },
@@ -28922,7 +28922,7 @@
   {
     "user_id":12892,
     "age":15,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estándar ",
     "monthly_watch_time_mins":953.4,
     "country":"Chile",
     "favorite_genre":"Acción",
@@ -29305,7 +29305,7 @@
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":553.9,
     "country":"Perú",
-    "favorite_genre":"Drama",
+    "favorite_genre":"Romance",
     "last_login_date":"2025-07-13",
     "customer_support_tickets":1
   },
@@ -29315,7 +29315,7 @@
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":44.2,
     "country":"Brasil",
-    "favorite_genre":"Drama",
+    "favorite_genre":"Thriller",
     "last_login_date":"2022-02-14",
     "customer_support_tickets":1
   },
@@ -29362,7 +29362,7 @@
   {
     "user_id":12936,
     "age":36,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":0.0,
     "country":"Chile",
     "favorite_genre":"Documental",
@@ -29372,7 +29372,7 @@
   {
     "user_id":12937,
     "age":54,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":233.8,
     "country":"Perú",
     "favorite_genre":"Crimen",
@@ -29725,7 +29725,7 @@
     "subscription_plan":"Estándar",
     "monthly_watch_time_mins":1135.8,
     "country":"Chile",
-    "favorite_genre":"Acción",
+    "favorite_genre":"Crimen",
     "last_login_date":"2020-06-25",
     "customer_support_tickets":0
   },
@@ -29832,7 +29832,7 @@
   {
     "user_id":12983,
     "age":66,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":525.6,
     "country":"Argentina",
     "favorite_genre":"Acción",
@@ -29942,7 +29942,7 @@
   {
     "user_id":12994,
     "age":13,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":626.0,
     "country":"Brasil",
     "favorite_genre":"Drama",
@@ -30012,7 +30012,7 @@
   {
     "user_id":13001,
     "age":33,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estándar ",
     "monthly_watch_time_mins":507.1,
     "country":"Argentina",
     "favorite_genre":"Drama",
@@ -30114,7 +30114,7 @@
     "age":38,
     "subscription_plan":"Premium",
     "monthly_watch_time_mins":873.7,
-    "country":"México",
+    "country":"méxico",
     "favorite_genre":"Comedia",
     "last_login_date":"2025-06-30",
     "customer_support_tickets":0
@@ -30124,7 +30124,7 @@
     "age":21,
     "subscription_plan":"Estándar",
     "monthly_watch_time_mins":931.3,
-    "country":"Perú",
+    "country":"Peru",
     "favorite_genre":"Comedia",
     "last_login_date":"2018-07-18",
     "customer_support_tickets":2
@@ -30215,7 +30215,7 @@
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":271.2,
     "country":"Perú",
-    "favorite_genre":"Drama",
+    "favorite_genre":"Romance",
     "last_login_date":"2018-02-07",
     "customer_support_tickets":0
   },
@@ -30342,7 +30342,7 @@
   {
     "user_id":13034,
     "age":13,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":123.9,
     "country":"Brasil",
     "favorite_genre":"Romance",
@@ -30462,7 +30462,7 @@
   {
     "user_id":13046,
     "age":24,
-    "subscription_plan":"Básico",
+    "subscription_plan":"básico",
     "monthly_watch_time_mins":0.0,
     "country":"Brasil",
     "favorite_genre":"Acción",
@@ -30542,7 +30542,7 @@
   {
     "user_id":13054,
     "age":35,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":377.1,
     "country":"Brasil",
     "favorite_genre":"Crimen",
@@ -30592,7 +30592,7 @@
   {
     "user_id":13059,
     "age":32,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":1147.2,
     "country":"Argentina",
     "favorite_genre":"Comedia",
@@ -30694,7 +30694,7 @@
     "age":39,
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":1024.8,
-    "country":"México",
+    "country":"Mexico",
     "favorite_genre":"Romance",
     "last_login_date":"2025-10-26",
     "customer_support_tickets":0
@@ -30853,7 +30853,7 @@
     "user_id":13085,
     "age":27,
     "subscription_plan":"Básico",
-    "monthly_watch_time_mins":520.0,
+    "monthly_watch_time_mins":526.1,
     "country":"México",
     "favorite_genre":"Drama",
     "last_login_date":"2018-02-08",
@@ -30893,7 +30893,7 @@
     "user_id":13089,
     "age":36,
     "subscription_plan":"Premium",
-    "monthly_watch_time_mins":1130.7,
+    "monthly_watch_time_mins":1136.1,
     "country":"México",
     "favorite_genre":"Drama",
     "last_login_date":"2023-08-10",
@@ -31045,7 +31045,7 @@
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":107.8,
     "country":"Brasil",
-    "favorite_genre":"Drama",
+    "favorite_genre":"Thriller",
     "last_login_date":"2018-11-01",
     "customer_support_tickets":0
   },
@@ -31732,7 +31732,7 @@
   {
     "user_id":13173,
     "age":28,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":964.9,
     "country":"Perú",
     "favorite_genre":"Acción",
@@ -31813,7 +31813,7 @@
     "user_id":13181,
     "age":41,
     "subscription_plan":"Estándar",
-    "monthly_watch_time_mins":841.0,
+    "monthly_watch_time_mins":840.0,
     "country":"Brasil",
     "favorite_genre":"Romance",
     "last_login_date":"2022-12-27",
@@ -31944,7 +31944,7 @@
     "age":44,
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":742.6,
-    "country":"Perú",
+    "country":"Peru",
     "favorite_genre":"Comedia",
     "last_login_date":"2019-02-28",
     "customer_support_tickets":0
@@ -32002,7 +32002,7 @@
   {
     "user_id":13200,
     "age":47,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":563.7,
     "country":"Uruguay",
     "favorite_genre":"Thriller",
@@ -32033,7 +32033,7 @@
     "user_id":13203,
     "age":45,
     "subscription_plan":"Estándar",
-    "monthly_watch_time_mins":841.0,
+    "monthly_watch_time_mins":840.0,
     "country":"Brasil",
     "favorite_genre":"Crimen",
     "last_login_date":"2022-04-27",
@@ -32302,7 +32302,7 @@
   {
     "user_id":13230,
     "age":39,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":855.9,
     "country":"Uruguay",
     "favorite_genre":"Romance",
@@ -32543,7 +32543,7 @@
     "user_id":13254,
     "age":41,
     "subscription_plan":"Premium",
-    "monthly_watch_time_mins":1130.7,
+    "monthly_watch_time_mins":1136.1,
     "country":"México",
     "favorite_genre":"Thriller",
     "last_login_date":"2019-07-12",
@@ -32854,7 +32854,7 @@
     "age":33,
     "subscription_plan":"Premium",
     "monthly_watch_time_mins":443.2,
-    "country":"México",
+    "country":"méxico",
     "favorite_genre":"Acción",
     "last_login_date":"2023-03-06",
     "customer_support_tickets":0
@@ -33202,7 +33202,7 @@
   {
     "user_id":13320,
     "age":37,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":455.5,
     "country":"Uruguay",
     "favorite_genre":"Comedia",
@@ -33303,7 +33303,7 @@
     "user_id":13330,
     "age":13,
     "subscription_plan":"Estándar",
-    "monthly_watch_time_mins":841.0,
+    "monthly_watch_time_mins":840.0,
     "country":"Brasil",
     "favorite_genre":"Crimen",
     "last_login_date":"2018-07-01",
@@ -33344,7 +33344,7 @@
     "age":13,
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":400.6,
-    "country":"Perú",
+    "country":"perú",
     "favorite_genre":"Crimen",
     "last_login_date":"2025-04-03",
     "customer_support_tickets":1
@@ -33722,7 +33722,7 @@
   {
     "user_id":13372,
     "age":18,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":513.6,
     "country":"Chile",
     "favorite_genre":"Comedia",
@@ -33792,7 +33792,7 @@
   {
     "user_id":13379,
     "age":57,
-    "subscription_plan":"Básico",
+    "subscription_plan":"básico",
     "monthly_watch_time_mins":916.8,
     "country":"Chile",
     "favorite_genre":"Thriller",
@@ -33933,7 +33933,7 @@
     "user_id":13393,
     "age":36,
     "subscription_plan":"Premium",
-    "monthly_watch_time_mins":1123.6,
+    "monthly_watch_time_mins":1126.6,
     "country":"Perú",
     "favorite_genre":"Crimen",
     "last_login_date":"2020-09-26",
@@ -33954,7 +33954,7 @@
     "age":28,
     "subscription_plan":"Premium",
     "monthly_watch_time_mins":809.1,
-    "country":"Perú",
+    "country":"Peru",
     "favorite_genre":"Romance",
     "last_login_date":"2019-12-16",
     "customer_support_tickets":1
@@ -34122,7 +34122,7 @@
   {
     "user_id":13412,
     "age":25,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":691.1,
     "country":"México",
     "favorite_genre":"Comedia",
@@ -34222,8 +34222,8 @@
   {
     "user_id":13422,
     "age":33,
-    "subscription_plan":"Estándar",
-    "monthly_watch_time_mins":841.0,
+    "subscription_plan":"Estándar ",
+    "monthly_watch_time_mins":917.6,
     "country":"Brasil",
     "favorite_genre":"Thriller",
     "last_login_date":"2021-02-14",
@@ -34262,7 +34262,7 @@
   {
     "user_id":13426,
     "age":13,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":410.9,
     "country":"Colombia",
     "favorite_genre":"Drama",
@@ -34322,7 +34322,7 @@
   {
     "user_id":13432,
     "age":20,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estándar ",
     "monthly_watch_time_mins":755.4,
     "country":"Colombia",
     "favorite_genre":"Crimen",
@@ -34412,7 +34412,7 @@
   {
     "user_id":13441,
     "age":16,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":1256.2,
     "country":"Colombia",
     "favorite_genre":"Thriller",
@@ -34485,7 +34485,7 @@
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":601.2,
     "country":"Argentina",
-    "favorite_genre":"Drama",
+    "favorite_genre":"Comedia",
     "last_login_date":"2023-02-19",
     "customer_support_tickets":1
   },
@@ -34495,7 +34495,7 @@
     "subscription_plan":"Estándar",
     "monthly_watch_time_mins":1293.6,
     "country":"Argentina",
-    "favorite_genre":"Acción",
+    "favorite_genre":"Accion",
     "last_login_date":"2024-12-03",
     "customer_support_tickets":0
   },
@@ -34575,7 +34575,7 @@
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":995.6,
     "country":"Brasil",
-    "favorite_genre":"Drama",
+    "favorite_genre":"Thriller",
     "last_login_date":"2025-07-15",
     "customer_support_tickets":4
   },
@@ -34603,8 +34603,8 @@
     "user_id":13460,
     "age":17,
     "subscription_plan":"Estándar",
-    "monthly_watch_time_mins":820.5,
-    "country":"México",
+    "monthly_watch_time_mins":934.2,
+    "country":"méxico",
     "favorite_genre":"Thriller",
     "last_login_date":"2019-04-28",
     "customer_support_tickets":0
@@ -34625,7 +34625,7 @@
     "subscription_plan":"Estándar",
     "monthly_watch_time_mins":995.4,
     "country":"Perú",
-    "favorite_genre":"Acción",
+    "favorite_genre":"Accion",
     "last_login_date":"2021-06-04",
     "customer_support_tickets":0
   },
@@ -34642,9 +34642,9 @@
   {
     "user_id":13464,
     "age":39,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":298.0,
-    "country":"México",
+    "country":"méxico",
     "favorite_genre":"Romance",
     "last_login_date":"2020-01-20",
     "customer_support_tickets":1
@@ -34815,7 +34815,7 @@
     "subscription_plan":"Estándar",
     "monthly_watch_time_mins":773.0,
     "country":"Brasil",
-    "favorite_genre":"Acción",
+    "favorite_genre":"Accion",
     "last_login_date":"2025-03-27",
     "customer_support_tickets":0
   },
@@ -34872,7 +34872,7 @@
   {
     "user_id":13487,
     "age":29,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":419.4,
     "country":"Colombia",
     "favorite_genre":"Thriller",
@@ -34882,7 +34882,7 @@
   {
     "user_id":13488,
     "age":36,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":855.2,
     "country":"Perú",
     "favorite_genre":"Thriller",
@@ -35072,10 +35072,10 @@
   {
     "user_id":13507,
     "age":25,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":596.4,
     "country":"México",
-    "favorite_genre":"Documental",
+    "favorite_genre":"Acción",
     "last_login_date":"2025-12-18",
     "customer_support_tickets":2
   },
@@ -35085,7 +35085,7 @@
     "subscription_plan":"Estándar",
     "monthly_watch_time_mins":1135.6,
     "country":"Brasil",
-    "favorite_genre":"Acción",
+    "favorite_genre":"ACCIÓN",
     "last_login_date":"2022-12-24",
     "customer_support_tickets":1
   },
@@ -35135,7 +35135,7 @@
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":830.6,
     "country":"Argentina",
-    "favorite_genre":"Acción",
+    "favorite_genre":"Accion",
     "last_login_date":"2018-05-07",
     "customer_support_tickets":1
   },
@@ -35334,7 +35334,7 @@
     "age":40,
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":212.7,
-    "country":"México",
+    "country":"méxico",
     "favorite_genre":"Drama",
     "last_login_date":"2022-02-14",
     "customer_support_tickets":3
@@ -35501,7 +35501,7 @@
   },
   {
     "user_id":13550,
-    "age":33,
+    "age":32,
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":409.8,
     "country":"Perú",
@@ -35572,7 +35572,7 @@
   {
     "user_id":13557,
     "age":30,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":296.6,
     "country":"Colombia",
     "favorite_genre":"Crimen",
@@ -35585,7 +35585,7 @@
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":145.5,
     "country":"Uruguay",
-    "favorite_genre":"Acción",
+    "favorite_genre":"Accion",
     "last_login_date":"2022-10-20",
     "customer_support_tickets":1
   },
@@ -35602,7 +35602,7 @@
   {
     "user_id":13560,
     "age":39,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":287.6,
     "country":"Brasil",
     "favorite_genre":"Comedia",
@@ -35702,10 +35702,10 @@
   {
     "user_id":13570,
     "age":42,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":975.9,
     "country":"Colombia",
-    "favorite_genre":"Thriller",
+    "favorite_genre":"Drama",
     "last_login_date":"2024-01-16",
     "customer_support_tickets":2
   },
@@ -36075,7 +36075,7 @@
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":580.8,
     "country":"Argentina",
-    "favorite_genre":"Drama",
+    "favorite_genre":"Comedia",
     "last_login_date":"2019-01-17",
     "customer_support_tickets":1
   },
@@ -36112,7 +36112,7 @@
   {
     "user_id":13611,
     "age":27,
-    "subscription_plan":"Básico",
+    "subscription_plan":"básico",
     "monthly_watch_time_mins":691.3,
     "country":"Uruguay",
     "favorite_genre":"Crimen",
@@ -36212,7 +36212,7 @@
   {
     "user_id":13621,
     "age":27,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":1174.3,
     "country":"Argentina",
     "favorite_genre":"Documental",
@@ -36324,7 +36324,7 @@
     "age":32,
     "subscription_plan":"Estándar",
     "monthly_watch_time_mins":1279.8,
-    "country":"Perú",
+    "country":"perú",
     "favorite_genre":"Thriller",
     "last_login_date":"2022-02-14",
     "customer_support_tickets":2
@@ -36362,7 +36362,7 @@
   {
     "user_id":13636,
     "age":33,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":556.6,
     "country":"Uruguay",
     "favorite_genre":"Acción",
@@ -36432,7 +36432,7 @@
   {
     "user_id":13643,
     "age":28,
-    "subscription_plan":"Básico",
+    "subscription_plan":"básico",
     "monthly_watch_time_mins":761.5,
     "country":"Argentina",
     "favorite_genre":"Drama",
@@ -36472,7 +36472,7 @@
   {
     "user_id":13647,
     "age":30,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":1046.3,
     "country":"Brasil",
     "favorite_genre":"Documental",
@@ -36575,7 +36575,7 @@
     "subscription_plan":"Estándar",
     "monthly_watch_time_mins":838.2,
     "country":"Chile",
-    "favorite_genre":"Acción",
+    "favorite_genre":"Crimen",
     "last_login_date":"2025-04-16",
     "customer_support_tickets":1
   },
@@ -36732,7 +36732,7 @@
   {
     "user_id":13673,
     "age":26,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estándar ",
     "monthly_watch_time_mins":513.6,
     "country":"Perú",
     "favorite_genre":"Crimen",
@@ -37022,7 +37022,7 @@
   {
     "user_id":13702,
     "age":13,
-    "subscription_plan":"Básico",
+    "subscription_plan":"básico",
     "monthly_watch_time_mins":3080.0,
     "country":"Brasil",
     "favorite_genre":"Romance",
@@ -37122,7 +37122,7 @@
   {
     "user_id":13712,
     "age":49,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":491.8,
     "country":"Perú",
     "favorite_genre":"Crimen",
@@ -37134,7 +37134,7 @@
     "age":41,
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":355.6,
-    "country":"México",
+    "country":"Mexico",
     "favorite_genre":"Thriller",
     "last_login_date":"2025-08-05",
     "customer_support_tickets":0
@@ -37215,7 +37215,7 @@
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":683.3,
     "country":"Argentina",
-    "favorite_genre":"Drama",
+    "favorite_genre":"Comedia",
     "last_login_date":"2019-11-04",
     "customer_support_tickets":2
   },
@@ -37262,7 +37262,7 @@
   {
     "user_id":13726,
     "age":36,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":1070.3,
     "country":"Argentina",
     "favorite_genre":"Thriller",
@@ -37272,7 +37272,7 @@
   {
     "user_id":13727,
     "age":19,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estándar ",
     "monthly_watch_time_mins":380.4,
     "country":"Argentina",
     "favorite_genre":"Acción",
@@ -37342,7 +37342,7 @@
   {
     "user_id":13734,
     "age":29,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":487.4,
     "country":"Chile",
     "favorite_genre":"Documental",
@@ -37502,7 +37502,7 @@
   {
     "user_id":13750,
     "age":34,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estándar ",
     "monthly_watch_time_mins":394.9,
     "country":"México",
     "favorite_genre":"Thriller",
@@ -37512,7 +37512,7 @@
   {
     "user_id":13751,
     "age":31,
-    "subscription_plan":"Básico",
+    "subscription_plan":"básico",
     "monthly_watch_time_mins":805.4,
     "country":"Chile",
     "favorite_genre":"Acción",
@@ -37522,7 +37522,7 @@
   {
     "user_id":13752,
     "age":47,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":454.0,
     "country":"Uruguay",
     "favorite_genre":"Romance",
@@ -37562,7 +37562,7 @@
   {
     "user_id":13756,
     "age":16,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estándar ",
     "monthly_watch_time_mins":1189.0,
     "country":"Perú",
     "favorite_genre":"Crimen",
@@ -37622,7 +37622,7 @@
   {
     "user_id":13762,
     "age":41,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":1021.9,
     "country":"México",
     "favorite_genre":"Acción",
@@ -37902,7 +37902,7 @@
   {
     "user_id":13790,
     "age":35,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":808.0,
     "country":"Chile",
     "favorite_genre":"Romance",
@@ -37992,7 +37992,7 @@
   {
     "user_id":13799,
     "age":20,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":844.9,
     "country":"Brasil",
     "favorite_genre":"Crimen",
@@ -38032,7 +38032,7 @@
   {
     "user_id":13803,
     "age":33,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":328.4,
     "country":"Brasil",
     "favorite_genre":"Documental",
@@ -38122,7 +38122,7 @@
   {
     "user_id":13812,
     "age":38,
-    "subscription_plan":"Básico",
+    "subscription_plan":"básico",
     "monthly_watch_time_mins":536.6,
     "country":"Argentina",
     "favorite_genre":"Romance",
@@ -38132,7 +38132,7 @@
   {
     "user_id":13813,
     "age":61,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":1131.5,
     "country":"Argentina",
     "favorite_genre":"Crimen",
@@ -38261,7 +38261,7 @@
   },
   {
     "user_id":13826,
-    "age":33,
+    "age":32,
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":474.3,
     "country":"Perú",
@@ -38285,7 +38285,7 @@
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":17.7,
     "country":"Argentina",
-    "favorite_genre":"Drama",
+    "favorite_genre":"Comedia",
     "last_login_date":"2021-06-24",
     "customer_support_tickets":0
   },
@@ -38512,7 +38512,7 @@
   {
     "user_id":13851,
     "age":42,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":714.1,
     "country":"Brasil",
     "favorite_genre":"Comedia",
@@ -38552,10 +38552,10 @@
   {
     "user_id":13855,
     "age":36,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":906.1,
     "country":"Colombia",
-    "favorite_genre":"Acción",
+    "favorite_genre":"Accion",
     "last_login_date":"2023-10-20",
     "customer_support_tickets":1
   },
@@ -38782,8 +38782,8 @@
   {
     "user_id":13878,
     "age":14,
-    "subscription_plan":"Básico",
-    "monthly_watch_time_mins":572.6,
+    "subscription_plan":"Basico",
+    "monthly_watch_time_mins":438.7,
     "country":"Uruguay",
     "favorite_genre":"Romance",
     "last_login_date":"2023-08-09",
@@ -38803,7 +38803,7 @@
     "user_id":13880,
     "age":50,
     "subscription_plan":"Premium",
-    "monthly_watch_time_mins":1130.7,
+    "monthly_watch_time_mins":1136.1,
     "country":"México",
     "favorite_genre":"Thriller",
     "last_login_date":"2019-11-15",
@@ -38813,7 +38813,7 @@
     "user_id":13881,
     "age":57,
     "subscription_plan":"Premium",
-    "monthly_watch_time_mins":1123.6,
+    "monthly_watch_time_mins":1126.6,
     "country":"Perú",
     "favorite_genre":"Thriller",
     "last_login_date":"2022-02-15",
@@ -38822,7 +38822,7 @@
   {
     "user_id":13882,
     "age":37,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":803.7,
     "country":"Perú",
     "favorite_genre":"Drama",
@@ -38862,7 +38862,7 @@
   {
     "user_id":13886,
     "age":33,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":612.4,
     "country":"Argentina",
     "favorite_genre":"Drama",
@@ -38904,7 +38904,7 @@
     "age":32,
     "subscription_plan":"Estándar",
     "monthly_watch_time_mins":691.9,
-    "country":"Perú",
+    "country":"Peru",
     "favorite_genre":"Acción",
     "last_login_date":"2018-01-11",
     "customer_support_tickets":0
@@ -38934,7 +38934,7 @@
     "age":19,
     "subscription_plan":"Estándar",
     "monthly_watch_time_mins":564.7,
-    "country":"México",
+    "country":"Mexico",
     "favorite_genre":"Crimen",
     "last_login_date":"2022-02-14",
     "customer_support_tickets":2
@@ -39192,7 +39192,7 @@
   {
     "user_id":13919,
     "age":28,
-    "subscription_plan":"Básico",
+    "subscription_plan":"básico",
     "monthly_watch_time_mins":999.5,
     "country":"Perú",
     "favorite_genre":"Acción",
@@ -39253,7 +39253,7 @@
     "user_id":13925,
     "age":32,
     "subscription_plan":"Estándar",
-    "monthly_watch_time_mins":867.4,
+    "monthly_watch_time_mins":870.7,
     "country":"Uruguay",
     "favorite_genre":"Romance",
     "last_login_date":"2021-06-26",
@@ -39262,10 +39262,10 @@
   {
     "user_id":13926,
     "age":28,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":407.2,
     "country":"Chile",
-    "favorite_genre":"Acción",
+    "favorite_genre":"Accion",
     "last_login_date":"2021-09-02",
     "customer_support_tickets":0
   },
@@ -39302,7 +39302,7 @@
   {
     "user_id":13930,
     "age":28,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":808.4,
     "country":"Colombia",
     "favorite_genre":"Crimen",
@@ -39435,7 +39435,7 @@
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":997.3,
     "country":"Perú",
-    "favorite_genre":"Drama",
+    "favorite_genre":"Romance",
     "last_login_date":"2024-02-17",
     "customer_support_tickets":2
   },
@@ -39662,7 +39662,7 @@
   {
     "user_id":13966,
     "age":43,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":1305.3,
     "country":"México",
     "favorite_genre":"Acción",
@@ -39682,7 +39682,7 @@
   {
     "user_id":13968,
     "age":42,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":1061.1,
     "country":"Uruguay",
     "favorite_genre":"Drama",
@@ -39703,7 +39703,7 @@
     "user_id":13970,
     "age":28,
     "subscription_plan":"Estándar",
-    "monthly_watch_time_mins":834.9,
+    "monthly_watch_time_mins":833.6,
     "country":"Perú",
     "favorite_genre":"Crimen",
     "last_login_date":"2019-01-17",
@@ -39822,7 +39822,7 @@
   {
     "user_id":13982,
     "age":29,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":804.5,
     "country":"Chile",
     "favorite_genre":"Comedia",
@@ -39832,7 +39832,7 @@
   {
     "user_id":13983,
     "age":24,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":995.9,
     "country":"México",
     "favorite_genre":"Thriller",
@@ -40072,7 +40072,7 @@
   {
     "user_id":14007,
     "age":36,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":855.4,
     "country":"México",
     "favorite_genre":"Acción",
@@ -40274,7 +40274,7 @@
     "age":33,
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":928.0,
-    "country":"Perú",
+    "country":"Peru",
     "favorite_genre":"Comedia",
     "last_login_date":"2021-05-31",
     "customer_support_tickets":1
@@ -40375,7 +40375,7 @@
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":670.1,
     "country":"Uruguay",
-    "favorite_genre":"Acción",
+    "favorite_genre":"Accion",
     "last_login_date":"2022-02-14",
     "customer_support_tickets":4
   },
@@ -40484,7 +40484,7 @@
     "age":31,
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":705.5,
-    "country":"Perú",
+    "country":"Peru",
     "favorite_genre":"Documental",
     "last_login_date":"2023-01-27",
     "customer_support_tickets":0
@@ -40572,7 +40572,7 @@
   {
     "user_id":14057,
     "age":27,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":439.6,
     "country":"Chile",
     "favorite_genre":"Comedia",
@@ -40625,7 +40625,7 @@
     "subscription_plan":"Estándar",
     "monthly_watch_time_mins":813.8,
     "country":"Chile",
-    "favorite_genre":"Acción",
+    "favorite_genre":"Crimen",
     "last_login_date":"2022-06-29",
     "customer_support_tickets":1
   },
@@ -40652,7 +40652,7 @@
   {
     "user_id":14065,
     "age":40,
-    "subscription_plan":"Básico",
+    "subscription_plan":"básico",
     "monthly_watch_time_mins":847.9,
     "country":"Argentina",
     "favorite_genre":"Acción",
@@ -40752,7 +40752,7 @@
   {
     "user_id":14075,
     "age":13,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":957.7,
     "country":"Perú",
     "favorite_genre":"Thriller",
@@ -40773,7 +40773,7 @@
     "user_id":14077,
     "age":30,
     "subscription_plan":"Premium",
-    "monthly_watch_time_mins":1130.7,
+    "monthly_watch_time_mins":1136.1,
     "country":"México",
     "favorite_genre":"Documental",
     "last_login_date":"2019-06-12",
@@ -40912,7 +40912,7 @@
   {
     "user_id":14091,
     "age":34,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estándar ",
     "monthly_watch_time_mins":807.5,
     "country":"Uruguay",
     "favorite_genre":"Documental",
@@ -41252,7 +41252,7 @@
   {
     "user_id":14125,
     "age":54,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estándar ",
     "monthly_watch_time_mins":778.0,
     "country":"Argentina",
     "favorite_genre":"Crimen",
@@ -41302,7 +41302,7 @@
   {
     "user_id":14130,
     "age":37,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":478.7,
     "country":"Brasil",
     "favorite_genre":"Documental",
@@ -41561,8 +41561,8 @@
   },
   {
     "user_id":14156,
-    "age":34,
-    "subscription_plan":"Estándar",
+    "age":32,
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":1138.1,
     "country":"Uruguay",
     "favorite_genre":"Romance",
@@ -41685,7 +41685,7 @@
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":200.6,
     "country":"Argentina",
-    "favorite_genre":"Drama",
+    "favorite_genre":"Comedia",
     "last_login_date":"2022-01-09",
     "customer_support_tickets":0
   },
@@ -41885,7 +41885,7 @@
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":216.8,
     "country":"México",
-    "favorite_genre":"Acción",
+    "favorite_genre":"Accion",
     "last_login_date":"2024-09-30",
     "customer_support_tickets":3
   },
@@ -42035,7 +42035,7 @@
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":506.4,
     "country":"Argentina",
-    "favorite_genre":"Drama",
+    "favorite_genre":"Comedia",
     "last_login_date":"2019-08-29",
     "customer_support_tickets":1
   },
@@ -42085,7 +42085,7 @@
     "subscription_plan":"Premium",
     "monthly_watch_time_mins":1022.1,
     "country":"Chile",
-    "favorite_genre":"Acción",
+    "favorite_genre":"ACCIÓN",
     "last_login_date":"2023-11-26",
     "customer_support_tickets":1
   },
@@ -42162,7 +42162,7 @@
   {
     "user_id":14216,
     "age":33,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":1041.3,
     "country":"Argentina",
     "favorite_genre":"Acción",
@@ -42182,7 +42182,7 @@
   {
     "user_id":14218,
     "age":42,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":864.0,
     "country":"Brasil",
     "favorite_genre":"Comedia",
@@ -42652,7 +42652,7 @@
   {
     "user_id":14265,
     "age":25,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":250.7,
     "country":"Brasil",
     "favorite_genre":"Crimen",
@@ -42661,7 +42661,7 @@
   },
   {
     "user_id":14266,
-    "age":34,
+    "age":33,
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":300.5,
     "country":"México",
@@ -42711,7 +42711,7 @@
   },
   {
     "user_id":14271,
-    "age":33,
+    "age":32,
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":253.8,
     "country":"Perú",
@@ -42742,7 +42742,7 @@
   {
     "user_id":14274,
     "age":61,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":722.5,
     "country":"Brasil",
     "favorite_genre":"Comedia",
@@ -43103,7 +43103,7 @@
     "user_id":14310,
     "age":27,
     "subscription_plan":"Estándar",
-    "monthly_watch_time_mins":834.9,
+    "monthly_watch_time_mins":833.6,
     "country":"Perú",
     "favorite_genre":"Crimen",
     "last_login_date":"2019-11-28",
@@ -43502,7 +43502,7 @@
   {
     "user_id":14350,
     "age":32,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":647.3,
     "country":"Uruguay",
     "favorite_genre":"Drama",
@@ -43572,7 +43572,7 @@
   {
     "user_id":14357,
     "age":22,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":911.9,
     "country":"Brasil",
     "favorite_genre":"Crimen",
@@ -43652,7 +43652,7 @@
   {
     "user_id":14365,
     "age":29,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":765.7,
     "country":"Colombia",
     "favorite_genre":"Comedia",
@@ -43712,7 +43712,7 @@
   {
     "user_id":14371,
     "age":39,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":468.7,
     "country":"Perú",
     "favorite_genre":"Drama",
@@ -43743,7 +43743,7 @@
     "user_id":14374,
     "age":36,
     "subscription_plan":"Estándar",
-    "monthly_watch_time_mins":841.0,
+    "monthly_watch_time_mins":840.0,
     "country":"Brasil",
     "favorite_genre":"Acción",
     "last_login_date":"2020-12-21",
@@ -43852,7 +43852,7 @@
   {
     "user_id":14385,
     "age":45,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":720.3,
     "country":"Colombia",
     "favorite_genre":"Thriller",
@@ -44022,7 +44022,7 @@
   {
     "user_id":14402,
     "age":24,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":1108.0,
     "country":"Perú",
     "favorite_genre":"Thriller",
@@ -44202,7 +44202,7 @@
   {
     "user_id":14420,
     "age":56,
-    "subscription_plan":"Básico",
+    "subscription_plan":"básico",
     "monthly_watch_time_mins":1346.1,
     "country":"Argentina",
     "favorite_genre":"Drama",
@@ -44222,7 +44222,7 @@
   {
     "user_id":14422,
     "age":33,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":838.5,
     "country":"Chile",
     "favorite_genre":"Crimen",
@@ -44352,8 +44352,8 @@
   {
     "user_id":14435,
     "age":52,
-    "subscription_plan":"Estándar",
-    "monthly_watch_time_mins":820.5,
+    "subscription_plan":"Estandar",
+    "monthly_watch_time_mins":944.8,
     "country":"México",
     "favorite_genre":"Documental",
     "last_login_date":"2022-10-01",
@@ -44704,7 +44704,7 @@
     "age":30,
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":856.0,
-    "country":"Perú",
+    "country":"Peru",
     "favorite_genre":"Comedia",
     "last_login_date":"2024-04-23",
     "customer_support_tickets":0
@@ -44742,7 +44742,7 @@
   {
     "user_id":14474,
     "age":59,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":298.6,
     "country":"Argentina",
     "favorite_genre":"Romance",
@@ -44932,7 +44932,7 @@
   {
     "user_id":14493,
     "age":44,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":956.1,
     "country":"Uruguay",
     "favorite_genre":"Romance",
@@ -45273,8 +45273,8 @@
     "user_id":14527,
     "age":34,
     "subscription_plan":"Premium",
-    "monthly_watch_time_mins":1130.7,
-    "country":"México",
+    "monthly_watch_time_mins":958.6,
+    "country":"Mexico",
     "favorite_genre":"Crimen",
     "last_login_date":"2022-03-12",
     "customer_support_tickets":0
@@ -45282,7 +45282,7 @@
   {
     "user_id":14528,
     "age":23,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":799.1,
     "country":"Brasil",
     "favorite_genre":"Comedia",
@@ -45752,7 +45752,7 @@
   {
     "user_id":14575,
     "age":21,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":575.2,
     "country":"Colombia",
     "favorite_genre":"Acción",
@@ -45772,7 +45772,7 @@
   {
     "user_id":14577,
     "age":48,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":849.8,
     "country":"México",
     "favorite_genre":"Acción",
@@ -45932,7 +45932,7 @@
   {
     "user_id":14593,
     "age":30,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":1028.5,
     "country":"Colombia",
     "favorite_genre":"Documental",
@@ -46302,7 +46302,7 @@
   {
     "user_id":14630,
     "age":35,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":732.8,
     "country":"Argentina",
     "favorite_genre":"Documental",
@@ -46413,7 +46413,7 @@
     "user_id":14641,
     "age":33,
     "subscription_plan":"Premium",
-    "monthly_watch_time_mins":1130.7,
+    "monthly_watch_time_mins":1136.1,
     "country":"México",
     "favorite_genre":"Thriller",
     "last_login_date":"2020-12-05",
@@ -46462,9 +46462,9 @@
   {
     "user_id":14646,
     "age":23,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":824.7,
-    "country":"México",
+    "country":"Mexico",
     "favorite_genre":"Thriller",
     "last_login_date":"2020-02-11",
     "customer_support_tickets":1
@@ -46582,7 +46582,7 @@
   {
     "user_id":14658,
     "age":46,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":711.4,
     "country":"Chile",
     "favorite_genre":"Acción",
@@ -46595,7 +46595,7 @@
     "subscription_plan":"Premium",
     "monthly_watch_time_mins":1463.7,
     "country":"Uruguay",
-    "favorite_genre":"Acción",
+    "favorite_genre":"ACCIÓN",
     "last_login_date":"2023-07-31",
     "customer_support_tickets":0
   },
@@ -46722,9 +46722,9 @@
   {
     "user_id":14672,
     "age":25,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":513.0,
-    "country":"Perú",
+    "country":"Peru",
     "favorite_genre":"Comedia",
     "last_login_date":"2020-06-29",
     "customer_support_tickets":0
@@ -46992,7 +46992,7 @@
   {
     "user_id":14699,
     "age":52,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":631.1,
     "country":"Argentina",
     "favorite_genre":"Thriller",
@@ -47062,7 +47062,7 @@
   {
     "user_id":14706,
     "age":58,
-    "subscription_plan":"Básico",
+    "subscription_plan":"básico",
     "monthly_watch_time_mins":303.1,
     "country":"Brasil",
     "favorite_genre":"Comedia",
@@ -47174,7 +47174,7 @@
     "age":13,
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":675.8,
-    "country":"México",
+    "country":"méxico",
     "favorite_genre":"Documental",
     "last_login_date":"2023-08-12",
     "customer_support_tickets":0
@@ -47283,7 +47283,7 @@
     "user_id":14728,
     "age":36,
     "subscription_plan":"Premium",
-    "monthly_watch_time_mins":1123.6,
+    "monthly_watch_time_mins":1126.6,
     "country":"Perú",
     "favorite_genre":"Documental",
     "last_login_date":"2021-11-04",
@@ -47352,7 +47352,7 @@
   {
     "user_id":14735,
     "age":43,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":293.6,
     "country":"Chile",
     "favorite_genre":"Thriller",
@@ -47425,7 +47425,7 @@
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":1014.8,
     "country":"Perú",
-    "favorite_genre":"Drama",
+    "favorite_genre":"Romance",
     "last_login_date":"2018-08-26",
     "customer_support_tickets":1
   },
@@ -47462,7 +47462,7 @@
   {
     "user_id":14746,
     "age":29,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":1394.6,
     "country":"Brasil",
     "favorite_genre":"Documental",
@@ -47492,7 +47492,7 @@
   {
     "user_id":14749,
     "age":39,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":607.8,
     "country":"Colombia",
     "favorite_genre":"Drama",
@@ -47522,7 +47522,7 @@
   {
     "user_id":14752,
     "age":26,
-    "subscription_plan":"Básico",
+    "subscription_plan":"básico",
     "monthly_watch_time_mins":858.3,
     "country":"Chile",
     "favorite_genre":"Documental",
@@ -47543,8 +47543,8 @@
     "user_id":14754,
     "age":28,
     "subscription_plan":"Estándar",
-    "monthly_watch_time_mins":834.9,
-    "country":"Perú",
+    "monthly_watch_time_mins":931.3,
+    "country":"Peru",
     "favorite_genre":"Thriller",
     "last_login_date":"2022-11-12",
     "customer_support_tickets":1
@@ -47812,10 +47812,10 @@
   {
     "user_id":14781,
     "age":29,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":340.1,
     "country":"Uruguay",
-    "favorite_genre":"Drama",
+    "favorite_genre":"Acción",
     "last_login_date":"2022-04-21",
     "customer_support_tickets":0
   },
@@ -47864,7 +47864,7 @@
     "age":25,
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":488.7,
-    "country":"México",
+    "country":"Mexico",
     "favorite_genre":"Comedia",
     "last_login_date":"2018-09-25",
     "customer_support_tickets":0
@@ -47885,7 +47885,7 @@
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":880.5,
     "country":"Perú",
-    "favorite_genre":"Drama",
+    "favorite_genre":"Romance",
     "last_login_date":"2021-05-06",
     "customer_support_tickets":0
   },
@@ -47975,7 +47975,7 @@
     "subscription_plan":"Estándar",
     "monthly_watch_time_mins":3080.0,
     "country":"Chile",
-    "favorite_genre":"Acción",
+    "favorite_genre":"Crimen",
     "last_login_date":"2019-07-03",
     "customer_support_tickets":0
   },
@@ -48155,7 +48155,7 @@
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":710.8,
     "country":"Perú",
-    "favorite_genre":"Drama",
+    "favorite_genre":"Romance",
     "last_login_date":"2025-12-22",
     "customer_support_tickets":0
   },
@@ -48294,7 +48294,7 @@
     "age":35,
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":325.9,
-    "country":"Perú",
+    "country":"Peru",
     "favorite_genre":"Comedia",
     "last_login_date":"2018-03-22",
     "customer_support_tickets":1
@@ -48462,7 +48462,7 @@
   {
     "user_id":14846,
     "age":13,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":384.2,
     "country":"Perú",
     "favorite_genre":"Thriller",
@@ -48565,7 +48565,7 @@
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":465.7,
     "country":"Brasil",
-    "favorite_genre":"Drama",
+    "favorite_genre":"Thriller",
     "last_login_date":"2025-11-10",
     "customer_support_tickets":1
   },
@@ -48693,7 +48693,7 @@
     "user_id":14869,
     "age":40,
     "subscription_plan":"Premium",
-    "monthly_watch_time_mins":1130.7,
+    "monthly_watch_time_mins":1136.1,
     "country":"México",
     "favorite_genre":"Romance",
     "last_login_date":"2020-03-29",
@@ -48863,7 +48863,7 @@
     "user_id":14886,
     "age":45,
     "subscription_plan":"Premium",
-    "monthly_watch_time_mins":1130.7,
+    "monthly_watch_time_mins":1136.1,
     "country":"México",
     "favorite_genre":"Thriller",
     "last_login_date":"2018-01-12",
@@ -48991,7 +48991,7 @@
   },
   {
     "user_id":14899,
-    "age":34,
+    "age":33,
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":330.4,
     "country":"México",
@@ -49113,7 +49113,7 @@
     "user_id":14911,
     "age":32,
     "subscription_plan":"Premium",
-    "monthly_watch_time_mins":1130.7,
+    "monthly_watch_time_mins":1136.1,
     "country":"México",
     "favorite_genre":"Thriller",
     "last_login_date":"2022-01-15",
@@ -49433,7 +49433,7 @@
     "user_id":14943,
     "age":25,
     "subscription_plan":"Premium",
-    "monthly_watch_time_mins":1130.7,
+    "monthly_watch_time_mins":1136.1,
     "country":"México",
     "favorite_genre":"Drama",
     "last_login_date":"2019-04-09",
@@ -49442,7 +49442,7 @@
   {
     "user_id":14944,
     "age":45,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":1034.5,
     "country":"Colombia",
     "favorite_genre":"Drama",
@@ -49811,7 +49811,7 @@
   },
   {
     "user_id":14981,
-    "age":33,
+    "age":32,
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":848.2,
     "country":"Perú",
@@ -49921,8 +49921,8 @@
   },
   {
     "user_id":14992,
-    "age":33,
-    "subscription_plan":"Básico",
+    "age":32,
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":196.2,
     "country":"Chile",
     "favorite_genre":"Documental",
@@ -50092,7 +50092,7 @@
   {
     "user_id":15009,
     "age":22,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":764.1,
     "country":"Chile",
     "favorite_genre":"Drama",
@@ -50172,7 +50172,7 @@
   {
     "user_id":15017,
     "age":33,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":386.8,
     "country":"Colombia",
     "favorite_genre":"Thriller",
@@ -50522,7 +50522,7 @@
   {
     "user_id":15052,
     "age":20,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":946.5,
     "country":"Brasil",
     "favorite_genre":"Comedia",
@@ -50712,7 +50712,7 @@
   {
     "user_id":15071,
     "age":44,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":244.1,
     "country":"Perú",
     "favorite_genre":"Documental",
@@ -50725,7 +50725,7 @@
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":598.6,
     "country":"Brasil",
-    "favorite_genre":"Drama",
+    "favorite_genre":"Thriller",
     "last_login_date":"2021-12-25",
     "customer_support_tickets":1
   },
@@ -50805,7 +50805,7 @@
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":892.6,
     "country":"Argentina",
-    "favorite_genre":"Drama",
+    "favorite_genre":"Comedia",
     "last_login_date":"2018-07-07",
     "customer_support_tickets":0
   },
@@ -50822,7 +50822,7 @@
   {
     "user_id":15082,
     "age":37,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":343.2,
     "country":"México",
     "favorite_genre":"Thriller",
@@ -50862,10 +50862,10 @@
   {
     "user_id":15086,
     "age":38,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":893.8,
     "country":"México",
-    "favorite_genre":"Documental",
+    "favorite_genre":"Acción",
     "last_login_date":"2020-11-07",
     "customer_support_tickets":1
   },
@@ -51115,7 +51115,7 @@
     "subscription_plan":"Estándar",
     "monthly_watch_time_mins":618.3,
     "country":"Chile",
-    "favorite_genre":"Acción",
+    "favorite_genre":"Crimen",
     "last_login_date":"2023-12-13",
     "customer_support_tickets":3
   },
@@ -51334,7 +51334,7 @@
     "age":60,
     "subscription_plan":"Estándar",
     "monthly_watch_time_mins":1421.5,
-    "country":"México",
+    "country":"méxico",
     "favorite_genre":"Documental",
     "last_login_date":"2025-10-07",
     "customer_support_tickets":1
@@ -51342,7 +51342,7 @@
   {
     "user_id":15134,
     "age":43,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":834.9,
     "country":"Perú",
     "favorite_genre":"Romance",
@@ -51624,7 +51624,7 @@
     "age":34,
     "subscription_plan":"Estándar",
     "monthly_watch_time_mins":1143.1,
-    "country":"México",
+    "country":"Mexico",
     "favorite_genre":"Romance",
     "last_login_date":"2025-12-19",
     "customer_support_tickets":0
@@ -51715,7 +51715,7 @@
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":240.0,
     "country":"Brasil",
-    "favorite_genre":"Drama",
+    "favorite_genre":"Thriller",
     "last_login_date":"2019-04-18",
     "customer_support_tickets":0
   },
@@ -51772,7 +51772,7 @@
   {
     "user_id":15177,
     "age":19,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estándar ",
     "monthly_watch_time_mins":638.9,
     "country":"Colombia",
     "favorite_genre":"Thriller",
@@ -51882,7 +51882,7 @@
   {
     "user_id":15188,
     "age":47,
-    "subscription_plan":"Básico",
+    "subscription_plan":"básico",
     "monthly_watch_time_mins":547.9,
     "country":"Argentina",
     "favorite_genre":"Drama",
@@ -52344,7 +52344,7 @@
     "age":37,
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":476.6,
-    "country":"Perú",
+    "country":"perú",
     "favorite_genre":"Crimen",
     "last_login_date":"2022-12-20",
     "customer_support_tickets":0
@@ -52483,7 +52483,7 @@
     "user_id":15248,
     "age":34,
     "subscription_plan":"Premium",
-    "monthly_watch_time_mins":1130.7,
+    "monthly_watch_time_mins":1136.1,
     "country":"México",
     "favorite_genre":"Documental",
     "last_login_date":"2022-02-14",
@@ -52503,7 +52503,7 @@
     "user_id":15250,
     "age":29,
     "subscription_plan":"Premium",
-    "monthly_watch_time_mins":1130.7,
+    "monthly_watch_time_mins":1136.1,
     "country":"México",
     "favorite_genre":"Crimen",
     "last_login_date":"2018-11-02",
@@ -52675,7 +52675,7 @@
     "subscription_plan":"Premium",
     "monthly_watch_time_mins":1603.9,
     "country":"Argentina",
-    "favorite_genre":"Acción",
+    "favorite_genre":"Accion",
     "last_login_date":"2023-03-26",
     "customer_support_tickets":0
   },
@@ -52794,7 +52794,7 @@
     "age":50,
     "subscription_plan":"Premium",
     "monthly_watch_time_mins":724.2,
-    "country":"México",
+    "country":"méxico",
     "favorite_genre":"Thriller",
     "last_login_date":"2023-07-03",
     "customer_support_tickets":1
@@ -52812,7 +52812,7 @@
   {
     "user_id":15281,
     "age":53,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estándar ",
     "monthly_watch_time_mins":833.9,
     "country":"Uruguay",
     "favorite_genre":"Comedia",
@@ -52822,7 +52822,7 @@
   {
     "user_id":15282,
     "age":20,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":805.0,
     "country":"México",
     "favorite_genre":"Romance",
@@ -52874,7 +52874,7 @@
     "age":36,
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":1152.4,
-    "country":"México",
+    "country":"Mexico",
     "favorite_genre":"Acción",
     "last_login_date":"2020-06-19",
     "customer_support_tickets":1
@@ -53014,7 +53014,7 @@
     "age":39,
     "subscription_plan":"Premium",
     "monthly_watch_time_mins":1441.9,
-    "country":"México",
+    "country":"méxico",
     "favorite_genre":"Thriller",
     "last_login_date":"2025-06-10",
     "customer_support_tickets":0
@@ -53052,7 +53052,7 @@
   {
     "user_id":15305,
     "age":42,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":716.8,
     "country":"Chile",
     "favorite_genre":"Thriller",
@@ -53092,7 +53092,7 @@
   {
     "user_id":15309,
     "age":22,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":531.7,
     "country":"Perú",
     "favorite_genre":"Comedia",
@@ -53184,7 +53184,7 @@
     "age":23,
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":337.9,
-    "country":"México",
+    "country":"Mexico",
     "favorite_genre":"Documental",
     "last_login_date":"2025-03-15",
     "customer_support_tickets":1
@@ -53645,7 +53645,7 @@
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":282.2,
     "country":"Perú",
-    "favorite_genre":"Drama",
+    "favorite_genre":"Romance",
     "last_login_date":"2018-10-23",
     "customer_support_tickets":0
   },
@@ -54463,7 +54463,7 @@
     "user_id":15446,
     "age":13,
     "subscription_plan":"Premium",
-    "monthly_watch_time_mins":1123.6,
+    "monthly_watch_time_mins":1126.6,
     "country":"Perú",
     "favorite_genre":"Acción",
     "last_login_date":"2022-08-18",
@@ -54522,7 +54522,7 @@
   {
     "user_id":15452,
     "age":17,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estándar ",
     "monthly_watch_time_mins":140.8,
     "country":"Colombia",
     "favorite_genre":"Drama",
@@ -54542,7 +54542,7 @@
   {
     "user_id":15454,
     "age":20,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":1359.3,
     "country":"Chile",
     "favorite_genre":"Crimen",
@@ -54582,7 +54582,7 @@
   {
     "user_id":15458,
     "age":32,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":779.2,
     "country":"Uruguay",
     "favorite_genre":"Crimen",
@@ -54632,7 +54632,7 @@
   {
     "user_id":15463,
     "age":19,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":567.6,
     "country":"Perú",
     "favorite_genre":"Thriller",
@@ -54715,7 +54715,7 @@
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":492.7,
     "country":"Argentina",
-    "favorite_genre":"Drama",
+    "favorite_genre":"Comedia",
     "last_login_date":"2020-03-19",
     "customer_support_tickets":0
   },
@@ -54802,7 +54802,7 @@
   {
     "user_id":15480,
     "age":35,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":1272.3,
     "country":"Uruguay",
     "favorite_genre":"Crimen",
@@ -54892,7 +54892,7 @@
   {
     "user_id":15489,
     "age":36,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":432.4,
     "country":"Chile",
     "favorite_genre":"Crimen",
@@ -55014,7 +55014,7 @@
     "age":36,
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":67.8,
-    "country":"México",
+    "country":"Mexico",
     "favorite_genre":"Thriller",
     "last_login_date":"2022-02-14",
     "customer_support_tickets":0
@@ -55024,7 +55024,7 @@
     "age":21,
     "subscription_plan":"Premium",
     "monthly_watch_time_mins":861.8,
-    "country":"México",
+    "country":"Mexico",
     "favorite_genre":"Romance",
     "last_login_date":"2021-07-06",
     "customer_support_tickets":0
@@ -55152,7 +55152,7 @@
   {
     "user_id":15515,
     "age":13,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":468.4,
     "country":"Brasil",
     "favorite_genre":"Comedia",
@@ -55223,7 +55223,7 @@
     "user_id":15522,
     "age":36,
     "subscription_plan":"Estándar",
-    "monthly_watch_time_mins":826.1,
+    "monthly_watch_time_mins":832.4,
     "country":"Colombia",
     "favorite_genre":"Drama",
     "last_login_date":"2025-03-29",
@@ -55262,7 +55262,7 @@
   {
     "user_id":15526,
     "age":31,
-    "subscription_plan":"Básico",
+    "subscription_plan":"básico",
     "monthly_watch_time_mins":432.7,
     "country":"Perú",
     "favorite_genre":"Drama",
@@ -55413,7 +55413,7 @@
     "user_id":15541,
     "age":38,
     "subscription_plan":"Estándar",
-    "monthly_watch_time_mins":820.5,
+    "monthly_watch_time_mins":818.0,
     "country":"México",
     "favorite_genre":"Documental",
     "last_login_date":"2020-05-21",
@@ -55442,7 +55442,7 @@
   {
     "user_id":15544,
     "age":36,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":846.1,
     "country":"Brasil",
     "favorite_genre":"Drama",
@@ -55722,7 +55722,7 @@
   {
     "user_id":15572,
     "age":27,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":726.7,
     "country":"Uruguay",
     "favorite_genre":"Acción",
@@ -55902,7 +55902,7 @@
   {
     "user_id":15590,
     "age":40,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":1043.3,
     "country":"Perú",
     "favorite_genre":"Romance",
@@ -56082,7 +56082,7 @@
   {
     "user_id":15608,
     "age":29,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":705.9,
     "country":"Brasil",
     "favorite_genre":"Romance",
@@ -56413,7 +56413,7 @@
     "user_id":15641,
     "age":43,
     "subscription_plan":"Estándar",
-    "monthly_watch_time_mins":840.6,
+    "monthly_watch_time_mins":845.1,
     "country":"Chile",
     "favorite_genre":"Crimen",
     "last_login_date":"2019-10-07",
@@ -56582,9 +56582,9 @@
   {
     "user_id":15658,
     "age":38,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estándar ",
     "monthly_watch_time_mins":518.7,
-    "country":"México",
+    "country":"méxico",
     "favorite_genre":"Acción",
     "last_login_date":"2022-08-11",
     "customer_support_tickets":1
@@ -56675,7 +56675,7 @@
     "subscription_plan":"Estándar",
     "monthly_watch_time_mins":569.6,
     "country":"Chile",
-    "favorite_genre":"Acción",
+    "favorite_genre":"Crimen",
     "last_login_date":"2025-01-22",
     "customer_support_tickets":2
   },
@@ -56702,7 +56702,7 @@
   {
     "user_id":15670,
     "age":30,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":422.5,
     "country":"Uruguay",
     "favorite_genre":"Comedia",
@@ -56725,7 +56725,7 @@
     "subscription_plan":"Estándar",
     "monthly_watch_time_mins":441.7,
     "country":"Chile",
-    "favorite_genre":"Acción",
+    "favorite_genre":"Crimen",
     "last_login_date":"2018-08-18",
     "customer_support_tickets":2
   },
@@ -56752,7 +56752,7 @@
   {
     "user_id":15675,
     "age":42,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":565.5,
     "country":"Brasil",
     "favorite_genre":"Thriller",
@@ -56782,10 +56782,10 @@
   {
     "user_id":15678,
     "age":27,
-    "subscription_plan":"Básico",
+    "subscription_plan":"básico",
     "monthly_watch_time_mins":718.4,
     "country":"Brasil",
-    "favorite_genre":"Drama",
+    "favorite_genre":"Acción",
     "last_login_date":"2024-09-20",
     "customer_support_tickets":1
   },
@@ -56954,7 +56954,7 @@
     "age":34,
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":635.0,
-    "country":"Perú",
+    "country":"Peru",
     "favorite_genre":"Drama",
     "last_login_date":"2022-02-14",
     "customer_support_tickets":2
@@ -57062,7 +57062,7 @@
   {
     "user_id":15706,
     "age":14,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":261.8,
     "country":"México",
     "favorite_genre":"Crimen",
@@ -57082,7 +57082,7 @@
   {
     "user_id":15708,
     "age":48,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estándar ",
     "monthly_watch_time_mins":1527.2,
     "country":"Argentina",
     "favorite_genre":"Comedia",
@@ -57102,7 +57102,7 @@
   {
     "user_id":15710,
     "age":38,
-    "subscription_plan":"Básico",
+    "subscription_plan":"básico",
     "monthly_watch_time_mins":1080.4,
     "country":"México",
     "favorite_genre":"Drama",
@@ -57313,8 +57313,8 @@
     "user_id":15731,
     "age":45,
     "subscription_plan":"Premium",
-    "monthly_watch_time_mins":1130.7,
-    "country":"México",
+    "monthly_watch_time_mins":757.2,
+    "country":"méxico",
     "favorite_genre":"Comedia",
     "last_login_date":"2023-05-30",
     "customer_support_tickets":0
@@ -57373,7 +57373,7 @@
     "user_id":15737,
     "age":21,
     "subscription_plan":"Estándar",
-    "monthly_watch_time_mins":826.1,
+    "monthly_watch_time_mins":832.4,
     "country":"Colombia",
     "favorite_genre":"Drama",
     "last_login_date":"2025-08-11",
@@ -57572,7 +57572,7 @@
   {
     "user_id":15757,
     "age":43,
-    "subscription_plan":"Básico",
+    "subscription_plan":"básico",
     "monthly_watch_time_mins":848.2,
     "country":"Perú",
     "favorite_genre":"Drama",
@@ -57602,7 +57602,7 @@
   {
     "user_id":15760,
     "age":24,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":846.9,
     "country":"Uruguay",
     "favorite_genre":"Romance",
@@ -57612,7 +57612,7 @@
   {
     "user_id":15761,
     "age":37,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":731.1,
     "country":"Chile",
     "favorite_genre":"Acción",
@@ -57662,7 +57662,7 @@
   {
     "user_id":15766,
     "age":39,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":328.2,
     "country":"Perú",
     "favorite_genre":"Romance",
@@ -57683,7 +57683,7 @@
     "user_id":15768,
     "age":28,
     "subscription_plan":"Estándar",
-    "monthly_watch_time_mins":867.4,
+    "monthly_watch_time_mins":870.7,
     "country":"Uruguay",
     "favorite_genre":"Documental",
     "last_login_date":"2025-12-14",
@@ -57742,7 +57742,7 @@
   {
     "user_id":15774,
     "age":24,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estándar ",
     "monthly_watch_time_mins":889.0,
     "country":"Uruguay",
     "favorite_genre":"Comedia",
@@ -57792,7 +57792,7 @@
   {
     "user_id":15779,
     "age":43,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estándar ",
     "monthly_watch_time_mins":1227.4,
     "country":"Argentina",
     "favorite_genre":"Thriller",
@@ -57922,7 +57922,7 @@
   {
     "user_id":15792,
     "age":14,
-    "subscription_plan":"Básico",
+    "subscription_plan":"básico",
     "monthly_watch_time_mins":698.5,
     "country":"Colombia",
     "favorite_genre":"Crimen",
@@ -58095,14 +58095,14 @@
     "subscription_plan":"Estándar",
     "monthly_watch_time_mins":1302.9,
     "country":"México",
-    "favorite_genre":"Acción",
+    "favorite_genre":"Accion",
     "last_login_date":"2022-02-14",
     "customer_support_tickets":2
   },
   {
     "user_id":15810,
     "age":39,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":698.9,
     "country":"Brasil",
     "favorite_genre":"Documental",
@@ -58123,7 +58123,7 @@
     "user_id":15812,
     "age":52,
     "subscription_plan":"Estándar",
-    "monthly_watch_time_mins":840.6,
+    "monthly_watch_time_mins":845.1,
     "country":"Chile",
     "favorite_genre":"Thriller",
     "last_login_date":"2022-06-19",
@@ -58142,7 +58142,7 @@
   {
     "user_id":15814,
     "age":22,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":1044.1,
     "country":"México",
     "favorite_genre":"Acción",
@@ -58312,7 +58312,7 @@
   {
     "user_id":15831,
     "age":46,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":1160.1,
     "country":"Uruguay",
     "favorite_genre":"Thriller",
@@ -58533,7 +58533,7 @@
     "user_id":15853,
     "age":32,
     "subscription_plan":"Premium",
-    "monthly_watch_time_mins":1123.6,
+    "monthly_watch_time_mins":1126.6,
     "country":"Perú",
     "favorite_genre":"Romance",
     "last_login_date":"2021-03-19",
@@ -58855,7 +58855,7 @@
     "subscription_plan":"Estándar",
     "monthly_watch_time_mins":1318.5,
     "country":"Brasil",
-    "favorite_genre":"Acción",
+    "favorite_genre":"Accion",
     "last_login_date":"2021-12-17",
     "customer_support_tickets":1
   },
@@ -58885,7 +58885,7 @@
     "subscription_plan":"Estándar",
     "monthly_watch_time_mins":1266.4,
     "country":"Chile",
-    "favorite_genre":"Acción",
+    "favorite_genre":"Crimen",
     "last_login_date":"2022-07-19",
     "customer_support_tickets":0
   },
@@ -59092,7 +59092,7 @@
   {
     "user_id":15909,
     "age":52,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":852.3,
     "country":"Colombia",
     "favorite_genre":"Comedia",
@@ -59324,7 +59324,7 @@
     "age":43,
     "subscription_plan":"Premium",
     "monthly_watch_time_mins":1439.6,
-    "country":"México",
+    "country":"Mexico",
     "favorite_genre":"Thriller",
     "last_login_date":"2021-10-23",
     "customer_support_tickets":0
@@ -59533,7 +59533,7 @@
     "user_id":15953,
     "age":35,
     "subscription_plan":"Básico",
-    "monthly_watch_time_mins":547.7,
+    "monthly_watch_time_mins":548.2,
     "country":"Brasil",
     "favorite_genre":"Thriller",
     "last_login_date":"2018-02-09",
@@ -59763,7 +59763,7 @@
     "user_id":15976,
     "age":34,
     "subscription_plan":"Premium",
-    "monthly_watch_time_mins":1130.7,
+    "monthly_watch_time_mins":1136.1,
     "country":"México",
     "favorite_genre":"Thriller",
     "last_login_date":"2020-08-19",
@@ -59783,7 +59783,7 @@
     "user_id":15978,
     "age":42,
     "subscription_plan":"Estándar",
-    "monthly_watch_time_mins":861.8,
+    "monthly_watch_time_mins":861.0,
     "country":"Argentina",
     "favorite_genre":"Acción",
     "last_login_date":"2020-12-23",
@@ -59802,7 +59802,7 @@
   {
     "user_id":15980,
     "age":29,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":0.0,
     "country":"Uruguay",
     "favorite_genre":"Comedia",
@@ -59942,7 +59942,7 @@
   {
     "user_id":15994,
     "age":38,
-    "subscription_plan":"Básico",
+    "subscription_plan":"básico",
     "monthly_watch_time_mins":0.0,
     "country":"Uruguay",
     "favorite_genre":"Documental",
@@ -60082,7 +60082,7 @@
   {
     "user_id":16008,
     "age":25,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":849.4,
     "country":"Uruguay",
     "favorite_genre":"Acción",
@@ -60164,7 +60164,7 @@
     "age":53,
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":933.8,
-    "country":"Perú",
+    "country":"Peru",
     "favorite_genre":"Romance",
     "last_login_date":"2018-05-14",
     "customer_support_tickets":0
@@ -60175,7 +60175,7 @@
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":69.2,
     "country":"Perú",
-    "favorite_genre":"Drama",
+    "favorite_genre":"Romance",
     "last_login_date":"2023-08-21",
     "customer_support_tickets":0
   },
@@ -60272,7 +60272,7 @@
   {
     "user_id":16027,
     "age":39,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estándar ",
     "monthly_watch_time_mins":3080.0,
     "country":"Argentina",
     "favorite_genre":"Romance",
@@ -60302,7 +60302,7 @@
   {
     "user_id":16030,
     "age":48,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":277.9,
     "country":"Argentina",
     "favorite_genre":"Drama",
@@ -60402,7 +60402,7 @@
   {
     "user_id":16040,
     "age":46,
-    "subscription_plan":"Básico",
+    "subscription_plan":"básico",
     "monthly_watch_time_mins":197.1,
     "country":"Perú",
     "favorite_genre":"Acción",
@@ -60432,7 +60432,7 @@
   {
     "user_id":16043,
     "age":27,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":752.8,
     "country":"Colombia",
     "favorite_genre":"Comedia",
@@ -60455,7 +60455,7 @@
     "subscription_plan":"Estándar",
     "monthly_watch_time_mins":1294.4,
     "country":"México",
-    "favorite_genre":"Acción",
+    "favorite_genre":"Accion",
     "last_login_date":"2023-04-15",
     "customer_support_tickets":1
   },
@@ -60492,7 +60492,7 @@
   {
     "user_id":16049,
     "age":29,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":879.7,
     "country":"Brasil",
     "favorite_genre":"Documental",
@@ -60551,7 +60551,7 @@
   },
   {
     "user_id":16055,
-    "age":33,
+    "age":32,
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":429.8,
     "country":"Perú",
@@ -60905,7 +60905,7 @@
     "subscription_plan":"Estándar",
     "monthly_watch_time_mins":286.1,
     "country":"Brasil",
-    "favorite_genre":"Acción",
+    "favorite_genre":"Accion",
     "last_login_date":"2018-07-15",
     "customer_support_tickets":0
   },
@@ -61105,7 +61105,7 @@
     "subscription_plan":"Premium",
     "monthly_watch_time_mins":1000.3,
     "country":"México",
-    "favorite_genre":"Acción",
+    "favorite_genre":"Accion",
     "last_login_date":"2018-03-23",
     "customer_support_tickets":1
   },
@@ -61143,8 +61143,8 @@
     "user_id":16114,
     "age":13,
     "subscription_plan":"Premium",
-    "monthly_watch_time_mins":1130.7,
-    "country":"México",
+    "monthly_watch_time_mins":958.6,
+    "country":"Mexico",
     "favorite_genre":"Romance",
     "last_login_date":"2025-08-15",
     "customer_support_tickets":1
@@ -61202,7 +61202,7 @@
   {
     "user_id":16120,
     "age":13,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":947.7,
     "country":"Uruguay",
     "favorite_genre":"Crimen",
@@ -61212,7 +61212,7 @@
   {
     "user_id":16121,
     "age":33,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":0.0,
     "country":"Argentina",
     "favorite_genre":"Comedia",
@@ -61525,7 +61525,7 @@
     "subscription_plan":"Estándar",
     "monthly_watch_time_mins":762.9,
     "country":"Brasil",
-    "favorite_genre":"Acción",
+    "favorite_genre":"Accion",
     "last_login_date":"2025-04-28",
     "customer_support_tickets":0
   },
@@ -61622,7 +61622,7 @@
   {
     "user_id":16162,
     "age":37,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":3080.0,
     "country":"Brasil",
     "favorite_genre":"Romance",
@@ -61672,7 +61672,7 @@
   {
     "user_id":16167,
     "age":27,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":375.9,
     "country":"Colombia",
     "favorite_genre":"Crimen",
@@ -61692,7 +61692,7 @@
   {
     "user_id":16169,
     "age":13,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":0.0,
     "country":"Uruguay",
     "favorite_genre":"Crimen",
@@ -61782,7 +61782,7 @@
   {
     "user_id":16178,
     "age":33,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":615.8,
     "country":"Argentina",
     "favorite_genre":"Documental",
@@ -61873,7 +61873,7 @@
     "user_id":16187,
     "age":38,
     "subscription_plan":"Premium",
-    "monthly_watch_time_mins":1123.6,
+    "monthly_watch_time_mins":1126.6,
     "country":"Perú",
     "favorite_genre":"Drama",
     "last_login_date":"2018-12-07",
@@ -61984,7 +61984,7 @@
     "age":50,
     "subscription_plan":"Estándar",
     "monthly_watch_time_mins":1196.0,
-    "country":"México",
+    "country":"Mexico",
     "favorite_genre":"Crimen",
     "last_login_date":"2021-03-09",
     "customer_support_tickets":2
@@ -62122,7 +62122,7 @@
   {
     "user_id":16212,
     "age":30,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estándar ",
     "monthly_watch_time_mins":710.8,
     "country":"Uruguay",
     "favorite_genre":"Crimen",
@@ -62282,7 +62282,7 @@
   {
     "user_id":16228,
     "age":19,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":1073.7,
     "country":"Uruguay",
     "favorite_genre":"Thriller",
@@ -62332,7 +62332,7 @@
   {
     "user_id":16233,
     "age":31,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":631.3,
     "country":"Argentina",
     "favorite_genre":"Documental",
@@ -62424,7 +62424,7 @@
     "age":53,
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":290.2,
-    "country":"México",
+    "country":"méxico",
     "favorite_genre":"Drama",
     "last_login_date":"2019-09-30",
     "customer_support_tickets":1
@@ -62514,7 +62514,7 @@
     "age":21,
     "subscription_plan":"Estándar",
     "monthly_watch_time_mins":590.6,
-    "country":"México",
+    "country":"Mexico",
     "favorite_genre":"Romance",
     "last_login_date":"2024-01-01",
     "customer_support_tickets":1
@@ -62814,7 +62814,7 @@
     "age":34,
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":1073.7,
-    "country":"Perú",
+    "country":"perú",
     "favorite_genre":"Romance",
     "last_login_date":"2023-10-18",
     "customer_support_tickets":0
@@ -62952,7 +62952,7 @@
   {
     "user_id":16295,
     "age":27,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":261.5,
     "country":"Colombia",
     "favorite_genre":"Crimen",
@@ -62962,7 +62962,7 @@
   {
     "user_id":16296,
     "age":40,
-    "subscription_plan":"Básico",
+    "subscription_plan":"básico",
     "monthly_watch_time_mins":391.6,
     "country":"Perú",
     "favorite_genre":"Drama",
@@ -63052,7 +63052,7 @@
   {
     "user_id":16305,
     "age":22,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":542.2,
     "country":"Perú",
     "favorite_genre":"Comedia",
@@ -63334,7 +63334,7 @@
     "age":49,
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":1108.1,
-    "country":"México",
+    "country":"méxico",
     "favorite_genre":"Thriller",
     "last_login_date":"2021-09-14",
     "customer_support_tickets":0
@@ -63353,8 +63353,8 @@
     "user_id":16335,
     "age":65,
     "subscription_plan":"Premium",
-    "monthly_watch_time_mins":1130.7,
-    "country":"México",
+    "monthly_watch_time_mins":757.2,
+    "country":"méxico",
     "favorite_genre":"Crimen",
     "last_login_date":"2019-08-22",
     "customer_support_tickets":0
@@ -63372,7 +63372,7 @@
   {
     "user_id":16337,
     "age":29,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":329.6,
     "country":"Uruguay",
     "favorite_genre":"Thriller",
@@ -63573,7 +63573,7 @@
     "user_id":16357,
     "age":29,
     "subscription_plan":"Estándar",
-    "monthly_watch_time_mins":867.4,
+    "monthly_watch_time_mins":870.7,
     "country":"Uruguay",
     "favorite_genre":"Romance",
     "last_login_date":"2025-06-20",
@@ -63803,7 +63803,7 @@
     "user_id":16380,
     "age":38,
     "subscription_plan":"Estándar",
-    "monthly_watch_time_mins":834.9,
+    "monthly_watch_time_mins":833.6,
     "country":"Perú",
     "favorite_genre":"Drama",
     "last_login_date":"2022-02-14",
@@ -63812,7 +63812,7 @@
   {
     "user_id":16381,
     "age":29,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":419.4,
     "country":"Colombia",
     "favorite_genre":"Romance",
@@ -63953,7 +63953,7 @@
     "user_id":16395,
     "age":28,
     "subscription_plan":"Estándar",
-    "monthly_watch_time_mins":841.0,
+    "monthly_watch_time_mins":840.0,
     "country":"Brasil",
     "favorite_genre":"Crimen",
     "last_login_date":"2023-05-01",
@@ -64001,7 +64001,7 @@
   },
   {
     "user_id":16400,
-    "age":34,
+    "age":33,
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":1192.8,
     "country":"México",
@@ -64115,7 +64115,7 @@
     "subscription_plan":"Estándar",
     "monthly_watch_time_mins":1764.8,
     "country":"Chile",
-    "favorite_genre":"Acción",
+    "favorite_genre":"Crimen",
     "last_login_date":"2021-12-27",
     "customer_support_tickets":1
   },
@@ -64452,7 +64452,7 @@
   {
     "user_id":16445,
     "age":55,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":580.8,
     "country":"Argentina",
     "favorite_genre":"Thriller",
@@ -64652,27 +64652,27 @@
   {
     "user_id":16465,
     "age":43,
-    "subscription_plan":"Básico",
+    "subscription_plan":"básico",
     "monthly_watch_time_mins":3080.0,
     "country":"Brasil",
-    "favorite_genre":"Drama",
+    "favorite_genre":"Acción",
     "last_login_date":"2020-01-30",
     "customer_support_tickets":1
   },
   {
     "user_id":16466,
     "age":16,
-    "subscription_plan":"Básico",
+    "subscription_plan":"básico",
     "monthly_watch_time_mins":1153.5,
     "country":"Colombia",
-    "favorite_genre":"Comedia",
+    "favorite_genre":"Crimen",
     "last_login_date":"2018-03-18",
     "customer_support_tickets":1
   },
   {
     "user_id":16467,
     "age":45,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":188.5,
     "country":"Brasil",
     "favorite_genre":"Drama",
@@ -64804,7 +64804,7 @@
     "age":48,
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":810.2,
-    "country":"México",
+    "country":"Mexico",
     "favorite_genre":"Thriller",
     "last_login_date":"2024-03-08",
     "customer_support_tickets":1
@@ -64934,8 +64934,8 @@
     "age":38,
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":1284.5,
-    "country":"Perú",
-    "favorite_genre":"Acción",
+    "country":"perú",
+    "favorite_genre":"ACCIÓN",
     "last_login_date":"2018-06-29",
     "customer_support_tickets":0
   },
@@ -65063,7 +65063,7 @@
     "user_id":16506,
     "age":24,
     "subscription_plan":"Premium",
-    "monthly_watch_time_mins":1123.6,
+    "monthly_watch_time_mins":1126.6,
     "country":"Perú",
     "favorite_genre":"Comedia",
     "last_login_date":"2025-05-18",
@@ -65092,7 +65092,7 @@
   {
     "user_id":16509,
     "age":33,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":773.1,
     "country":"Perú",
     "favorite_genre":"Documental",
@@ -65103,7 +65103,7 @@
     "user_id":16510,
     "age":40,
     "subscription_plan":"Estándar",
-    "monthly_watch_time_mins":840.6,
+    "monthly_watch_time_mins":845.1,
     "country":"Chile",
     "favorite_genre":"Acción",
     "last_login_date":"2025-11-12",
@@ -65135,7 +65135,7 @@
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":1008.2,
     "country":"Argentina",
-    "favorite_genre":"Drama",
+    "favorite_genre":"Comedia",
     "last_login_date":"2018-07-21",
     "customer_support_tickets":0
   },
@@ -65213,7 +65213,7 @@
     "user_id":16521,
     "age":30,
     "subscription_plan":"Estándar",
-    "monthly_watch_time_mins":840.6,
+    "monthly_watch_time_mins":845.1,
     "country":"Chile",
     "favorite_genre":"Crimen",
     "last_login_date":"2023-07-06",
@@ -65372,7 +65372,7 @@
   {
     "user_id":16537,
     "age":27,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":270.0,
     "country":"Uruguay",
     "favorite_genre":"Crimen",
@@ -65502,7 +65502,7 @@
   {
     "user_id":16550,
     "age":34,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":361.8,
     "country":"Uruguay",
     "favorite_genre":"Documental",
@@ -65522,7 +65522,7 @@
   {
     "user_id":16552,
     "age":30,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":378.9,
     "country":"México",
     "favorite_genre":"Documental",
@@ -65952,8 +65952,8 @@
   {
     "user_id":16595,
     "age":49,
-    "subscription_plan":"Estándar",
-    "monthly_watch_time_mins":834.9,
+    "subscription_plan":"Estandar",
+    "monthly_watch_time_mins":829.2,
     "country":"Perú",
     "favorite_genre":"Documental",
     "last_login_date":"2022-01-14",
@@ -66252,7 +66252,7 @@
   {
     "user_id":16625,
     "age":18,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estándar ",
     "monthly_watch_time_mins":934.9,
     "country":"Perú",
     "favorite_genre":"Drama",
@@ -66332,7 +66332,7 @@
   {
     "user_id":16633,
     "age":40,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":0.0,
     "country":"Colombia",
     "favorite_genre":"Drama",
@@ -66373,7 +66373,7 @@
     "user_id":16637,
     "age":32,
     "subscription_plan":"Básico",
-    "monthly_watch_time_mins":572.6,
+    "monthly_watch_time_mins":577.9,
     "country":"Uruguay",
     "favorite_genre":"Comedia",
     "last_login_date":"2024-05-19",
@@ -66383,7 +66383,7 @@
     "user_id":16638,
     "age":31,
     "subscription_plan":"Estándar",
-    "monthly_watch_time_mins":867.4,
+    "monthly_watch_time_mins":870.7,
     "country":"Uruguay",
     "favorite_genre":"Romance",
     "last_login_date":"2020-06-09",
@@ -66393,7 +66393,7 @@
     "user_id":16639,
     "age":40,
     "subscription_plan":"Premium",
-    "monthly_watch_time_mins":1123.6,
+    "monthly_watch_time_mins":1126.6,
     "country":"Perú",
     "favorite_genre":"Thriller",
     "last_login_date":"2018-11-13",
@@ -66534,7 +66534,7 @@
     "age":28,
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":733.2,
-    "country":"México",
+    "country":"méxico",
     "favorite_genre":"Comedia",
     "last_login_date":"2022-04-12",
     "customer_support_tickets":1
@@ -66571,7 +66571,7 @@
   },
   {
     "user_id":16657,
-    "age":33,
+    "age":32,
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":124.1,
     "country":"Perú",
@@ -66763,7 +66763,7 @@
     "user_id":16676,
     "age":31,
     "subscription_plan":"Básico",
-    "monthly_watch_time_mins":572.6,
+    "monthly_watch_time_mins":577.9,
     "country":"Uruguay",
     "favorite_genre":"Documental",
     "last_login_date":"2021-08-31",
@@ -67282,9 +67282,9 @@
   {
     "user_id":16728,
     "age":40,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":883.8,
-    "country":"Perú",
+    "country":"perú",
     "favorite_genre":"Thriller",
     "last_login_date":"2024-06-17",
     "customer_support_tickets":1
@@ -67612,7 +67612,7 @@
   {
     "user_id":16761,
     "age":40,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estándar ",
     "monthly_watch_time_mins":787.5,
     "country":"Uruguay",
     "favorite_genre":"Documental",
@@ -67724,7 +67724,7 @@
     "age":39,
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":877.5,
-    "country":"México",
+    "country":"Mexico",
     "favorite_genre":"Acción",
     "last_login_date":"2020-05-06",
     "customer_support_tickets":0
@@ -67764,7 +67764,7 @@
     "age":34,
     "subscription_plan":"Estándar",
     "monthly_watch_time_mins":1218.2,
-    "country":"Perú",
+    "country":"Peru",
     "favorite_genre":"Comedia",
     "last_login_date":"2024-02-17",
     "customer_support_tickets":0
@@ -67853,7 +67853,7 @@
     "user_id":16785,
     "age":29,
     "subscription_plan":"Estándar",
-    "monthly_watch_time_mins":834.9,
+    "monthly_watch_time_mins":833.6,
     "country":"Perú",
     "favorite_genre":"Thriller",
     "last_login_date":"2025-06-30",
@@ -67985,7 +67985,7 @@
     "subscription_plan":"Estándar",
     "monthly_watch_time_mins":961.1,
     "country":"Argentina",
-    "favorite_genre":"Acción",
+    "favorite_genre":"ACCIÓN",
     "last_login_date":"2024-12-06",
     "customer_support_tickets":2
   },
@@ -68091,7 +68091,7 @@
   },
   {
     "user_id":16809,
-    "age":34,
+    "age":33,
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":880.9,
     "country":"México",
@@ -68115,7 +68115,7 @@
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":717.7,
     "country":"Argentina",
-    "favorite_genre":"Drama",
+    "favorite_genre":"Comedia",
     "last_login_date":"2019-03-18",
     "customer_support_tickets":0
   },
@@ -68392,7 +68392,7 @@
   {
     "user_id":16839,
     "age":22,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":363.8,
     "country":"Uruguay",
     "favorite_genre":"Documental",
@@ -68415,7 +68415,7 @@
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":495.8,
     "country":"Perú",
-    "favorite_genre":"Drama",
+    "favorite_genre":"Romance",
     "last_login_date":"2018-03-17",
     "customer_support_tickets":1
   },
@@ -68562,7 +68562,7 @@
   {
     "user_id":16856,
     "age":15,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":786.5,
     "country":"Brasil",
     "favorite_genre":"Comedia",
@@ -68752,7 +68752,7 @@
   {
     "user_id":16875,
     "age":13,
-    "subscription_plan":"Básico",
+    "subscription_plan":"básico",
     "monthly_watch_time_mins":894.4,
     "country":"Argentina",
     "favorite_genre":"Thriller",
@@ -68765,7 +68765,7 @@
     "subscription_plan":"Premium",
     "monthly_watch_time_mins":1065.8,
     "country":"Perú",
-    "favorite_genre":"Acción",
+    "favorite_genre":"Accion",
     "last_login_date":"2022-10-13",
     "customer_support_tickets":1
   },
@@ -68794,7 +68794,7 @@
     "age":38,
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":809.4,
-    "country":"México",
+    "country":"méxico",
     "favorite_genre":"Documental",
     "last_login_date":"2021-09-10",
     "customer_support_tickets":0
@@ -68875,7 +68875,7 @@
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":344.4,
     "country":"Argentina",
-    "favorite_genre":"Drama",
+    "favorite_genre":"Comedia",
     "last_login_date":"2024-01-27",
     "customer_support_tickets":0
   },
@@ -68904,7 +68904,7 @@
     "age":19,
     "subscription_plan":"Estándar",
     "monthly_watch_time_mins":868.0,
-    "country":"México",
+    "country":"méxico",
     "favorite_genre":"Comedia",
     "last_login_date":"2022-02-14",
     "customer_support_tickets":2
@@ -69262,7 +69262,7 @@
   {
     "user_id":16926,
     "age":54,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":1277.2,
     "country":"Chile",
     "favorite_genre":"Comedia",
@@ -69303,7 +69303,7 @@
     "user_id":16930,
     "age":23,
     "subscription_plan":"Premium",
-    "monthly_watch_time_mins":1123.6,
+    "monthly_watch_time_mins":1126.6,
     "country":"Perú",
     "favorite_genre":"Crimen",
     "last_login_date":"2024-09-08",
@@ -69503,7 +69503,7 @@
     "user_id":16950,
     "age":28,
     "subscription_plan":"Estándar",
-    "monthly_watch_time_mins":820.5,
+    "monthly_watch_time_mins":818.0,
     "country":"México",
     "favorite_genre":"Crimen",
     "last_login_date":"2019-07-18",
@@ -69613,7 +69613,7 @@
     "user_id":16961,
     "age":42,
     "subscription_plan":"Estándar",
-    "monthly_watch_time_mins":840.6,
+    "monthly_watch_time_mins":845.1,
     "country":"Chile",
     "favorite_genre":"Acción",
     "last_login_date":"2020-04-10",
@@ -69695,7 +69695,7 @@
     "subscription_plan":"Estándar",
     "monthly_watch_time_mins":998.5,
     "country":"Brasil",
-    "favorite_genre":"Acción",
+    "favorite_genre":"Accion",
     "last_login_date":"2021-08-23",
     "customer_support_tickets":0
   },
@@ -69762,7 +69762,7 @@
   {
     "user_id":16976,
     "age":21,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estándar ",
     "monthly_watch_time_mins":514.3,
     "country":"Argentina",
     "favorite_genre":"Romance",
@@ -69784,7 +69784,7 @@
     "age":41,
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":576.5,
-    "country":"México",
+    "country":"Mexico",
     "favorite_genre":"Drama",
     "last_login_date":"2022-06-03",
     "customer_support_tickets":0
@@ -70042,7 +70042,7 @@
   {
     "user_id":17004,
     "age":13,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":1203.6,
     "country":"Argentina",
     "favorite_genre":"Crimen",
@@ -70143,7 +70143,7 @@
     "user_id":17014,
     "age":18,
     "subscription_plan":"Básico",
-    "monthly_watch_time_mins":572.6,
+    "monthly_watch_time_mins":577.9,
     "country":"Uruguay",
     "favorite_genre":"Romance",
     "last_login_date":"2025-09-27",
@@ -70282,7 +70282,7 @@
   {
     "user_id":17028,
     "age":49,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":55.2,
     "country":"Brasil",
     "favorite_genre":"Romance",
@@ -70482,7 +70482,7 @@
   {
     "user_id":17048,
     "age":41,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":1027.7,
     "country":"Perú",
     "favorite_genre":"Comedia",
@@ -70632,7 +70632,7 @@
   {
     "user_id":17063,
     "age":13,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":1001.2,
     "country":"Brasil",
     "favorite_genre":"Drama",
@@ -70684,7 +70684,7 @@
     "age":13,
     "subscription_plan":"Estándar",
     "monthly_watch_time_mins":514.3,
-    "country":"México",
+    "country":"Mexico",
     "favorite_genre":"Thriller",
     "last_login_date":"2022-02-14",
     "customer_support_tickets":2
@@ -70933,7 +70933,7 @@
     "user_id":17093,
     "age":18,
     "subscription_plan":"Básico",
-    "monthly_watch_time_mins":577.9,
+    "monthly_watch_time_mins":578.8,
     "country":"Argentina",
     "favorite_genre":"Crimen",
     "last_login_date":"2024-10-26",
@@ -71262,7 +71262,7 @@
   {
     "user_id":17126,
     "age":13,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":823.6,
     "country":"Perú",
     "favorite_genre":"Thriller",
@@ -71315,7 +71315,7 @@
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":3080.0,
     "country":"México",
-    "favorite_genre":"Acción",
+    "favorite_genre":"Accion",
     "last_login_date":"2022-04-09",
     "customer_support_tickets":1
   },
@@ -71362,7 +71362,7 @@
   {
     "user_id":17136,
     "age":55,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":171.6,
     "country":"Colombia",
     "favorite_genre":"Comedia",
@@ -71392,7 +71392,7 @@
   {
     "user_id":17139,
     "age":29,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":204.4,
     "country":"México",
     "favorite_genre":"Drama",
@@ -71482,7 +71482,7 @@
   {
     "user_id":17148,
     "age":27,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estándar ",
     "monthly_watch_time_mins":870.1,
     "country":"Perú",
     "favorite_genre":"Drama",
@@ -71554,7 +71554,7 @@
     "age":13,
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":191.5,
-    "country":"México",
+    "country":"méxico",
     "favorite_genre":"Documental",
     "last_login_date":"2024-03-04",
     "customer_support_tickets":1
@@ -71612,7 +71612,7 @@
   {
     "user_id":17161,
     "age":32,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":258.7,
     "country":"Chile",
     "favorite_genre":"Drama",
@@ -71775,7 +71775,7 @@
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":928.6,
     "country":"Brasil",
-    "favorite_genre":"Drama",
+    "favorite_genre":"Thriller",
     "last_login_date":"2023-06-05",
     "customer_support_tickets":0
   },
@@ -72044,7 +72044,7 @@
     "age":30,
     "subscription_plan":"Premium",
     "monthly_watch_time_mins":1055.4,
-    "country":"México",
+    "country":"Mexico",
     "favorite_genre":"Crimen",
     "last_login_date":"2018-01-07",
     "customer_support_tickets":0
@@ -72133,7 +72133,7 @@
     "user_id":17213,
     "age":30,
     "subscription_plan":"Premium",
-    "monthly_watch_time_mins":1130.7,
+    "monthly_watch_time_mins":1136.1,
     "country":"México",
     "favorite_genre":"Thriller",
     "last_login_date":"2022-08-23",
@@ -72152,7 +72152,7 @@
   {
     "user_id":17215,
     "age":47,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estándar ",
     "monthly_watch_time_mins":687.9,
     "country":"Argentina",
     "favorite_genre":"Thriller",
@@ -72213,7 +72213,7 @@
     "user_id":17221,
     "age":28,
     "subscription_plan":"Estándar",
-    "monthly_watch_time_mins":820.5,
+    "monthly_watch_time_mins":818.0,
     "country":"México",
     "favorite_genre":"Romance",
     "last_login_date":"2025-03-08",
@@ -72342,7 +72342,7 @@
   {
     "user_id":17234,
     "age":38,
-    "subscription_plan":"Básico",
+    "subscription_plan":"básico",
     "monthly_watch_time_mins":521.1,
     "country":"Perú",
     "favorite_genre":"Thriller",
@@ -72385,7 +72385,7 @@
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":803.7,
     "country":"Colombia",
-    "favorite_genre":"Acción",
+    "favorite_genre":"Accion",
     "last_login_date":"2024-05-19",
     "customer_support_tickets":1
   },
@@ -72412,7 +72412,7 @@
   {
     "user_id":17241,
     "age":39,
-    "subscription_plan":"Básico",
+    "subscription_plan":"básico",
     "monthly_watch_time_mins":673.8,
     "country":"Chile",
     "favorite_genre":"Comedia",
@@ -72444,7 +72444,7 @@
     "age":32,
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":939.9,
-    "country":"Perú",
+    "country":"Peru",
     "favorite_genre":"Drama",
     "last_login_date":"2021-10-16",
     "customer_support_tickets":1
@@ -72612,7 +72612,7 @@
   {
     "user_id":17261,
     "age":61,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":5.4,
     "country":"México",
     "favorite_genre":"Documental",
@@ -72742,7 +72742,7 @@
   {
     "user_id":17274,
     "age":16,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":3037.1,
     "country":"Perú",
     "favorite_genre":"Documental",
@@ -72873,7 +72873,7 @@
     "user_id":17287,
     "age":27,
     "subscription_plan":"Premium",
-    "monthly_watch_time_mins":1123.6,
+    "monthly_watch_time_mins":1126.6,
     "country":"Perú",
     "favorite_genre":"Acción",
     "last_login_date":"2019-04-24",
@@ -72912,10 +72912,10 @@
   {
     "user_id":17291,
     "age":37,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":637.1,
     "country":"Colombia",
-    "favorite_genre":"Thriller",
+    "favorite_genre":"Drama",
     "last_login_date":"2025-12-17",
     "customer_support_tickets":2
   },
@@ -72942,7 +72942,7 @@
   {
     "user_id":17294,
     "age":32,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estándar ",
     "monthly_watch_time_mins":933.8,
     "country":"Uruguay",
     "favorite_genre":"Romance",
@@ -73052,7 +73052,7 @@
   {
     "user_id":17305,
     "age":29,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":685.3,
     "country":"México",
     "favorite_genre":"Documental",
@@ -73185,14 +73185,14 @@
     "subscription_plan":"Estándar",
     "monthly_watch_time_mins":783.6,
     "country":"Brasil",
-    "favorite_genre":"Acción",
+    "favorite_genre":"ACCIÓN",
     "last_login_date":"2023-06-04",
     "customer_support_tickets":1
   },
   {
     "user_id":17319,
     "age":25,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":76.1,
     "country":"Brasil",
     "favorite_genre":"Drama",
@@ -73322,7 +73322,7 @@
   {
     "user_id":17332,
     "age":60,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":524.9,
     "country":"Brasil",
     "favorite_genre":"Comedia",
@@ -73392,7 +73392,7 @@
   {
     "user_id":17339,
     "age":25,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estándar ",
     "monthly_watch_time_mins":1233.8,
     "country":"Brasil",
     "favorite_genre":"Documental",
@@ -73503,7 +73503,7 @@
     "user_id":17350,
     "age":33,
     "subscription_plan":"Premium",
-    "monthly_watch_time_mins":1123.6,
+    "monthly_watch_time_mins":1126.6,
     "country":"Perú",
     "favorite_genre":"Thriller",
     "last_login_date":"2020-05-09",
@@ -73552,7 +73552,7 @@
   {
     "user_id":17355,
     "age":36,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":584.5,
     "country":"Brasil",
     "favorite_genre":"Documental",
@@ -73582,7 +73582,7 @@
   {
     "user_id":17358,
     "age":17,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":849.1,
     "country":"Colombia",
     "favorite_genre":"Drama",
@@ -73682,7 +73682,7 @@
   {
     "user_id":17368,
     "age":42,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":500.7,
     "country":"Uruguay",
     "favorite_genre":"Documental",
@@ -74063,7 +74063,7 @@
     "user_id":17406,
     "age":18,
     "subscription_plan":"Estándar",
-    "monthly_watch_time_mins":834.9,
+    "monthly_watch_time_mins":833.6,
     "country":"Perú",
     "favorite_genre":"Documental",
     "last_login_date":"2025-09-27",
@@ -74112,7 +74112,7 @@
   {
     "user_id":17411,
     "age":14,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":1300.5,
     "country":"México",
     "favorite_genre":"Romance",
@@ -74182,7 +74182,7 @@
   {
     "user_id":17418,
     "age":32,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":999.3,
     "country":"México",
     "favorite_genre":"Crimen",
@@ -74284,7 +74284,7 @@
     "age":31,
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":369.2,
-    "country":"Perú",
+    "country":"Peru",
     "favorite_genre":"Documental",
     "last_login_date":"2025-03-24",
     "customer_support_tickets":1
@@ -74292,7 +74292,7 @@
   {
     "user_id":17429,
     "age":38,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":477.2,
     "country":"Colombia",
     "favorite_genre":"Drama",
@@ -74542,7 +74542,7 @@
   {
     "user_id":17454,
     "age":28,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":1161.5,
     "country":"México",
     "favorite_genre":"Acción",
@@ -74595,7 +74595,7 @@
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":440.8,
     "country":"Brasil",
-    "favorite_genre":"Drama",
+    "favorite_genre":"Thriller",
     "last_login_date":"2023-09-12",
     "customer_support_tickets":0
   },
@@ -74662,7 +74662,7 @@
   {
     "user_id":17466,
     "age":13,
-    "subscription_plan":"Básico",
+    "subscription_plan":"básico",
     "monthly_watch_time_mins":563.8,
     "country":"Brasil",
     "favorite_genre":"Acción",
@@ -74765,7 +74765,7 @@
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":0.0,
     "country":"Perú",
-    "favorite_genre":"Drama",
+    "favorite_genre":"Romance",
     "last_login_date":"2024-02-23",
     "customer_support_tickets":1
   },
@@ -74852,7 +74852,7 @@
   {
     "user_id":17485,
     "age":26,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":639.6,
     "country":"Colombia",
     "favorite_genre":"Drama",
@@ -74875,7 +74875,7 @@
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":1046.9,
     "country":"Uruguay",
-    "favorite_genre":"Acción",
+    "favorite_genre":"Accion",
     "last_login_date":"2024-05-12",
     "customer_support_tickets":0
   },
@@ -75024,7 +75024,7 @@
     "age":40,
     "subscription_plan":"Estándar",
     "monthly_watch_time_mins":1258.8,
-    "country":"Perú",
+    "country":"perú",
     "favorite_genre":"Drama",
     "last_login_date":"2023-03-12",
     "customer_support_tickets":0
@@ -75171,7 +75171,7 @@
   },
   {
     "user_id":17517,
-    "age":34,
+    "age":33,
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":298.7,
     "country":"México",
@@ -75295,7 +75295,7 @@
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":431.5,
     "country":"Brasil",
-    "favorite_genre":"Drama",
+    "favorite_genre":"Thriller",
     "last_login_date":"2019-09-04",
     "customer_support_tickets":0
   },
@@ -75402,7 +75402,7 @@
   {
     "user_id":17540,
     "age":29,
-    "subscription_plan":"Básico",
+    "subscription_plan":"básico",
     "monthly_watch_time_mins":677.6,
     "country":"Chile",
     "favorite_genre":"Romance",
@@ -75552,7 +75552,7 @@
   {
     "user_id":17555,
     "age":27,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estándar ",
     "monthly_watch_time_mins":608.6,
     "country":"Brasil",
     "favorite_genre":"Documental",
@@ -75582,7 +75582,7 @@
   {
     "user_id":17558,
     "age":41,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estándar ",
     "monthly_watch_time_mins":1168.1,
     "country":"Colombia",
     "favorite_genre":"Comedia",
@@ -75702,7 +75702,7 @@
   {
     "user_id":17570,
     "age":27,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":704.7,
     "country":"Argentina",
     "favorite_genre":"Acción",
@@ -75963,7 +75963,7 @@
     "user_id":17596,
     "age":32,
     "subscription_plan":"Premium",
-    "monthly_watch_time_mins":1130.7,
+    "monthly_watch_time_mins":1136.1,
     "country":"México",
     "favorite_genre":"Acción",
     "last_login_date":"2025-04-09",
@@ -75972,7 +75972,7 @@
   {
     "user_id":17597,
     "age":31,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":339.6,
     "country":"México",
     "favorite_genre":"Drama",
@@ -76002,7 +76002,7 @@
   {
     "user_id":17600,
     "age":36,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":43.1,
     "country":"Colombia",
     "favorite_genre":"Thriller",
@@ -76012,7 +76012,7 @@
   {
     "user_id":17601,
     "age":44,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":624.9,
     "country":"Colombia",
     "favorite_genre":"Drama",
@@ -76044,7 +76044,7 @@
     "age":17,
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":407.3,
-    "country":"México",
+    "country":"Mexico",
     "favorite_genre":"Comedia",
     "last_login_date":"2019-07-17",
     "customer_support_tickets":0
@@ -76213,7 +76213,7 @@
     "user_id":17621,
     "age":27,
     "subscription_plan":"Premium",
-    "monthly_watch_time_mins":1123.6,
+    "monthly_watch_time_mins":1126.6,
     "country":"Perú",
     "favorite_genre":"Crimen",
     "last_login_date":"2020-02-01",
@@ -76272,7 +76272,7 @@
   {
     "user_id":17627,
     "age":15,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":1266.3,
     "country":"Chile",
     "favorite_genre":"Romance",
@@ -76322,7 +76322,7 @@
   {
     "user_id":17632,
     "age":48,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":1196.6,
     "country":"México",
     "favorite_genre":"Crimen",
@@ -76362,7 +76362,7 @@
   {
     "user_id":17636,
     "age":56,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":963.0,
     "country":"Perú",
     "favorite_genre":"Crimen",
@@ -76424,7 +76424,7 @@
     "age":16,
     "subscription_plan":"Premium",
     "monthly_watch_time_mins":757.2,
-    "country":"México",
+    "country":"méxico",
     "favorite_genre":"Crimen",
     "last_login_date":"2024-07-04",
     "customer_support_tickets":1
@@ -76563,7 +76563,7 @@
     "user_id":17656,
     "age":36,
     "subscription_plan":"Básico",
-    "monthly_watch_time_mins":547.7,
+    "monthly_watch_time_mins":548.2,
     "country":"Brasil",
     "favorite_genre":"Documental",
     "last_login_date":"2023-04-20",
@@ -76754,7 +76754,7 @@
     "age":41,
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":495.5,
-    "country":"México",
+    "country":"Mexico",
     "favorite_genre":"Acción",
     "last_login_date":"2024-06-08",
     "customer_support_tickets":0
@@ -76793,7 +76793,7 @@
     "user_id":17679,
     "age":33,
     "subscription_plan":"Estándar",
-    "monthly_watch_time_mins":820.5,
+    "monthly_watch_time_mins":818.0,
     "country":"México",
     "favorite_genre":"Drama",
     "last_login_date":"2021-04-21",
@@ -76823,7 +76823,7 @@
     "user_id":17682,
     "age":33,
     "subscription_plan":"Estándar",
-    "monthly_watch_time_mins":834.9,
+    "monthly_watch_time_mins":833.6,
     "country":"Perú",
     "favorite_genre":"Documental",
     "last_login_date":"2018-05-25",
@@ -76932,7 +76932,7 @@
   {
     "user_id":17693,
     "age":41,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":933.8,
     "country":"Uruguay",
     "favorite_genre":"Crimen",
@@ -77023,7 +77023,7 @@
     "user_id":17702,
     "age":28,
     "subscription_plan":"Premium",
-    "monthly_watch_time_mins":1123.6,
+    "monthly_watch_time_mins":1126.6,
     "country":"Perú",
     "favorite_genre":"Documental",
     "last_login_date":"2019-06-04",
@@ -77072,7 +77072,7 @@
   {
     "user_id":17707,
     "age":40,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":701.4,
     "country":"Colombia",
     "favorite_genre":"Drama",
@@ -77332,7 +77332,7 @@
   {
     "user_id":17733,
     "age":34,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":157.1,
     "country":"Uruguay",
     "favorite_genre":"Thriller",
@@ -77394,7 +77394,7 @@
     "age":38,
     "subscription_plan":"Estándar",
     "monthly_watch_time_mins":772.7,
-    "country":"México",
+    "country":"méxico",
     "favorite_genre":"Crimen",
     "last_login_date":"2022-12-08",
     "customer_support_tickets":4
@@ -77442,7 +77442,7 @@
   {
     "user_id":17744,
     "age":25,
-    "subscription_plan":"Básico",
+    "subscription_plan":"básico",
     "monthly_watch_time_mins":0.0,
     "country":"Chile",
     "favorite_genre":"Crimen",
@@ -77502,7 +77502,7 @@
   {
     "user_id":17750,
     "age":52,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":392.5,
     "country":"Uruguay",
     "favorite_genre":"Drama",
@@ -77612,10 +77612,10 @@
   {
     "user_id":17761,
     "age":58,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":474.1,
     "country":"Uruguay",
-    "favorite_genre":"Acción",
+    "favorite_genre":"Accion",
     "last_login_date":"2022-05-17",
     "customer_support_tickets":2
   },
@@ -77642,7 +77642,7 @@
   {
     "user_id":17764,
     "age":32,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":252.3,
     "country":"Chile",
     "favorite_genre":"Thriller",
@@ -77794,7 +77794,7 @@
     "age":44,
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":976.1,
-    "country":"Perú",
+    "country":"Peru",
     "favorite_genre":"Drama",
     "last_login_date":"2021-12-20",
     "customer_support_tickets":0
@@ -77812,7 +77812,7 @@
   {
     "user_id":17781,
     "age":13,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":498.6,
     "country":"Argentina",
     "favorite_genre":"Documental",
@@ -77992,7 +77992,7 @@
   {
     "user_id":17799,
     "age":45,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estándar ",
     "monthly_watch_time_mins":578.3,
     "country":"Colombia",
     "favorite_genre":"Thriller",
@@ -78025,7 +78025,7 @@
     "subscription_plan":"Premium",
     "monthly_watch_time_mins":858.0,
     "country":"Uruguay",
-    "favorite_genre":"Acción",
+    "favorite_genre":"ACCIÓN",
     "last_login_date":"2020-01-07",
     "customer_support_tickets":2
   },
@@ -78035,7 +78035,7 @@
     "subscription_plan":"Estándar",
     "monthly_watch_time_mins":1040.5,
     "country":"Chile",
-    "favorite_genre":"Acción",
+    "favorite_genre":"Crimen",
     "last_login_date":"2021-07-07",
     "customer_support_tickets":0
   },
@@ -78052,7 +78052,7 @@
   {
     "user_id":17805,
     "age":29,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":719.3,
     "country":"Colombia",
     "favorite_genre":"Documental",
@@ -78332,7 +78332,7 @@
   {
     "user_id":17833,
     "age":37,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":824.0,
     "country":"Argentina",
     "favorite_genre":"Documental",
@@ -78362,7 +78362,7 @@
   {
     "user_id":17836,
     "age":16,
-    "subscription_plan":"Básico",
+    "subscription_plan":"básico",
     "monthly_watch_time_mins":700.9,
     "country":"México",
     "favorite_genre":"Acción",
@@ -78455,7 +78455,7 @@
     "subscription_plan":"Estándar",
     "monthly_watch_time_mins":931.8,
     "country":"Perú",
-    "favorite_genre":"Acción",
+    "favorite_genre":"Accion",
     "last_login_date":"2020-11-03",
     "customer_support_tickets":0
   },
@@ -78502,7 +78502,7 @@
   {
     "user_id":17850,
     "age":55,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estándar ",
     "monthly_watch_time_mins":479.7,
     "country":"Argentina",
     "favorite_genre":"Comedia",
@@ -78704,7 +78704,7 @@
     "age":25,
     "subscription_plan":"Estándar",
     "monthly_watch_time_mins":688.5,
-    "country":"México",
+    "country":"Mexico",
     "favorite_genre":"Drama",
     "last_login_date":"2018-10-12",
     "customer_support_tickets":0
@@ -78895,7 +78895,7 @@
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":1118.8,
     "country":"Perú",
-    "favorite_genre":"Drama",
+    "favorite_genre":"Romance",
     "last_login_date":"2018-05-23",
     "customer_support_tickets":0
   },
@@ -78913,7 +78913,7 @@
     "user_id":17891,
     "age":56,
     "subscription_plan":"Estándar",
-    "monthly_watch_time_mins":840.6,
+    "monthly_watch_time_mins":845.1,
     "country":"Chile",
     "favorite_genre":"Drama",
     "last_login_date":"2018-10-16",
@@ -79342,7 +79342,7 @@
   {
     "user_id":17934,
     "age":43,
-    "subscription_plan":"Estándar",
+    "subscription_plan":"Estandar",
     "monthly_watch_time_mins":528.4,
     "country":"Perú",
     "favorite_genre":"Drama",
@@ -79422,7 +79422,7 @@
   {
     "user_id":17942,
     "age":47,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":617.7,
     "country":"Brasil",
     "favorite_genre":"Documental",
@@ -79454,7 +79454,7 @@
     "age":48,
     "subscription_plan":"Estándar",
     "monthly_watch_time_mins":840.8,
-    "country":"Perú",
+    "country":"Peru",
     "favorite_genre":"Acción",
     "last_login_date":"2024-03-21",
     "customer_support_tickets":2
@@ -79522,7 +79522,7 @@
   {
     "user_id":17952,
     "age":54,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":565.7,
     "country":"Argentina",
     "favorite_genre":"Crimen",
@@ -79804,7 +79804,7 @@
     "age":47,
     "subscription_plan":"Básico",
     "monthly_watch_time_mins":0.0,
-    "country":"Perú",
+    "country":"perú",
     "favorite_genre":"Comedia",
     "last_login_date":"2018-08-18",
     "customer_support_tickets":1
@@ -79922,7 +79922,7 @@
   {
     "user_id":17992,
     "age":19,
-    "subscription_plan":"Básico",
+    "subscription_plan":"Basico",
     "monthly_watch_time_mins":195.7,
     "country":"Brasil",
     "favorite_genre":"Documental",
@@ -79983,7 +79983,7 @@
     "user_id":17998,
     "age":43,
     "subscription_plan":"Premium",
-    "monthly_watch_time_mins":1123.6,
+    "monthly_watch_time_mins":1126.6,
     "country":"Perú",
     "favorite_genre":"Comedia",
     "last_login_date":"2023-06-26",

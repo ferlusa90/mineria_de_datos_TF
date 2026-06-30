@@ -15,22 +15,22 @@ st.set_page_config(page_title="Dataset | Streaming Users", page_icon="🧾", lay
 inject_global_styles()
 
 st.sidebar.title("Dataset")
-st.sidebar.caption("Diagnostico, limpieza y trazabilidad")
+st.sidebar.caption("Diagnóstico, limpieza y trazabilidad")
 st.sidebar.markdown("**Secciones**")
 st.sidebar.write("1. Resumen")
-st.sidebar.write("2. Diagnostico")
-st.sidebar.write("3. Codigo")
+st.sidebar.write("2. Diagnóstico")
+st.sidebar.write("3. Código")
 st.sidebar.write("4. Log ETL")
 
 st.markdown(
     """
     <div style="padding: 0.2rem 0 0.8rem;">
         <div style="font-size: 0.85rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: #0f766e;">
-            Modulo 01
+            Módulo 01
         </div>
         <h1 style="margin: 0.1rem 0 0.35rem;">Dataset</h1>
         <p style="margin: 0; max-width: 840px; font-size: 1.02rem; line-height: 1.6; color: #5d6b78;">
-            Aqui se documenta la base original, el diagnostico previo y el resultado final de la limpieza con total trazabilidad.
+            Aquí se documenta la base original, el diagnóstico previo y el resultado final de la limpieza con total trazabilidad.
         </p>
     </div>
     """,
@@ -40,13 +40,13 @@ st.markdown(
 top_a, top_b = st.columns([1.05, 0.95], gap="large")
 with top_a:
     callout(
-        "Base preparada para el an?lisis",
-        "El archivo original se conserva en data/raw/ y el procesado queda en data/processed/. La limpieza se documenta con una l?gica simple: primero se observa el problema, despu?s se aplica una regla y finalmente se controla el resultado.",
+        "Base preparada para el análisis",
+        "El archivo original se conserva en data/raw/ y el procesado queda en data/processed/. La limpieza se documenta con una lógica simple: primero se observa el problema, después se aplica una regla y finalmente se controla el resultado.",
         "Trazabilidad",
     )
 with top_b:
     card(
-        "Lectura rapida",
+        "Lectura rápida",
         "Esta pantalla resume la calidad inicial, la estrategia de limpieza y la evidencia guardada en el log del pipeline.",
         "Resumen",
         soft=True,
@@ -63,19 +63,19 @@ st.write("")
 col_a, col_b = st.columns([0.9, 1.1])
 with col_a:
     callout(
-        "Que representa cada fila",
-        "Cada registro representa un usuario de una plataforma de streaming. Las variables describen edad, plan, pais, g?nero favorito, minutos de visualizaci?n, ultimo login y tickets de soporte.",
-        "Unidad de an?lisis",
+        "Qué representa cada fila",
+        "Cada registro representa un usuario de una plataforma de streaming. Las variables describen edad, plan, país, género favorito, minutos de visualización, último login y tickets de soporte.",
+        "Unidad de análisis",
     )
 with col_b:
     card(
-        "Lectura rapida de calidad",
-        "La base final no tiene nulos, duplicados exactos ni usuarios repetidos. Tambien mantiene las columnas originales y estandariza categor?aas para evitar que variantes como std, standard y estandar se lean como grupos distintos.",
+        "Lectura rápida de calidad",
+        "La base final no tiene nulos, duplicados exactos ni usuarios repetidos. También mantiene las columnas originales y estandariza categorías para evitar que variantes como std, standard y estandar se lean como grupos distintos.",
         "Calidad",
         soft=True,
     )
 
-st.markdown("### Diagnostico antes de limpiar")
+st.markdown("### Diagnóstico antes de limpiar")
 diag_col1, diag_col2 = st.columns([0.82, 1.18], gap="large")
 with diag_col1:
     diagnostico = pd.DataFrame(
@@ -90,13 +90,13 @@ with diag_col1:
     st.dataframe(diagnostico, use_container_width=True, hide_index=True)
 with diag_col2:
     st.info(
-        "El diagnostico resume el estado original de la base antes de cualquier transformaci?n. Sirve como punto de comparacion para medir el impacto de la limpieza."
+        "El diagnóstico resume el estado original de la base antes de cualquier transformación. Sirve como punto de comparación para medir el impacto de la limpieza."
     )
 
-st.markdown("### Codigo y decisiones")
+st.markdown("### Código y decisiones")
 code_col1, code_col2 = st.columns(2, gap="large")
 with code_col1:
-    with st.expander("Codigo usado para revisar duplicados antes de limpiar"):
+    with st.expander("Código usado para revisar duplicados antes de limpiar"):
         st.code(
             """duplicados_exactos = raw[raw.duplicated(keep=False)]
 user_id_repetidos = raw[raw.duplicated("user_id", keep=False)]
@@ -108,13 +108,13 @@ user_id_repetidos.sort_values("user_id").head(20)""",
         )
 
 with code_col2:
-    with st.expander("L?gica usada para elegir un registro cuando un user_id estaba repetido"):
+    with st.expander("Lógica usada para elegir un registro cuando un user_id estaba repetido"):
         st.code(
             """# Criterio de ranking:
-# 1. fecha de login valida y no futura
+# 1. fecha de login válida y no futura
 # 2. consumo mensual plausible
-# 3. consumo m?s cercano al consumo tipico
-# 4. login m?s reciente
+# 3. consumo más cercano al consumo típico
+# 4. login más reciente
 # 5. mayor completitud
 
 orden = ordenar_usuarios_repetidos(df)
@@ -127,7 +127,7 @@ df = (
             language="python",
         )
 
-with st.expander("Codigo usado para tratar valores imposibles e imputar"):
+with st.expander("Código usado para tratar valores imposibles e imputar"):
     st.code(
         """df.loc[(df["age"] < 13) | (df["age"] > 100), "age"] = np.nan
 df.loc[df["monthly_watch_time_mins"] < 0, "monthly_watch_time_mins"] = np.nan
@@ -146,8 +146,8 @@ st.dataframe(df.head(50), use_container_width=True)
 
 st.markdown("### Transformaciones principales")
 callout(
-    "Bitacora del proceso ETL",
-    "El log muestra la decision tomada, la evidencia que la justifica, cuantas filas quedaron, cuantos nulos habia y que porcentaje de la base se retuvo.",
-    "Auditoria",
+    "Bitácora del proceso ETL",
+    "El log muestra la decisión tomada, la evidencia que la justifica, cuántas filas quedaron, cuántos nulos había y qué porcentaje de la base se retuvo.",
+    "Auditoría",
 )
 st.dataframe(log, use_container_width=True)

@@ -15,9 +15,31 @@ df = pd.read_csv(ROOT / "data" / "processed" / "streaming_users_processed.csv")
 variables = ["age", "monthly_watch_time_mins", "customer_support_tickets"]
 PALETTE = ["#0f766e", "#e56b55", "#2f5d7c", "#b5812a", "#6d5a8d", "#4f7f52"]
 
+st.set_page_config(page_title="PCA | Streaming Users", page_icon="🧠", layout="wide")
 inject_global_styles()
 
-st.title("PCA")
+st.sidebar.title("PCA")
+st.sidebar.caption("Reduccion de dimensionalidad")
+st.sidebar.markdown("**Contenido**")
+st.sidebar.write("1. Variables")
+st.sidebar.write("2. Escalamiento")
+st.sidebar.write("3. Varianza explicada")
+st.sidebar.write("4. Proyeccion PC1-PC2")
+
+st.markdown(
+    """
+    <div style="padding: 0.2rem 0 0.9rem;">
+        <div style="font-size: 0.85rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: #0f766e;">
+            Modulo 03
+        </div>
+        <h1 style="margin: 0.1rem 0 0.35rem;">PCA</h1>
+        <p style="margin: 0; max-width: 840px; font-size: 1.02rem; line-height: 1.6; color: #5d6b78;">
+            Esta seccion resume las variables numericas principales y muestra como se distribuyen los usuarios en un espacio reducido.
+        </p>
+    </div>
+    """,
+    unsafe_allow_html=True,
+)
 
 left, right = st.columns([0.95, 1.05])
 with left:
@@ -33,6 +55,12 @@ with right:
         "Las variables tienen unidades distintas: edad en anos, consumo en minutos y soporte en tickets. Con Z-score se evita que los minutos dominen solo por tener numeros mas grandes.",
         "Preparacion",
     )
+
+st.write("")
+metric_col1, metric_col2, metric_col3 = st.columns(3)
+metric_col1.metric("Variables", str(len(variables)))
+metric_col2.metric("Componentes", "3")
+metric_col3.metric("Escala", "Z-score")
 
 X_scaled = StandardScaler().fit_transform(df[variables])
 pca = PCA(n_components=3, random_state=42)

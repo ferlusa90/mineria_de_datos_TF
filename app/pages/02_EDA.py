@@ -11,15 +11,53 @@ ROOT = Path(__file__).resolve().parents[2]
 df = pd.read_csv(ROOT / "data" / "processed" / "streaming_users_processed.csv")
 PALETTE = ["#0f766e", "#e56b55", "#2f5d7c", "#b5812a", "#6d5a8d", "#4f7f52"]
 
+st.set_page_config(page_title="EDA | Streaming Users", page_icon="📈", layout="wide")
 inject_global_styles()
 
-st.title("EDA")
+st.sidebar.title("EDA")
+st.sidebar.caption("Exploracion visual del dataset")
+st.sidebar.markdown("**Visualizaciones**")
+st.sidebar.write("1. Distribucion del consumo")
+st.sidebar.write("2. Usuarios por plan")
+st.sidebar.write("3. Edad vs consumo")
+st.sidebar.write("4. Boxplot por plan")
+st.sidebar.write("5. Edad, consumo y genero")
 
-callout(
-    "Exploracion visual en cinco pasos",
-    "La guia pide exactamente 5 visualizaciones: 2 univariadas, 2 bivariadas y 1 multivariada. La lectura avanza desde una variable hacia relaciones y patrones combinados.",
-    "Analisis exploratorio",
+st.markdown(
+    """
+    <div style="padding: 0.2rem 0 0.9rem;">
+        <div style="font-size: 0.85rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: #0f766e;">
+            Modulo 02
+        </div>
+        <h1 style="margin: 0.1rem 0 0.35rem;">EDA</h1>
+        <p style="margin: 0; max-width: 860px; font-size: 1.02rem; line-height: 1.6; color: #5d6b78;">
+            La exploracion visual resume el comportamiento de los usuarios con las cinco graficas definidas para el proyecto.
+        </p>
+    </div>
+    """,
+    unsafe_allow_html=True,
 )
+
+top_l, top_r = st.columns([1.02, 0.98], gap="large")
+with top_l:
+    callout(
+        "Exploracion visual en cinco pasos",
+        "La guia pide exactamente 5 visualizaciones: 2 univariadas, 2 bivariadas y 1 multivariada. La lectura avanza desde una variable hacia relaciones y patrones combinados.",
+        "Analisis exploratorio",
+    )
+with top_r:
+    card(
+        "Resumen visual",
+        "La secuencia prioriza distribuciones, comparaciones y cruces multivariados para interpretar mejor consumo, edad, plan y genero favorito.",
+        "Lectura",
+        soft=True,
+    )
+
+st.write("")
+metric1, metric2, metric3 = st.columns(3)
+metric1.metric("Grafica 1", "Consumo")
+metric2.metric("Grafica 3", "Edad vs consumo")
+metric3.metric("Grafica 5", "Multivariado")
 
 fig1 = px.histogram(
     df,

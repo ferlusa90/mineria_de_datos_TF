@@ -93,6 +93,32 @@ with diag_col2:
         "El diagnóstico resume el estado original de la base antes de cualquier transformación. Sirve como punto de comparación para medir el impacto de la limpieza."
     )
 
+st.markdown("### Criterios usados en la limpieza")
+left, right = st.columns(2, gap="large")
+with left:
+    card(
+        "Duplicados exactos",
+        "Se eliminaron porque no aportaban información nueva: eran repeticiones línea por línea de un registro ya existente. Eso evita inflar conteos y repetir evidencia idéntica.",
+        "Regla 1",
+        soft=True,
+    )
+with right:
+    card(
+        "user_id repetidos",
+        "No se imputan: un identificador no es un valor faltante, sino una clave. Se resolvieron con ranking de calidad para conservar una sola fila confiable por usuario. Dicho simple: preferi quedarme con la version mas confiable de cada usuario antes que inventar o duplicar informacion.",
+        "Regla 2",
+        soft=True,
+    )
+
+st.markdown("### ¿Fue significativo?")
+sig1, sig2, sig3 = st.columns(3)
+sig1.metric("Nulos iniciales", "753")
+sig2.metric("Duplicados exactos", "126")
+sig3.metric("user_id repetidos", "160")
+st.caption(
+    "Los nulos representaban 1.15% de las celdas; los duplicados exactos 1.54% de las filas; y los user_id repetidos 1.96% de la base. No era un volumen masivo, pero sí suficiente para sesgar conteos y perfiles."
+)
+
 st.markdown("### Código y decisiones")
 code_col1, code_col2 = st.columns(2, gap="large")
 with code_col1:
@@ -126,6 +152,11 @@ df = (
 )""",
             language="python",
         )
+
+st.markdown("### Mecanismo de faltantes")
+st.info(
+    "Los faltantes se interpretan como un escenario más cercano a MAR que a MCAR: la imputación se condiciona por variables observadas como plan y país, en lugar de asumir ausencia completamente aleatoria."
+)
 
 with st.expander("Código usado para tratar valores imposibles e imputar"):
     st.code(

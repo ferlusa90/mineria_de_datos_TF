@@ -29,7 +29,9 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
-st.success("La base final queda sin nulos, sin duplicados y con categorías consistentes, lista para análisis y comunicación.")
+st.success(
+    "La base final queda sin nulos, sin duplicados y con categorías consistentes, lista para análisis y comunicación."
+)
 
 col1, col2 = st.columns(2)
 with col1:
@@ -77,3 +79,8 @@ with right:
     st.info(
         "La conclusión metodológica es la más importante: en minería de datos no conviene interpretar sin antes revisar calidad, justificar transformaciones y validar el resultado."
     )
+
+st.markdown("### Lectura metodológica")
+st.write(
+    "En la imputación, el mecanismo de faltantes se interpreta mejor como MAR que como MCAR, porque se condiciona por variables observadas como plan y país. Eso hace que la decisión sea más defendible que una imputación ciega o una eliminación indiscriminada."
+)

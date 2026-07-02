@@ -34,7 +34,7 @@ El dataset final conserva las mismas columnas originales.
 `data/processed/`: dataset final usado en el analisis.  
 `notebooks/`: desarrollo tecnico por etapa.  
 `app/`: aplicacion Streamlit.  
-`reports/`: informe final en PDF.  
+`reports/`: informe final en Word.  
 `logs/`: registro ETL con trazabilidad del proceso.  
 `requirements.txt`: librerias necesarias para ejecutar el proyecto.
 
@@ -84,7 +84,7 @@ tickets_umbral_sospechoso = tickets_q3 + 1.5 * tickets_iqr
 cap_tickets = df["customer_support_tickets"].quantile(0.99)
 ```
 
-Tambien se estandarizaron categorias equivalentes, se marcaron valores imposibles como nulos, se imputaron faltantes con medianas/modas y se aplico winsorizacion superior para reducir el efecto de extremos. La limpieza de edad uso limites de plausibilidad explicitos (13 a 100) y la de tickets se apoyo en IQR y percentiles. Los umbrales no se eligieron al tanteo: en tickets se uso una regla robusta basada en IQR para marcar sospechosos y luego un cap por percentil 99 sobre la base ya depurada para limitar extremos; en edad se usaron limites de plausibilidad de 13 a 100 anos, apoyados por la distribucion observada y por valores claramente imposibles en la base original.
+Tambien se estandarizaron categorias equivalentes, se marcaron valores imposibles como nulos, se imputaron faltantes con medianas/modas y se aplico winsorizacion superior para reducir el efecto de extremos. La limpieza de edad uso limites de plausibilidad explicitos (13 a 100) y la de tickets se apoyo en IQR y percentiles. Los umbrales no se eligieron al tanteo: en tickets primero se marco lo sospechoso con una regla robusta basada en IQR y despues se aplico un cap por percentil 99 sobre la base ya depurada para no dejar que unos pocos valores dominaran el analisis; en edad se usaron limites de plausibilidad de 13 a 100 anos, apoyados por la distribucion observada y por valores claramente imposibles en la base original. Los faltantes se interpretaron como un escenario mas cercano a MAR que a MCAR, porque se imputaron condicionandolos a variables observadas como plan y pais, en vez de asumir ausencia completamente aleatoria. En otras palabras, no se limpio por costumbre: cada paso intento cuidar tanto la calidad como la interpretacion.
 
 Resultado final:
 
@@ -139,4 +139,4 @@ El consumo mensual, el soporte y las preferencias de genero permiten describir p
 PCA ayuda a resumir variables numericas, pero no reemplaza la interpretacion del EDA.  
 Las conclusiones son descriptivas y quedan limitadas por las variables disponibles.
 
-La conclusion metodologica es la mas importante: en mineria de datos no conviene interpretar sin antes revisar calidad, justificar transformaciones y validar el resultado. En este trabajo, cada umbral queda respaldado por codigo, estadistica descriptiva o una regla de negocio declarada.
+Si tuviera que resumir el criterio de trabajo en una sola idea, diria que no se borro ni se imputo nada "porque si": primero se miro el problema, despues se explico la regla y recien ahi se limpio. En este trabajo, cada umbral queda respaldado por codigo, estadistica descriptiva o una regla de negocio declarada.

@@ -15,7 +15,7 @@ st.set_page_config(page_title="Dataset | Streaming Users", page_icon="🧾", lay
 inject_global_styles()
 
 st.sidebar.title("Dataset")
-st.sidebar.caption("Diagnóstico, limpieza y trazabilidad")
+st.sidebar.caption("Diagnóstico y limpieza")
 st.sidebar.markdown("**Secciones**")
 st.sidebar.write("1. Resumen")
 st.sidebar.write("2. Diagnóstico")
@@ -30,7 +30,7 @@ st.markdown(
         </div>
         <h1 style="margin: 0.1rem 0 0.35rem;">Dataset</h1>
         <p style="margin: 0; max-width: 840px; font-size: 1.02rem; line-height: 1.6; color: #5d6b78;">
-            Aquí se documenta la base original, el diagnóstico previo y el resultado final de la limpieza con total trazabilidad.
+            Acá muestro cómo venía la base original, qué problemas tenía y cómo quedó después de limpiarla.
         </p>
     </div>
     """,
@@ -41,13 +41,13 @@ top_a, top_b = st.columns([1.05, 0.95], gap="large")
 with top_a:
     callout(
         "Base preparada para el análisis",
-        "El archivo original se conserva en data/raw/ y el procesado queda en data/processed/. La limpieza se documenta con una lógica simple: primero se observa el problema, después se aplica una regla y finalmente se controla el resultado.",
-        "Trazabilidad",
+        "El archivo original queda guardado en data/raw/ y la versión limpia queda en data/processed/. La lógica fue simple: primero mirar el problema, después aplicar una regla y al final revisar si el resultado quedó bien.",
+        "Control",
     )
 with top_b:
     card(
         "Lectura rápida",
-        "Esta pantalla resume la calidad inicial, la estrategia de limpieza y la evidencia guardada en el log del pipeline.",
+        "Esta pantalla resume la calidad inicial, las reglas de limpieza y el impacto que fue quedando guardado en el log.",
         "Resumen",
         soft=True,
     )
@@ -70,7 +70,7 @@ with col_a:
 with col_b:
     card(
         "Lectura rápida de calidad",
-        "La base final no tiene nulos, duplicados exactos ni usuarios repetidos. También mantiene las columnas originales y estandariza categorías para evitar que variantes como std, standard y estandar se lean como grupos distintos.",
+        "La base final no tiene nulos, duplicados exactos ni usuarios repetidos. También mantiene las columnas originales y une categorías que eran lo mismo, por ejemplo std, standard y estandar.",
         "Calidad",
         soft=True,
     )
@@ -90,7 +90,7 @@ with diag_col1:
     st.dataframe(diagnostico, use_container_width=True, hide_index=True)
 with diag_col2:
     st.info(
-        "El diagnóstico resume el estado original de la base antes de cualquier transformación. Sirve como punto de comparación para medir el impacto de la limpieza."
+        "Este diagnóstico muestra cómo estaba la base antes de tocarla. Lo uso como punto de comparación para ver qué cambió con la limpieza."
     )
 
 st.markdown("### Criterios usados en la limpieza")
@@ -98,14 +98,14 @@ left, right = st.columns(2, gap="large")
 with left:
     card(
         "Duplicados exactos",
-        "Se eliminaron porque no aportaban información nueva: eran repeticiones línea por línea de un registro ya existente. Eso evita inflar conteos y repetir evidencia idéntica.",
+        "Los eliminé porque eran la misma fila repetida. Si los dejaba, algunos conteos iban a quedar inflados sin agregar información real.",
         "Regla 1",
         soft=True,
     )
 with right:
     card(
         "user_id repetidos",
-        "No se imputan: un identificador no es un valor faltante, sino una clave. Se resolvieron con ranking de calidad para conservar una sola fila confiable por usuario. Dicho simple: preferi quedarme con la version mas confiable de cada usuario antes que inventar o duplicar informacion.",
+        "No los imputé porque un identificador no es un dato faltante, es una clave. Usé un ranking de calidad para quedarme con una sola fila por usuario. Dicho simple: preferí conservar la versión más confiable antes que inventar o duplicar información.",
         "Regla 2",
         soft=True,
     )
@@ -116,7 +116,7 @@ sig1.metric("Nulos iniciales", "753")
 sig2.metric("Duplicados exactos", "126")
 sig3.metric("user_id repetidos", "160")
 st.caption(
-    "Los nulos representaban 1.15% de las celdas; los duplicados exactos 1.54% de las filas; y los user_id repetidos 1.96% de la base. No era un volumen masivo, pero sí suficiente para sesgar conteos y perfiles."
+    "Los nulos representaban 1.15% de las celdas; los duplicados exactos 1.54% de las filas; y los user_id repetidos 1.96% de la base. No era un volumen enorme, pero alcanzaba para mover conteos y perfiles."
 )
 
 st.markdown("### Código y decisiones")
@@ -155,7 +155,7 @@ df = (
 
 st.markdown("### Mecanismo de faltantes")
 st.info(
-    "Los faltantes se interpretan como un escenario más cercano a MAR que a MCAR: la imputación se condiciona por variables observadas como plan y país, en lugar de asumir ausencia completamente aleatoria."
+    "Para los faltantes no asumí que todo faltaba por azar puro. Los traté como un caso más cercano a MAR, usando variables observadas como plan y país para imputar con más criterio."
 )
 
 with st.expander("Código usado para tratar valores imposibles e imputar"):
@@ -178,7 +178,7 @@ st.dataframe(df.head(50), use_container_width=True)
 st.markdown("### Transformaciones principales")
 callout(
     "Bitácora del proceso ETL",
-    "El log muestra la decisión tomada, la evidencia que la justifica, cuántas filas quedaron, cuántos nulos había y qué porcentaje de la base se retuvo.",
-    "Auditoría",
+    "El log deja anotado qué decisión se tomó, qué evidencia había antes y cómo fue cambiando la base después de cada paso.",
+    "Registro",
 )
 st.dataframe(log, use_container_width=True)

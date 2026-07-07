@@ -22,7 +22,7 @@ st.markdown(
         </div>
         <h1 style="margin: 0.1rem 0 0.35rem;">Conclusiones</h1>
         <p style="margin: 0; max-width: 840px; font-size: 1.02rem; line-height: 1.6; color: #5d6b78;">
-            Esta pantalla cierra el recorrido resumiendo hallazgos, alcance y siguientes pasos del proyecto.
+            Esta pantalla resume qué dejó la limpieza, qué se vio en el análisis y qué cosas todavía faltaría mirar.
         </p>
     </div>
     """,
@@ -30,7 +30,7 @@ st.markdown(
 )
 
 st.success(
-    "La base final queda sin nulos, sin duplicados y con categorías consistentes, lista para análisis y comunicación."
+    "Después de la limpieza, la base queda sin nulos, sin duplicados y con categorías consistentes."
 )
 
 col1, col2 = st.columns(2)
@@ -44,8 +44,8 @@ with col1:
 with col2:
     card(
         "Interpretación general",
-        "El resultado más importante no es un número aislado, sino el proceso: cada limpieza se apoya en evidencia previa, código reproducible y un control posterior.",
-        "Lectura",
+        "Para mí, lo más importante no es solo el número final. Lo importante es que cada limpieza tenga un motivo, una regla y un control después.",
+        "Criterio",
         soft=True,
     )
 
@@ -71,16 +71,16 @@ left, right = st.columns([1.05, 0.95], gap="large")
 with left:
     card(
         "Cierre",
-        "Después de preparar los datos, el consumo mensual aparece como una variable central para entender perfiles. La limpieza deja una base sin nulos, sin duplicados y con categorías consistentes, lista para EDA y PCA.",
+        "Después de preparar los datos, el consumo mensual queda como una variable clave para leer perfiles. Sin la limpieza previa, esa lectura podía mezclarse con nulos, duplicados o valores extremos.",
         "Síntesis",
         soft=True,
     )
 with right:
     st.info(
-        "La conclusión metodológica es la más importante: en minería de datos no conviene interpretar sin antes revisar calidad, justificar transformaciones y validar el resultado."
+        "La idea principal que me queda es esta: antes de interpretar, hay que revisar la calidad de los datos y dejar claro por qué se limpió cada cosa."
     )
 
-st.markdown("### Lectura metodológica")
+st.markdown("### Aclaración sobre faltantes")
 st.write(
-    "En la imputación, el mecanismo de faltantes se interpreta mejor como MAR que como MCAR, porque se condiciona por variables observadas como plan y país. Eso hace que la decisión sea más defendible que una imputación ciega o una eliminación indiscriminada."
+    "En la imputación traté los faltantes como un caso más cercano a MAR que a MCAR. No asumí que faltaban por puro azar: usé variables observadas como plan y país para completar con un criterio más razonable."
 )

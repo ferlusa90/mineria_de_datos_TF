@@ -109,5 +109,5 @@ fig2.update_layout(template="plotly_white")
 with st.container(border=True):
     st.plotly_chart(fig2, use_container_width=True)
     st.caption(
-        "La proyección permite observar si los planes tienden a agruparse en el espacio numérico. Si los colores se mezclan, edad, consumo y soporte no separan de forma contundente los planes."
+        "La proyección muestra si los planes tienden a juntarse en el espacio numérico. Si los colores se mezclan, edad, consumo y soporte no separan tan claramente a los planes."
     )

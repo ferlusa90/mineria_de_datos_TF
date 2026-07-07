@@ -34,8 +34,7 @@ st.markdown(
         </div>
         <h1 style="margin: 0.1rem 0 0.45rem;">Usuarios de Streaming</h1>
         <p style="margin: 0; max-width: 780px; font-size: 1.05rem; line-height: 1.6; color: #5d6b78;">
-            Una aplicación interactiva para analizar usuarios de una plataforma de streaming con foco en calidad de datos,
-            exploración visual, reducción de dimensionalidad y comunicación del proceso.
+            Una aplicación para revisar usuarios de streaming, mostrar cómo se limpió la base y resumir los principales resultados del análisis.
         </p>
     </div>
     """,
@@ -52,12 +51,12 @@ with hero_col:
 with info_col:
     callout(
         "Lectura del proyecto",
-        "Primero se diagnostica la calidad de la base, luego se limpia con reglas explícitas y al final se interpreta el comportamiento de los usuarios.",
+        "Primero reviso la calidad de la base, después limpio con reglas concretas y al final interpreto el comportamiento de los usuarios.",
         "Flujo de trabajo",
     )
     st.write("")
     st.info(
-        "La app mantiene el contenido técnico original, pero reorganiza la presentación para una lectura más clara y profesional."
+        "La app mantiene el contenido técnico, pero lo muestra en un orden más fácil de seguir."
     )
 
 st.write("")
@@ -65,7 +64,7 @@ st.write("")
 metric_col1, metric_col2, metric_col3 = st.columns(3)
 metric_col1.metric("Etapas principales", "4")
 metric_col2.metric("Variables centrales", "3")
-metric_col3.metric("Enfoque", "Trazable")
+metric_col3.metric("Enfoque", "Controlado")
 
 st.write("")
 
@@ -99,7 +98,7 @@ with tabs[1]:
     with c2:
         card(
             "Vista de trabajo",
-            "Se prioriza una lectura clara de diagnóstico, limpieza y visualización para que el proceso sea auditable y fácil de explicar.",
+            "La idea es que se vea rápido qué problema había, qué regla se aplicó y qué cambió después.",
             "Visualización",
             soft=True,
         )
@@ -133,13 +132,13 @@ col_a, col_b = st.columns([1.05, 0.95], gap="large")
 with col_a:
     card(
         "Resumen del proyecto",
-        "La base tenía duplicados, user_id repetidos, categorías escritas de distintas formas, fechas inválidas, valores extremos y datos faltantes. El trabajo sigue una lógica de analista junior: diagnosticar, justificar, limpiar y validar.",
+        "La base tenía duplicados, user_id repetidos, categorías escritas de distintas formas, fechas inválidas, valores extremos y datos faltantes. El trabajo sigue una lógica simple: revisar, explicar la regla, limpiar y controlar.",
         "Visión general",
     )
 with col_b:
     card(
         "Lectura sugerida",
-        "Primero Dataset, luego EDA, después PCA y finalmente Conclusiones. Ese orden acompaña el flujo natural de un proyecto de minería de datos.",
+        "Primero Dataset, luego EDA, después PCA y finalmente Conclusiones. Ese orden ayuda a no interpretar resultados antes de revisar la calidad de la base.",
         "Recorrido",
         soft=True,
     )

@@ -1,9 +1,9 @@
 # Proyecto Integrador - Mineria de Datos 1
 
 ## Informacion general
-Este proyecto analiza usuarios de una plataforma de streaming a partir de un dataset con problemas reales de calidad. El trabajo sigue un proceso completo: inspeccion inicial, limpieza documentada, analisis exploratorio, PCA, comunicacion en Streamlit e informe final.
+En este proyecto revise usuarios de una plataforma de streaming usando un dataset con problemas de calidad. El recorrido va desde la inspeccion inicial hasta la limpieza, el EDA, PCA, Streamlit y el informe final.
 
-La idea central es trabajar como un analista de datos junior: antes de limpiar se revisa la evidencia, despues se aplica una regla explicita y finalmente se controla el impacto de la decision.
+La idea fue trabajar como lo haria un analista de datos junior: primero miro que problema hay, despues aplico una regla concreta y al final controlo si el cambio tuvo sentido.
 
 Repositorio GitHub: [ferlusa90/mineria_de_datos_TF](https://github.com/ferlusa90/mineria_de_datos_TF)  
 Aplicacion Streamlit: [mineriadedatostf-a4hvlnmrwzjjvazcprcx7q.streamlit.app](https://mineriadedatostf-a4hvlnmrwzjjvazcprcx7q.streamlit.app/)
@@ -19,7 +19,7 @@ Mostrar el codigo usado para detectar problemas antes de corregirlos.
 Analizar patrones de consumo, soporte y preferencias de contenido.  
 Comparar perfiles por plan, pais, edad y genero favorito.  
 Aplicar escalamiento y PCA sobre variables numericas.  
-Comunicar resultados de forma clara, reproducible y defendible.
+Dejar explicados los resultados de una forma clara y reproducible.
 
 ## Dataset
 El archivo original es `streaming_users_dirty.json`.  
@@ -35,13 +35,13 @@ El dataset final conserva las mismas columnas originales.
 `notebooks/`: desarrollo tecnico por etapa.  
 `app/`: aplicacion Streamlit.  
 `reports/`: informe final en Word.  
-`logs/`: registro ETL con trazabilidad del proceso.  
+`logs/`: registro ETL con pasos, evidencia e impacto de la limpieza.
 `requirements.txt`: librerias necesarias para ejecutar el proyecto.
 
 ## Preparacion y calidad de datos
 El notebook principal de limpieza es `notebooks/02_calidad_y_limpieza.ipynb`.
 
-La limpieza se documento con una secuencia de trabajo:
+Deje la limpieza ordenada con esta secuencia de trabajo:
 
 1. Diagnosticar el problema.
 2. Mostrar codigo de inspeccion.
@@ -60,7 +60,7 @@ print(raw.duplicated("user_id").sum())
 user_id_repetidos.sort_values("user_id").head(20)
 ```
 
-Luego se eliminan duplicados exactos porque no aportan informacion nueva. Para `user_id` repetidos se usa un criterio de calidad, no una eliminacion al azar:
+Luego se eliminan duplicados exactos porque no agregan informacion nueva. Para `user_id` repetidos no borre al azar: use un criterio de calidad para quedarme con una sola fila por usuario.
 
 1. Fecha de login valida y no futura.
 2. Consumo mensual plausible.
@@ -84,7 +84,7 @@ tickets_umbral_sospechoso = tickets_q3 + 1.5 * tickets_iqr
 cap_tickets = df["customer_support_tickets"].quantile(0.99)
 ```
 
-Tambien se estandarizaron categorias equivalentes, se marcaron valores imposibles como nulos, se imputaron faltantes con medianas/modas y se aplico winsorizacion superior para reducir el efecto de extremos. La limpieza de edad uso limites de plausibilidad explicitos (13 a 100) y la de tickets se apoyo en IQR y percentiles. Los umbrales no se eligieron al tanteo: en tickets primero se marco lo sospechoso con una regla robusta basada en IQR y despues se aplico un cap por percentil 99 sobre la base ya depurada para no dejar que unos pocos valores dominaran el analisis; en edad se usaron limites de plausibilidad de 13 a 100 anos, apoyados por la distribucion observada y por valores claramente imposibles en la base original. Los faltantes se interpretaron como un escenario mas cercano a MAR que a MCAR, porque se imputaron condicionandolos a variables observadas como plan y pais, en vez de asumir ausencia completamente aleatoria. En otras palabras, no se limpio por costumbre: cada paso intento cuidar tanto la calidad como la interpretacion.
+Tambien unifique categorias que significaban lo mismo, pase valores imposibles a nulos, impute faltantes con medianas/modas y limite extremos superiores para que no pesaran demasiado. No use umbrales al tanteo: en tickets primero mire el IQR para detectar valores sospechosos y despues use el percentil 99 sobre la base ya depurada; en edad use el rango 13 a 100 porque fuera de eso habia valores poco creibles para este caso. Los faltantes los trate mas cerca de MAR que de MCAR, porque use datos observados como plan y pais en vez de asumir que faltaban por puro azar.
 
 Resultado final:
 
@@ -98,8 +98,8 @@ Resultado final:
 ## Resumen del analisis exploratorio
 El consumo mensual muestra una concentracion central y una cola de usuarios intensivos.  
 La edad por si sola no alcanza para explicar completamente el consumo.  
-El analisis por plan y soporte permite observar perfiles de uso con distinta friccion operativa.  
-El cruce entre edad, consumo y genero favorito ayuda a interpretar preferencias de contenido.  
+El analisis por plan y soporte muestra diferencias de uso y posibles puntos de friccion.
+El cruce entre edad, consumo y genero favorito ayuda a leer mejor los perfiles de usuarios.
 Las visualizaciones tienen interpretaciones asociadas en `notebooks/03_eda.ipynb` y en Streamlit.
 
 ## Reduccion de dimensionalidad
@@ -115,7 +115,7 @@ Archivo principal: `app/Home.py`.
 Repositorio GitHub: [ferlusa90/mineria_de_datos_TF](https://github.com/ferlusa90/mineria_de_datos_TF)  
 Enlace Streamlit Cloud: [mineriadedatostf-a4hvlnmrwzjjvazcprcx7q.streamlit.app](https://mineriadedatostf-a4hvlnmrwzjjvazcprcx7q.streamlit.app/)
 
-La pagina Dataset de Streamlit incluye diagnostico inicial, logica de limpieza y fragmentos de codigo para que el proceso sea auditable.
+La pagina Dataset de Streamlit incluye diagnostico inicial, logica de limpieza y fragmentos de codigo para que se entienda que se hizo y por que.
 
 ## Como ejecutar localmente
 Instalar dependencias:
@@ -134,9 +134,9 @@ Revisar notebooks: abrir la carpeta `notebooks/` y ejecutar los archivos en orde
 
 ## Conclusiones
 La limpieza fue necesaria para evitar decisiones basadas en ruido.  
-La base final queda trazable, sin nulos, sin duplicados y con estructura original preservada.  
-El consumo mensual, el soporte y las preferencias de genero permiten describir perfiles de usuario.  
+La base final queda sin nulos, sin duplicados y con la estructura original preservada.
+El consumo mensual, el soporte y las preferencias de genero ayudan a describir perfiles de usuario.
 PCA ayuda a resumir variables numericas, pero no reemplaza la interpretacion del EDA.  
 Las conclusiones son descriptivas y quedan limitadas por las variables disponibles.
 
-Si tuviera que resumir el criterio de trabajo en una sola idea, diria que no se borro ni se imputo nada "porque si": primero se miro el problema, despues se explico la regla y recien ahi se limpio. En este trabajo, cada umbral queda respaldado por codigo, estadistica descriptiva o una regla de negocio declarada.
+Si tuviera que resumir el criterio de trabajo en una sola idea, diria que no borre ni impute nada "porque si": primero mire el problema, despues escribi la regla y recien ahi limpie. Cada umbral queda apoyado en codigo, estadistica descriptiva o una regla explicada.

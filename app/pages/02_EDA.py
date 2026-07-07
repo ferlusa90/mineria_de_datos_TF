@@ -31,7 +31,7 @@ st.markdown(
         </div>
         <h1 style="margin: 0.1rem 0 0.35rem;">EDA</h1>
         <p style="margin: 0; max-width: 860px; font-size: 1.02rem; line-height: 1.6; color: #5d6b78;">
-            La exploración visual resume el comportamiento de los usuarios con las cinco gráficas definidas para el proyecto.
+            En esta parte dejo las cinco gráficas del EDA y la lectura principal de cada una.
         </p>
     </div>
     """,
@@ -42,13 +42,13 @@ top_l, top_r = st.columns([1.02, 0.98], gap="large")
 with top_l:
     callout(
         "Exploración visual en cinco pasos",
-        "La guía pide exactamente 5 visualizaciones: 2 univariadas, 2 bivariadas y 1 multivariada. La lectura avanza desde una variable hacia relaciones y patrones combinados.",
+        "La guía pide exactamente 5 visualizaciones: 2 univariadas, 2 bivariadas y 1 multivariada. Arranco mirando variables sueltas y después paso a cruces entre variables.",
         "Análisis exploratorio",
     )
 with top_r:
     card(
         "Resumen visual",
-        "La secuencia prioriza distribuciones, comparaciones y cruces multivariados para interpretar mejor consumo, edad, plan y género favorito.",
+        "El orden elegido ayuda a leer consumo, edad, plan y género favorito sin mezclar todo desde el principio.",
         "Lectura",
         soft=True,
     )
@@ -84,7 +84,7 @@ fig2.update_layout(template="plotly_white", showlegend=False)
 with st.container(border=True):
     st.plotly_chart(fig2, use_container_width=True)
     st.caption(
-        "Este gráfico muestra el peso de cada plan dentro de la base. Sirve para contextualizar el resto del análisis cuando los grupos no tienen el mismo tamaño."
+        "Este gráfico muestra cuánto pesa cada plan dentro de la base. Lo tengo en cuenta porque comparar grupos muy distintos en tamaño puede cambiar la lectura."
     )
 
 fig3 = px.scatter(
@@ -99,7 +99,7 @@ fig3.update_layout(template="plotly_white")
 with st.container(border=True):
     st.plotly_chart(fig3, use_container_width=True)
     st.caption(
-        "Este cruce permite revisar si la edad explica por sí sola el consumo. La dispersión muestra que aporta contexto, pero no alcanza para describir completamente el comportamiento."
+        "Este cruce me sirve para revisar si la edad explica el consumo por sí sola. La nube queda bastante dispersa, así que la edad ayuda, pero no alcanza para contar todo el comportamiento."
     )
 
 fig4 = px.box(
@@ -114,7 +114,7 @@ fig4.update_layout(template="plotly_white", showlegend=False)
 with st.container(border=True):
     st.plotly_chart(fig4, use_container_width=True)
     st.caption(
-        "El boxplot compara medianas y dispersión de consumo entre planes. Ayuda a ver si algún plan concentra usuarios más intensivos o si los comportamientos son similares."
+        "El boxplot compara medianas y dispersión entre planes. Acá busco si algún plan concentra usuarios más intensivos o si los consumos son parecidos."
     )
 
 fig5 = px.scatter(
@@ -130,5 +130,5 @@ fig5.update_layout(template="plotly_white")
 with st.container(border=True):
     st.plotly_chart(fig5, use_container_width=True)
     st.caption(
-        "Esta visualización suma una tercera variable: el género favorito. Permite observar si los patrones de consumo por edad cambian según la preferencia de contenido."
+        "Esta visualización suma una tercera variable: el género favorito. La uso para ver si el consumo por edad cambia cuando separo por preferencia de contenido."
     )
